@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishal Midya/"
+title                    : "Vishal Midya/Penn State University"
 title_separator          : "-"
 name                     : &name "Vishal Midya"
 description              : &description "PhD Student in Biostatistics at Penn State College of Medicine"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Vishal Midya"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student in Biostatistics" 
+  location         : "Hershey, PA"
+  employer         : "Penn State College of Medicine"
+  googlescholar    : "https://scholar.google.co.in/citations?user=VPKh0hMAAAAJ&hl=en"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/vishalmidya/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
