@@ -21,3 +21,4 @@ I am very enthusiastic about interdisciplinary research. Some of my major collab
 4. Screening and assessment tool for dyslexia in regional Indian languages ([DALI](http://14.139.62.22/DALI/index.php))
 
 
+Outside studies, I enjoy volleyball, cooking and [adda](https://en.wikipedia.org/wiki/Adda_(South_Asian))
