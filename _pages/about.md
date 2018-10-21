@@ -12,5 +12,5 @@ I am 3<sup>rd</sup> year PhD student in _Division of Biostatistics and Bioinform
 
 I am very enthusiastic about interdisciplinary research. Some of my major collaborations include
 
-1. Tobacco addiction research and its impact on tobacco regulatory sciences.
+1. Tobacco addiction research and its impact on tobacco regulatory sciences ([Penn State Tobacco Center of Regulatory Science](https://sites.psu.edu/tcors/)).
 2. 
