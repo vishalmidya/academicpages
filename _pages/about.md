@@ -10,7 +10,12 @@ redirect_from:
 
 I am 3<sup>rd</sup> year PhD student in _Division of Biostatistics and Bioinformatics_ at [Penn State College of Medicine](https://med.psu.edu/). As my thesis research, I am trying to develop a coherent framework to study the underlying issues of using Bayes Factor for testing of hypotheses and using these insights for Bayesian model selection in standard (linear) and non-standard (Cox PH survival) regressions. Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in Statistics from [St. Xavier's College, Kolkata, India](http://www.sxccal.edu/) and _M.Stat. (Masters of Statistics)_ from [Indian Statistical Institute](https://www.isical.ac.in/). 
 
-I am very enthusiastic about interdisciplinary research. Some of my major collaborations include
+I am very enthusiastic about interdisciplinary research. Some of my major collaborative projects include
 
 1. Tobacco addiction research and its impact on tobacco regulatory sciences ([Penn State Tobacco Center of Regulatory Science](https://sites.psu.edu/tcors/)).
-2. 
+
+2. Studying rate of decline of pulmonary functions and prediction of non-ambulatory age of children with Duchenne Muscular Dystrophy using Machine Learning Techniques (with [Pritish Mondal, M.D.](https://childrens.pennstatehealth.org/display-provider/-/provider/1923/pritish-mondal-md))
+
+3. Cross cultural pattern on emotion perception in music and how musical features (like rhythm) affects it (with [Nandini Chatterjee Singh(http://nandinisingh.wixsite.com/labweb)])
+
+4. 
