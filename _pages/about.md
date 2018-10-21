@@ -14,7 +14,7 @@ I am very enthusiastic about interdisciplinary research. Some of my major collab
 
 1. Tobacco addiction research and its impact on tobacco regulatory sciences ([Penn State Tobacco Center of Regulatory Science](https://sites.psu.edu/tcors/)).
 
-2. Application of Machine Learning techniques in predicting non-ambulatory age of children with Duchenne Muscular Dystrophy (with [Pritish Mondal, M.D.](https://childrens.pennstatehealth.org/display-provider/-/provider/1923/pritish-mondal-md))
+2. Application of Machine Learning techniques in predicting non-ambulatory age of children with Duchenne Muscular Dystrophy (with [Pritish Mondal](https://childrens.pennstatehealth.org/display-provider/-/provider/1923/pritish-mondal-md))
 
 3. Cross cultural pattern of emotion perception in music and how musical features (like rhythm) affects it (with [Nandini Chatterjee Singh](http://nandinisingh.wixsite.com/labweb))
 
