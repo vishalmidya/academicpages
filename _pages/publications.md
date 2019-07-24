@@ -15,3 +15,5 @@ redirect_from:
 
 ## Humba
 
+[CV](https://drive.google.com/file/d/1Nx2ZeX6519irIyahuJdtywGXRxZnE_Kg/view?usp=sharing)
+
