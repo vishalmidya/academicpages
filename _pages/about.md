@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am 4<sup>th</sup> year PhD student in _Division of Biostatistics and Bioinformatics_ at [Penn State College of Medicine](https://med.psu.edu/). As my thesis research, I am trying to develop a coherent framework to study the underlying issues of using Bayes Factor for testing of hypotheses and using these insights for Bayesian model selection in standard (linear) and non-standard (Cox PH survival) regressions. Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in Statistics from [St. Xavier's College, Kolkata, India](http://www.sxccal.edu/) and _M.Stat. (Masters of Statistics)_ from [Indian Statistical Institute](https://www.isical.ac.in/).
+I am 4<sup>th</sup> year PhD student in _Division of Biostatistics and Bioinformatics_ at [Penn State College of Medicine](https://med.psu.edu/). As my thesis research, I am developing a coherent framework to study the trials and tribulations
+ of using Bayes Factor and BIC (Bayesian Information Criterion) in testing of hypotheses and model selection. This research has lead me to advocate for Interval Null Hypotheses and adopt Region of Practical Equivalence (ROPE) procedure. 
+ 
+Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in Statistics from [St. Xavier's College, Kolkata, India](http://www.sxccal.edu/) and _M.Stat. (Masters of Statistics)_ from [Indian Statistical Institute](https://www.isical.ac.in/).
 
 I actively participate in multiple interdisciplinary research. Some of my major collaborative projects include
 
