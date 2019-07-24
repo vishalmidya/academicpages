@@ -6,9 +6,11 @@ redirect_from:
 - /publications.html
 ---
 
-\subsubsection*{Application of Machine Learning}
+# Application of Machine Learning
 
-\begin{tabular}{rl}
+1. (20202) 
+2. dfff
+3. ddf
 
-\textsc{2020} & \emph{Vishal Midya}, Pritish Mondal et al.; \textit{Predicting Non-ambulatory Status with Machine Learning } \\ & \textit{Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy} {(In Preparation)}\\ \\ 
+## Humba
 
