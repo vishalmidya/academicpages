@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishal Midya/Penn State University"
+title                    : "Vishal Midya"
 title_separator          : "-"
 name                     : &name "Vishal Midya"
 description              : &description "PhD Student in Biostatistics at Penn State College of Medicine"
