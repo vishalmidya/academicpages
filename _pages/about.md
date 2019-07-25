@@ -15,7 +15,7 @@ Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in Statisti
 
 I actively participate in multiple interdisciplinary research. Some of my major collaborative projects include
 
-* Conduct research on Tobacco addiction behavior and its impact on policy and the regulation of tobacco products([Penn State Tobacco Center of Regulatory Science](https://sites.psu.edu/tcors/)).
+* Conduct research on Tobacco addiction behavior and its impact on policy and the regulation of tobacco products ([Penn State Tobacco Center of Regulatory Science](https://sites.psu.edu/tcors/)).
 
 * Application of Machine Learning techniques in medical disgnostics and prediction among children with Sickle Cell Disease and Duchenne Muscular Dystrophy (with [Pritish Mondal](https://childrens.pennstatehealth.org/display-provider/-/provider/1923/pritish-mondal-md))
 
