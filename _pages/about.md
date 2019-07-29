@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am 4<sup>th</sup> year PhD student in **Division of Biostatistics and Bioinformatics** at [Penn State College of Medicine](https://med.psu.edu/). With [Dr. Jason Liao](https://sites.google.com/site/jiangangliao/) and [Dr. Arthur Berg](http://www.personal.psu.edu/asb17/Homepage/Welcome.html) I am developing a coherent framework to study the trials and tribulations
+I am 4<sup>th</sup> year PhD student in **Division of Biostatistics and Bioinformatics** at [Penn State College of Medicine](https://med.psu.edu/). With [Dr. Jason Liao](https://sites.google.com/site/jiangangliao/) and [Dr. Arthur Berg](http://www.personal.psu.edu/asb17/Homepage/Welcome.html), I am developing a coherent framework to study the trials and tribulations
  of using Bayes Factor and BIC (Bayesian Information Criterion) in testing of hypotheses and model selection. 
  
 Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in Statistics from [St. Xavier's College, Kolkata, India](http://www.sxccal.edu/) and _M.Stat. (Masters of Statistics)_ from [Indian Statistical Institute](https://www.isical.ac.in/).
