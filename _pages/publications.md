@@ -33,20 +33,48 @@ redirect_from:
 
 * 2018 - Susan Veldheer, _Vishal Midya_, Courtney Lester et al., [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4),**Tobacco Regulatory Science**
 
+# Medical Research
+## Application of Machine Learning
 
-\subsection*{Consultancy Projects}
-\subsubsection*{Malaria Research}
+* 2020 - _Vishal Midya_, Pritish Mondal et al., Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy. (In Preparation)
+
+* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease](https://doi.org/10.1002/ppul.24382),**Pediatric Pulmonology**
+
+## Classical Statistical Modelling
+
+\textsc{2020} & Dwight AL Mattocks, Wilfredo Mansilla, \emph{Vishal Midya} et al; Discrete effects of methionine  \\ & and cysteine on the biomarkers of sulfur amino acid 
+restriction; {(In Preparation)} \\ \\ 
+
+\textsc{2019} & Darya S. Nesterova, \emph{Vishal Midya}, Brad E. Zacharia et al; \textit{HFE gene expression impacts}\\ & \textit{sex-based survival differences in Glioblastoma} {(Under Review  \textbf{Neuro-Oncology Advances})} \\ \\
+
+\textsc{2019} & Arshjot Khokar, Athira Nair, \emph{Vishal Midya} et al; \textit{The Association between Pulmonary Function} \\ & \textit{and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy} \\ &  https://doi.org/10.1002/mus.26623
+(\textbf{Muscle and Nerve})\\ \\ 
+
+\end{tabular}
+
+\subsection*{Music}
+
 \begin{tabular}{rl}
 
-\textsc{2019} &  \textit{Acquired immune responses against anti-merozoite surface protein} - $l_{19}$ antibodies during mild and \\ & \textit{ severe malarial infections}, (In Preparation) \\ \\ 
+\textsc{2019} & \emph{Vishal Midya}*, Jeffrey Valla*, Hymavathy Balasubramanian et al; \textit{Cultural differences} \\ & \textit{in the use of acoustic cues for musical emotion experience} \\ & (Revised and resubmitted - \textbf{PLOS ONE}); * Equal contribution  \\ \\
 
-\textsc{2019} &
-Clinical features and hematological parameters among malaria patients in Mangaluru city area \\ &  in the southwestern coastal region of India (Revised and resubmitted -  \textbf{Parasitology Research}) \\ \\
+\textsc{2016} &
+A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Categorization of Tablas by Wavelet Analysis}\\
+& arXiv preprint (arXiv:1601.02489) \\ \\
 
-\textsc{2019} & \textit{Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium} \\ & \textit{falciparum and P. vivax Infections in South-Western Coastal Region of India} \\ & https://doi.org/10.1155/2019/4296523 (\textbf{Malaria Research and Treatment})\\ \\ 
+\textsc{2015} & 
+A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Harmonic and Timbre Analysis of Tabla Strokes}\\ 
+& arXiv preprint (arXiv:1510.04880) \\ \\
 
-## Humba
+\textsc{2015} & \emph{Vishal Midya}, \textit{On Mathematical Functions for Theoretical and Experimental Distributions} \\ & \textit{for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music} \\  & arXiv preprint (arXiv:1502.03679v1) \\ \\
 
-[CV](https://drive.google.com/file/d/1Nx2ZeX6519irIyahuJdtywGXRxZnE_Kg/view?usp=sharing)
 
-# fff
+\end{tabular}
+
+\subsection*{Literacy (Special Technical Report)}
+
+\begin{tabular}{rl}
+
+\textsc{2015} & Chaitra Rao, Rashi Midha, \textbf{Vishal Midya} et al., \href{http://14.139.62.11/DALI/index.php}{Dyslexia Assessment for Languages of India (DALI)}\\ & Screening Tool for Teachers and Assessment Tools for Psychologists
+\\ & \textbf{\emph{National Brain Research Centre}} and \textbf{\emph{Department of Science and Technology, India}} \\ \\
+\end{tabular}
