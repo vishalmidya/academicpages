@@ -31,9 +31,8 @@ redirect_from:
 
 * 2018 - Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al., [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041), **Addictive Behaviours**
 
-\textsc{2018} & Susan Veldheer, \emph{Vishal Midya}, Courtney Lester et al., \emph{Acceptability of Switching from Usual Brand}\\ & \emph{to SPECTRUM Research Cigarettes with Usual Nicotine Content}, \\ & https://doi.org/10.18001/TRS.4.1.4 (\textbf{Tobacco Regulatory Science}) \\ \\
+* 2018 - Susan Veldheer, _Vishal Midya_, Courtney Lester et al., [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4),**Tobacco Regulatory Science**
 
-\end{tabular}
 
 \subsection*{Consultancy Projects}
 \subsubsection*{Malaria Research}
