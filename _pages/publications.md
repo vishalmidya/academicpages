@@ -42,21 +42,16 @@ redirect_from:
 
 ## Classical Statistical Modelling
 
-\textsc{2020} & Dwight AL Mattocks, Wilfredo Mansilla, \emph{Vishal Midya} et al; Discrete effects of methionine  \\ & and cysteine on the biomarkers of sulfur amino acid 
-restriction; {(In Preparation)} \\ \\ 
+* 2020 - Dwight AL Mattocks, Wilfredo Mansilla, _Vishal Midya_ et al, Discrete effects of methionine and cysteine on the biomarkers of sulfur amino acid restriction. (In Preparation)
 
-\textsc{2019} & Darya S. Nesterova, \emph{Vishal Midya}, Brad E. Zacharia et al; \textit{HFE gene expression impacts}\\ & \textit{sex-based survival differences in Glioblastoma} {(Under Review  \textbf{Neuro-Oncology Advances})} \\ \\
+* 2019 - Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Under Review in **Neuro-Oncology Advances**)
 
-\textsc{2019} & Arshjot Khokar, Athira Nair, \emph{Vishal Midya} et al; \textit{The Association between Pulmonary Function} \\ & \textit{and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy} \\ &  https://doi.org/10.1002/mus.26623
-(\textbf{Muscle and Nerve})\\ \\ 
+* 2019 - Arshjot Khokar, Athira Nair, _Vishal Midya_ et al, [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623),**Muscle and Nerve**
 
-\end{tabular}
 
-\subsection*{Music}
+# Music
 
-\begin{tabular}{rl}
-
-\textsc{2019} & \emph{Vishal Midya}*, Jeffrey Valla*, Hymavathy Balasubramanian et al; \textit{Cultural differences} \\ & \textit{in the use of acoustic cues for musical emotion experience} \\ & (Revised and resubmitted - \textbf{PLOS ONE}); * Equal contribution  \\ \\
+* 2019 - _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**); ^ Equal contribution
 
 \textsc{2016} &
 A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Categorization of Tablas by Wavelet Analysis}\\
