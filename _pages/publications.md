@@ -59,9 +59,13 @@ redirect_from:
 
 * 2015 - _Vishal Midya_, [On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music](https://arxiv.org/abs/1502.03679v1), **arXiv preprint**
 
+# Public Health
+
+* 2019 - Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (In Preparation)
+
+* 2018 - _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al., [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295), **Frontiers in Public Health**
+
 
 # Literacy (Special Technical Report
 
-\textsc{2015} & Chaitra Rao, Rashi Midha, \textbf{Vishal Midya} et al., \href{http://14.139.62.11/DALI/index.php}{Dyslexia Assessment for Languages of India (DALI)}\\ & Screening Tool for Teachers and Assessment Tools for Psychologists
-\\ & \textbf{\emph{National Brain Research Centre}} and \textbf{\emph{Department of Science and Technology, India}} \\ \\
-\end{tabular}
+* 2015 - Chaitra Rao, Rashi Midha, _Vishal Midya_ et al., [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php). **National Brain Research Centre and Department of Science and Technology, India**
