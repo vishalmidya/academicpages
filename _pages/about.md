@@ -25,4 +25,4 @@ I actively participate in multiple interdisciplinary research. Some of my major 
 
 I was part of the team that developed the first ever Screening and Assessment tool for Dyslexia in regional Indian languages ([DALI](http://14.139.62.22/DALI/index.php))
 
-I am a serious Matcha green tea aficionado. Outside studies, I enjoy rowing, volleyball, cooking and [adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)).
+Some of my codes can be found in my [github profile](https://github.com/vishalmidya). I am a serious Matcha green tea aficionado. Outside studies, I enjoy rowing, volleyball, cooking and [adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)).
