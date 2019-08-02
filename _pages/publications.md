@@ -53,20 +53,14 @@ redirect_from:
 
 * 2019 - _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**); ^ Equal contribution
 
-* 2016 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489).**arXiv preprint** 
+* 2016 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489), **arXiv preprint** 
 
-\textsc{2015} & 
-A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Harmonic and Timbre Analysis of Tabla Strokes}\\ 
-& arXiv preprint (arXiv:1510.04880) \\ \\
+* 2015 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Harmonic and Timbre Analysis of Tabla Strokes](https://arxiv.org/abs/1510.04880), **arXiv preprint** 
 
-\textsc{2015} & \emph{Vishal Midya}, \textit{On Mathematical Functions for Theoretical and Experimental Distributions} \\ & \textit{for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music} \\  & arXiv preprint (arXiv:1502.03679v1) \\ \\
+* 2015 - _Vishal Midya_, [On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music](https://arxiv.org/abs/1502.03679v1), **arXiv preprint**
 
 
-\end{tabular}
-
-\subsection*{Literacy (Special Technical Report)}
-
-\begin{tabular}{rl}
+# Literacy (Special Technical Report
 
 \textsc{2015} & Chaitra Rao, Rashi Midha, \textbf{Vishal Midya} et al., \href{http://14.139.62.11/DALI/index.php}{Dyslexia Assessment for Languages of India (DALI)}\\ & Screening Tool for Teachers and Assessment Tools for Psychologists
 \\ & \textbf{\emph{National Brain Research Centre}} and \textbf{\emph{Department of Science and Technology, India}} \\ \\
