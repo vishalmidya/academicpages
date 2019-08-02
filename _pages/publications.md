@@ -38,7 +38,7 @@ redirect_from:
 
 * 2020 - _Vishal Midya_, Pritish Mondal et al., Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy. (In Preparation)
 
-* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease](https://doi.org/10.1002/ppul.24382),**Pediatric Pulmonology**
+* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease],**Pediatric Pulmonology**
 
 ## Classical Statistical Modelling
 
@@ -53,7 +53,7 @@ redirect_from:
 
 * 2019 - _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**); ^ Equal contribution
 
-* 2016 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489).(arXiv:1601.02489) **arXiv preprint** 
+* 2016 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489).**arXiv preprint** 
 
 \textsc{2015} & 
 A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Harmonic and Timbre Analysis of Tabla Strokes}\\ 
