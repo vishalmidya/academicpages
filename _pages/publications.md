@@ -53,9 +53,7 @@ redirect_from:
 
 * 2019 - _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**); ^ Equal contribution
 
-\textsc{2016} &
-A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Categorization of Tablas by Wavelet Analysis}\\
-& arXiv preprint (arXiv:1601.02489) \\ \\
+* 2016 - A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489).(arXiv:1601.02489) **arXiv preprint** 
 
 \textsc{2015} & 
 A Patranabis, K Banerjee, \emph{V Midya} et al., \textit{Harmonic and Timbre Analysis of Tabla Strokes}\\ 
