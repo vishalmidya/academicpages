@@ -31,14 +31,14 @@ redirect_from:
 
 * 2018 - Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al., [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041), **Addictive Behaviours**
 
-* 2018 - Susan Veldheer, _Vishal Midya_, Courtney Lester et al., [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4),**Tobacco Regulatory Science**
+* 2018 - Susan Veldheer, _Vishal Midya_, Courtney Lester et al., [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4), **Tobacco Regulatory Science**
 
 # Medical Research
 ## Application of Machine Learning
 
 * 2020 - _Vishal Midya_, Pritish Mondal et al., Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy. (In Preparation)
 
-* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease],**Pediatric Pulmonology**
+* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease], **Pediatric Pulmonology**
 
 ## Classical Statistical Modelling
 
@@ -46,7 +46,7 @@ redirect_from:
 
 * 2019 - Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Under Review in **Neuro-Oncology Advances**)
 
-* 2019 - Arshjot Khokar, Athira Nair, _Vishal Midya_ et al, [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623),**Muscle and Nerve**
+* 2019 - Arshjot Khokar, Athira Nair, _Vishal Midya_ et al, [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623), **Muscle and Nerve**
 
 
 # Music
