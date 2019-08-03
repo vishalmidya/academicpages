@@ -73,10 +73,9 @@ redirect_from:
 # Consultancy Projects
 ## Malaria Research
 
-* 2019 - Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)
+* 2020 - Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)
 
-\textsc{2019} &
-Clinical features and hematological parameters among malaria patients in Mangaluru city area \\ &  in the southwestern coastal region of India (Revised and resubmitted -  \textbf{Parasitology Research}) \\ \\
+* 2019 - Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**)
 
-\textsc{2019} & \textit{Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium} \\ & \textit{falciparum and P. vivax Infections in South-Western Coastal Region of India} \\ & https://doi.org/10.1155/2019/4296523 (\textbf{Malaria Research and Treatment})\\ \\ 
+* 2019 - [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523),  **Malaria Research and Treatment** 
 
