@@ -53,11 +53,11 @@ redirect_from:
 
 * 2019 - <span style="text-align: justify"> _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**); ^ Equal contribution</span>
 
-* 2016 - <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al., [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489), **arXiv preprint**</span> 
+* 2016 - <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al.,<span style ="color:purple"> [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489)</span>, **arXiv preprint**</span> 
 
-* 2015 - <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al., [Harmonic and Timbre Analysis of Tabla Strokes](https://arxiv.org/abs/1510.04880), **arXiv preprint**</span> 
+* 2015 - <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al.,<span style ="color:purple"> [Harmonic and Timbre Analysis of Tabla Strokes](https://arxiv.org/abs/1510.04880)</span>, **arXiv preprint**</span> 
 
-* 2015 - <span style="text-align: justify"> _Vishal Midya_, [On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music](https://arxiv.org/abs/1502.03679v1), **arXiv preprint**</span>
+* 2015 - <span style="text-align: justify"> _Vishal Midya_,<span style ="color:purple"> [On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music](https://arxiv.org/abs/1502.03679v1)</span>, **arXiv preprint**</span>
 
 # Public Health
 
