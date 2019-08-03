@@ -69,3 +69,14 @@ redirect_from:
 # Literacy (Special Technical Report)
 
 * 2015 - Chaitra Rao, Rashi Midha, _Vishal Midya_ et al., [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php). **National Brain Research Centre and Department of Science and Technology, India**
+
+# Consultancy Projects
+## Malaria Research
+
+* 2019 - Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)
+
+\textsc{2019} &
+Clinical features and hematological parameters among malaria patients in Mangaluru city area \\ &  in the southwestern coastal region of India (Revised and resubmitted -  \textbf{Parasitology Research}) \\ \\
+
+\textsc{2019} & \textit{Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium} \\ & \textit{falciparum and P. vivax Infections in South-Western Coastal Region of India} \\ & https://doi.org/10.1155/2019/4296523 (\textbf{Malaria Research and Treatment})\\ \\ 
+
