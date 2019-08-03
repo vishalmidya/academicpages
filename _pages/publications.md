@@ -27,7 +27,7 @@ redirect_from:
 
 * 2019 - Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Submitted to **Journal of Studies on Alcohol and Drugs**)
 
-* 2019 - Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al., [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14), **American Journal of Health Behaviour**
+* 2019 - Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:blue"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**
 
 * 2018 - Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al., [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041), **Addictive Behaviours**
 
