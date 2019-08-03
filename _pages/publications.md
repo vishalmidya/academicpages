@@ -66,6 +66,6 @@ redirect_from:
 * 2018 - _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al., [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295), **Frontiers in Public Health**
 
 
-# Literacy (Special Technical Report
+# Literacy (Special Technical Report)
 
 * 2015 - Chaitra Rao, Rashi Midha, _Vishal Midya_ et al., [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php). **National Brain Research Centre and Department of Science and Technology, India**
