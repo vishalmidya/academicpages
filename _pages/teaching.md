@@ -10,3 +10,4 @@ author_profile: true
 <div class="align-justify">This course is a continuation of Principles of Biostatistics. It covers multi-variable regression methods for continuous, categorical, and time-to-event outcomes. Topics are multiple linear regression including ANOVA, ANCOVA, interaction and model selection, logistic and conditional logistic regression, logistic regression for ordinal data, and survival analysis including the log-rank test and Cox proportional hazards regression.</div>
 
 
+ 
