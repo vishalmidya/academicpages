@@ -38,7 +38,7 @@ redirect_from:
 
 * 2020 - _Vishal Midya_, Pritish Mondal et al., Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy. (In Preparation)
 
-* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease], **Pediatric Pulmonology**
+* 2019 - Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al., [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppul.24382), **Pediatric Pulmonology**
 
 ## Classical Statistical Modelling
 
