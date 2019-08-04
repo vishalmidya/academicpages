@@ -7,7 +7,6 @@ redirect_from:
 - /publications.html
 ---
 
-
 --- 
 
 # Statistical Methodology
@@ -23,7 +22,7 @@ redirect_from:
 
 ---
 
- # Tobacco Addiction and Regulatory Science
+# Tobacco Addiction and Regulatory Science
 
 --- 
 
