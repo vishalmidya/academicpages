@@ -8,10 +8,8 @@ redirect_from:
 ---
 
  --- 
- # Statistical Methodology  
+ # `Statistical Methodology`
 --- 
-
-<i class="fas fa-puzzle-piece fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple Puzzle Icon
 
 * <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
 
