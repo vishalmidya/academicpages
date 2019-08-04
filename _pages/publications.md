@@ -7,7 +7,7 @@ redirect_from:
 - /publications.html
 ---
 
- --- 
+--- 
  # `Statistical Methodology`
 --- 
 
@@ -17,7 +17,9 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
 
-# Tobacco Addiction and Regulatory Science
+---
+ # `Tobacco Addiction and Regulatory Science`
+--- 
 
 * <span style="text-align: justify"> Jessica Yingst, _Vishal Midya_, Jonathan Foulds et al., Effects of nicotine dose and flavor on the acceptability of electronic cigarettes among smokers participating in a randomized control trial to reduce cigarette consumption. (To be Submitted)</span>
 
