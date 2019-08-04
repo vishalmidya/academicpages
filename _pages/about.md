@@ -1,8 +1,5 @@
 ---
 layout: splash
-classes:
-  - landing
-  - dark-theme
 permalink: /
 title: ""
 excerpt: "About me"
