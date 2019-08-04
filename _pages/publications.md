@@ -77,5 +77,5 @@ redirect_from:
 
 * <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**, May 2019)</span>
 
-* <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span> 
+* <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span>  
 
