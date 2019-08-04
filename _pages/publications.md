@@ -20,6 +20,7 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
 
+
 ---
 
  # Tobacco Addiction and Regulatory Science
@@ -42,7 +43,13 @@ redirect_from:
 
 * <span style="text-align: justify"> Susan Veldheer, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018. </span>
 
+
+---
+
 # Medical Research
+
+---
+
 ## Application of Machine Learning
 
 * <span style="text-align: justify"> _Vishal Midya_, Pritish Mondal et al., Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy. (In Preparation)</span>
@@ -58,7 +65,11 @@ redirect_from:
 * <span style="text-align: justify"> Arshjot Khokar, Athira Nair, _Vishal Midya_ et al,<span style ="color:purple"> [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623)</span>, **Muscle and Nerve**, June 2019. </span>
 
 
+---
+
 # Music
+
+---
 
 * <span style="text-align: justify"> _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**, August 2019); ^ Equal contribution</span>
 
@@ -68,18 +79,32 @@ redirect_from:
 
 * <span style="text-align: justify"> _Vishal Midya_,<span style ="color:purple"> [On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Applications in Hindustani Music](https://arxiv.org/abs/1502.03679v1)</span>, **arXiv preprint**, 2015. </span>
 
+
+---
+
 # Public Health
+
+---
 
 * <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (In Preparation)</span>
 
 * <span style="text-align: justify"> _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018. </span>
 
+---
+
 # Literacy (Special Technical Report)
+
+---
 
 * <span style="text-align: justify"> Chaitra Rao, Rashi Midha, _Vishal Midya_ et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015. </span>
 
 
+---
+
 # Consultancy Projects
+
+---
+
 ## Malaria Research
 
 * <span style="text-align: justify"> Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)</span>
