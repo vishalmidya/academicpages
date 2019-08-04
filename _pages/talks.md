@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Conferences, Seminars and Talks"
 permalink: /talks/
 author_profile: true
