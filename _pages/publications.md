@@ -9,7 +9,7 @@ redirect_from:
 
 # Statistical Methodology
 
-* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation, August 2019)</span>
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation, August 2019)</span>
 
@@ -17,21 +17,21 @@ redirect_from:
 
 # Tobacco Addiction and Regulatory Science
 
-* 2020 - <span style="text-align: justify"> Jessica Yingst, _Vishal Midya_, Jonathan Foulds et al., Effects of nicotine dose and flavor on the acceptability of electronic cigarettes among smokers participating in a randomized control trial to reduce cigarette consumption. (In preparation)</span>
+* <span style="text-align: justify"> Jessica Yingst, _Vishal Midya_, Jonathan Foulds et al., Effects of nicotine dose and flavor on the acceptability of electronic cigarettes among smokers participating in a randomized control trial to reduce cigarette consumption. (To be Submitted)</span>
 
-* 2020 - <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., High concentrations of free radicals in small cigar mainstream smoke. (In Preparation)</span>  
+* <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., High concentrations of free radicals in small cigar mainstream smoke. (In Preparation)</span>  
 
-* 2020 - <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke. (In Preparation)</span> 
+* <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke. (In Preparation)</span> 
 
-* 2019 - <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (In preparation)</span>
+* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (In preparation)</span>
 
-* 2019 - <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Submitted to **Journal of Studies on Alcohol and Drugs**)</span>
+* <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Submitted to **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
 
-* 2019 - <span style="text-align: justify"> Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour** </span>
+* 2019 - <span style="text-align: justify"> Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**, March 2019. </span>
 
-* 2018 - <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al.,<span style ="color:purple"> [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **Addictive Behaviours**</span>
+* 2018 - <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al.,<span style ="color:purple"> [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **Addictive Behaviours**, April 2019. </span>
 
-* 2018 - <span style="text-align: justify"> Susan Veldheer, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**</span>
+* 2018 - <span style="text-align: justify"> Susan Veldheer, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018. </span>
 
 # Medical Research
 ## Application of Machine Learning
