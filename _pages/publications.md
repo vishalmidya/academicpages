@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 ---
-
-# Statistical Methodology
-
+# Statistical Methodology |
 ---
 
 * <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
