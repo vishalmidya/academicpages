@@ -9,11 +9,11 @@ redirect_from:
 
 # Statistical Methodology
 
-* 2020 - <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation, August 2019)</span>
 
-* 2020 - <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation, August 2019)</span>
 
-* 2019 - <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
 
 # Tobacco Addiction and Regulatory Science
 
