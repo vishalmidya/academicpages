@@ -13,11 +13,11 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arhtur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arthur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation, August 2019)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation, August 2019)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arhtur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
 
 
 ---
