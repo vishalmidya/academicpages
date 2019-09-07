@@ -3,7 +3,6 @@ layout: single
 permalink: /Datasets/
 title: "Datasets"
 author_profile: true
-permalink: /Datasets.html
 ---
 
 --- 
