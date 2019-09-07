@@ -72,6 +72,8 @@ redirect_from:
 
 * <span style="text-align: justify"> _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, Cultural differences in the use of acoustic cues for musical emotion experience. (Revised and resubmitted - **PLOS ONE**, August 2019); ^ Equal contribution</span>
 
+** Vishal Midya, Avantika Mathur, & Nandini Chatterjee Singh.(2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
+
 * <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al.,<span style ="color:purple"> [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489)</span>, **arXiv preprint**, 2016. </span> 
 
 * <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al.,<span style ="color:purple"> [Harmonic and Timbre Analysis of Tabla Strokes](https://arxiv.org/abs/1510.04880)</span>, **arXiv preprint**, 2015. </span> 
@@ -111,4 +113,7 @@ redirect_from:
 * <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**, May 2019)</span>
 
 * <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span>  
+
+---
+
 
