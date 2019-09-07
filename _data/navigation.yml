@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Datasets and Codes"
-    url: /Datasets/
+  - title: "Datasets"
+    url: /Datasets and Codes/
 
   - title: "CV"
     url: /cv/
