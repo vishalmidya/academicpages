@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /datasets/
-title: "Datasets"
+title: ""
 author_profile: true
 ---
 
