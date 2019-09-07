@@ -1,11 +1,8 @@
 ---
 layout: single
-permalink: /
-title: ""
-excerpt: "Datasets and Codes"
+permalink: /datasets/
+title: "Datasets"
 author_profile: true
-redirect_from: 
-  - /datasets/
 ---
 
 --- 
