@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Datasets and Codes"
+title: "Datasets"
 author_profile: true
 ---
 
