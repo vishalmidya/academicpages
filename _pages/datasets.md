@@ -1,17 +1,13 @@
 ---
 layout: single
 permalink: /datasets/
-title: ""
+title: "Datasets"
 author_profile: true
 ---
 
 --- 
 
-# Datasets
-
---- 
-
-* _Vishal Midya_, Avantika Mathur, & Nandini Chatterjee Singh.(2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3387617
+* <span style="text-align: justify"> _Vishal Midya_, Avantika Mathur, & Nandini Chatterjee Singh.(2019). vishalmidya/Data-for-Online-Music-Emotion-Survey: JMV (Version v1.0) [Data set]. Zenodo. <a href="https://zenodo.org/badge/latestdoi/205243713"><img src="https://zenodo.org/badge/205243713.svg" alt="DOI"></a> </span>
 
 ---
 
