@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Datasets/
+permalink: /datasets/
 title: "Datasets"
 author_profile: true
 ---
