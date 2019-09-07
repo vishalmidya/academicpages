@@ -1,7 +1,11 @@
 ---
-layout: archive
-title: "Datasets"
+layout: single
+permalink: /
+title: ""
+excerpt: "Datasets and Codes"
 author_profile: true
+redirect_from: 
+  - /datasets/
 ---
 
 --- 
