@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="text-align: justify">I am a 4<sup>th</sup> year PhD student in **_Division of Biostatistics and Bioinformatics_** at <span style ="color:blue">[Penn State College of Medicine](https://med.psu.edu/)</span>. With <span style ="color:purple">[Jason Liao, PhD](https://sites.google.com/site/jiangangliao/)</span> and <span style ="color:purple">[Arthur Berg, PhD](http://www.personal.psu.edu/asb17/Homepage/Welcome.html)</span>, I am developing a coherent framework to study the trials and tribulations of using Bayes Factor and BIC (Bayesian Information Criterion) in testing of hypotheses and model selection.</span> 
+<span style="text-align: justify">I am a 4<sup>th</sup> year PhD student in **_Division of Biostatistics and Bioinformatics_** at <span style ="color:blue;text-decoration: none">[Penn State College of Medicine](https://med.psu.edu/)</span>. With <span style ="color:purple">[Jason Liao, PhD](https://sites.google.com/site/jiangangliao/)</span> and <span style ="color:purple">[Arthur Berg, PhD](http://www.personal.psu.edu/asb17/Homepage/Welcome.html)</span>, I am developing a coherent framework to study the trials and tribulations of using Bayes Factor and BIC (Bayesian Information Criterion) in testing of hypotheses and model selection.</span> 
  
 <span style="text-align: justify"> Before joining Penn State, I completed **_B.Sc. (Bachelor of Science)_** in **_Statistics_** from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span> and **_M.Stat. (Masters of Statistics)_** from <span style ="color:blue">[Indian Statistical Institute](https://www.isical.ac.in/)</span>.</span>
 
