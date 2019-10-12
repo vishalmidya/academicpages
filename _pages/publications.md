@@ -22,6 +22,15 @@ redirect_from:
 
 ---
 
+# Data Mining in Solar Physics
+
+---
+
+* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^; Window Based Feature Extraction Method for
+Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Challenge 2019**, October 2019). ^ Equal contribution</span>
+
+---
+
 # Tobacco Addiction and Regulatory Science
 
 --- 
@@ -32,7 +41,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke. (In Preparation)</span> 
 
-* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (In preparation)</span>
+* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Submitted to **PLOS ONE**, October 2019)</span>
 
 * <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Submitted to **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
 
@@ -59,7 +68,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Dwight AL Mattocks, Wilfredo Mansilla, _Vishal Midya_ et al, Discrete effects of methionine and cysteine on the biomarkers of sulfur amino acid restriction. (In Preparation)</span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Under Review in **Neuro-Oncology Advances**, July 2019)</span>
+* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Under Review in **Neuro-Oncology Advances**, September 2019)</span>
 
 * <span style="text-align: justify"> Arshjot Khokar, Athira Nair, _Vishal Midya_ et al,<span style ="color:purple"> [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623)</span>, **Muscle and Nerve**, June 2019. </span>
 
@@ -85,7 +94,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (In Preparation)</span>
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Submitted to **The Online Journal of Issues in Nursing**, October 2019)</span>
 
 * <span style="text-align: justify"> _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018. </span>
 
@@ -108,7 +117,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)</span>
 
-* <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**, May 2019)</span>
+* <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**, October 2019)</span>
 
 * <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span>  
 
