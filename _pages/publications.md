@@ -26,7 +26,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^; Window Based Feature Extraction Method for
+* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method for
 Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Challenge 2019**, October 2019). ^ Equal contribution</span>
 
 ---
