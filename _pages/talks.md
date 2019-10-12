@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Conferences, Seminars and Talks"
+title: " "
 permalink: /talks/
 author_profile: true
 redirect_from: 
