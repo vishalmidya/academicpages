@@ -43,7 +43,7 @@ Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Cha
 
 * <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Submitted to **PLOS ONE**, October 2019)</span>
 
-* <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Submitted to **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
+* <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Under Review - **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
 
 * <span style="text-align: justify"> Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**, March 2019. </span>
 
