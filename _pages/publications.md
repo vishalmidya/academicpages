@@ -40,7 +40,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke. (In Preparation)</span> 
 
-* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Submitted to **PLoS ONE**, November 2019)</span>
+* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Under Review - **PLoS ONE**, November 2019)</span>
 
 * <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Under Review - **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
 
