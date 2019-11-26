@@ -116,7 +116,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)</span>
 
-* <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. Forthcoming - **Parasitology Research**, December 2019 </span>
+* <span style="text-align: justify"> [Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India](https://doi.org/10.1007/s00436-019-06540-2), **Parasitology Research**, November 2019 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span>  
 
