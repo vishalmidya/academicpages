@@ -11,6 +11,7 @@ redirect_from:
 
 ---
 
+*
 * Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *2019*
 * Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *2018*
 
