@@ -93,7 +93,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Submitted to **The Online Journal of Issues in Nursing**, October 2019)</span>
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Under Review at **The Online Journal of Issues in Nursing**, November 2019)</span>
 
 * <span style="text-align: justify"> _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018. </span>
 
