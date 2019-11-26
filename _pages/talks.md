@@ -4,7 +4,7 @@ title: " "
 permalink: /talks/
 author_profile: true
 redirect_from: 
-- /talks.md
+- /talks.html
 ---
 
 # Invited Talks
