@@ -13,11 +13,11 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arthur Berg, A note on consistent Information Criterion based on Region of Practical Equivalence Procedure. (In Preparation)</span>
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arthur Berg, Regression Model Selection with Explicitly Balanced Type I and Type II Errors. (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation, August 2019)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance. (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Connecting and contrasting Bayes Factor and Region of Practical Equivalence Procedure for testing interval null hypothesis. (Revised and resubmitted - **The American Statistician**, August 2019)</span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses, Conditionally Accepted at **The American Statistician**, November 2019</span>
 
 
 ---
@@ -26,8 +26,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method for
-Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Challenge 2019**, October 2019). ^ Equal contribution</span>
+* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares. Forthcoming - **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019). ^ Equal contribution</span>
 
 ---
 
@@ -41,7 +40,7 @@ Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Cha
 
 * <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke. (In Preparation)</span> 
 
-* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Submitted to **PLOS ONE**, October 2019)</span>
+* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers. (Submitted to **PLoS ONE**, November 2019)</span>
 
 * <span style="text-align: justify">Courtney Lester, Erin Hammett, _Vishal Midya_ et al., Single-Dose Pharmacokinetics of an Orally-Dissolving Nicotine Film in Adult Smokers. (Under Review - **Journal of Studies on Alcohol and Drugs**, July 2019)</span>
 
@@ -79,7 +78,7 @@ Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Cha
 
 ---
 
-* <span style="text-align: justify"> _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, <span style ="color:purple"> [Cultural differences in the use of acoustic cues for musical emotion experience](https://doi.org/10.1371/journal.pone.0222380)</span>, **PLOS ONE**, September 2019. ^ Equal contribution</span>
+* <span style="text-align: justify"> _Vishal Midya_^, Jeffrey Valla^, Hymavathy Balasubramanian et al, <span style ="color:purple"> [Cultural differences in the use of acoustic cues for musical emotion experience](https://doi.org/10.1371/journal.pone.0222380)</span>, **PLoS ONE**, September 2019. ^ Equal contribution</span>
 
 * <span style="text-align: justify"> A. Patranabis, K. Banerjee, _V. Midya_ et al.,<span style ="color:purple"> [Categorization of Tablas by Wavelet Analysis](https://arxiv.org/abs/1601.02489)</span>, **arXiv preprint**, 2016. </span> 
 
@@ -117,7 +116,7 @@ Time Series Classification of Solar Flares. (Submitted to **IEEE BigData Cup Cha
 
 * <span style="text-align: justify"> Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)</span>
 
-* <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. (Revised and resubmitted - **Parasitology Research**, October 2019)</span>
+* <span style="text-align: justify"> Clinical features and hematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India. Forthcoming - **Parasitology Research**, December 2019 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple"> [Association between Inflammatory Cytokine Levels and Thrombocytopenia during Plasmodium falciparum and P. vivax Infections in South-Western Coastal Region of India](https://doi.org/10.1155/2019/4296523)</span>,  **Malaria Research and Treatment**, April 2019. </span>  
 
