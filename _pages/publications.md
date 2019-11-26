@@ -26,7 +26,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares. Forthcoming - **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019). ^ Equal contribution</span>
+* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares. Forthcoming - **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019. ^ Equal contribution</span>
 
 ---
 
@@ -67,7 +67,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Dwight AL Mattocks, Wilfredo Mansilla, _Vishal Midya_ et al, Discrete effects of methionine and cysteine on the biomarkers of sulfur amino acid restriction. (In Preparation)</span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Revised and resubmitted - **Neuro-Oncology Advances**, September 2019)</span>
+* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, HFE gene expression impacts sex-based survival differences in Glioblastoma. (Revised and resubmitted - **Neuro-Oncology Advances**, November 2019)</span>
 
 * <span style="text-align: justify"> Arshjot Khokar, Athira Nair, _Vishal Midya_ et al,<span style ="color:purple"> [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623)</span>, **Muscle and Nerve**, June 2019. </span>
 
