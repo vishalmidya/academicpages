@@ -11,9 +11,9 @@ redirect_from:
 
 ---
 
-*
-* Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *2019*
-* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *2018*
+* [https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html](Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data) (with Daniel McGuire & Renan sauteraud), *December 2019*
+* Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
+* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
 
 ---
 
