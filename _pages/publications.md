@@ -17,7 +17,7 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span> ,**The American Statistician**, December 2019 </span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, December 2019 </span>
 
 ---
 
