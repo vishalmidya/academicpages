@@ -17,8 +17,7 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses, Accepted at **The American Statistician**, November 2019</span>
-
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span> ,**The American Statistician**, December 2019 </span>
 
 ---
 
@@ -44,7 +43,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**, March 2019 </span>
 
-* <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, _Vishal Midya_, et al.,<span style ="color:purple"> [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **Addictive Behaviours**, April 2019 </span>
+* <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, _Vishal Midya_ et al.,<span style ="color:purple"> [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **Addictive Behaviours**, April 2019 </span>
 
 * <span style="text-align: justify"> Susan Veldheer, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018 </span>
 
