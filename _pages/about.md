@@ -19,4 +19,4 @@ redirect_from:
 
 <span style="text-align: justify">I was part of the team that developed the first ever Screening and Assessment tool for Dyslexia in regional Indian languages (<span style ="color:blue">[DALI](http://14.139.62.22/DALI/index.php)</span>). Codes for some of my papers and projects can be found in my <span style ="color:blue">[github profile](https://github.com/vishalmidya)</span>.</span> 
 
-<span style="text-align: justify">I am a serious Matcha green tea aficionado. Outside studies, I enjoy rowing, volleyball, cooking and <span style ="color:blue">[adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)</span>).</span>
+<span style="text-align: justify">I am a serious Matcha green tea aficionado and make my own version of <span style ="color:blue">[Jamu](https://en.wikipedia.org/wiki/Jamu)</span> every morning. Outside studies, I enjoy rowing, volleyball, cooking and <span style ="color:blue">[adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)</span>).</span>
