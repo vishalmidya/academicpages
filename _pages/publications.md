@@ -64,7 +64,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Dwight AL Mattocks, Wilfredo Mansilla, _Vishal Midya_ et al, Discrete effects of methionine and cysteine on the biomarkers of sulfur amino acid restriction (In Preparation)</span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma (Accepted - **Neuro-Oncology Advances**, January 2020)</span>
+* <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, <span style ="color:purple"> [Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma](https://academic.oup.com/noa/advance-article/doi/10.1093/noajnl/vdaa001/5696853)</span>, **Neuro-Oncology Advances**, January 2020 </span>
 
 * <span style="text-align: justify"> Arshjot Khokar, Athira Nair, _Vishal Midya_ et al,<span style ="color:purple"> [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623)</span>, **Muscle and Nerve**, June 2019 </span>
 
