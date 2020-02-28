@@ -25,7 +25,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares. Forthcoming - **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019, ^ Equal contribution</span>
+* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, _Vishal Midya_^, <span style ="color:purple"> [Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares](https://ieeexplore.ieee.org/document/9006212)</span>,  **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019, ^ Equal contribution</span>
 
 ---
 
