@@ -60,6 +60,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Pritish Mondal, Alison Yirinec, _Vishal Midya_ et al.,<span style ="color:purple"> [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppul.24382)</span>, **Pediatric Pulmonology**, June 2019. </span>
 
+
 ## Classical Statistical Modelling
 
 * <span style="text-align: justify"> Dwight AL Mattocks, Wilfredo Mansilla, _Vishal Midya_ et al, Discrete effects of methionine and cysteine on the biomarkers of sulfur amino acid restriction (In Preparation)</span>
@@ -90,7 +91,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Under Review at **The Online Journal of Issues in Nursing**, November 2019)</span>
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (R&R at **The Online Journal of Issues in Nursing**, March 2020)</span>
 
 * <span style="text-align: justify"> _Vishal Midya_, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018 </span>
 
@@ -99,6 +100,8 @@ redirect_from:
 # Literacy (Special Technical Report)
 
 ---
+
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery).(Submitted at **Dyslexia**, April 2020)</span>
 
 * <span style="text-align: justify"> Chaitra Rao, Rashi Midha, _Vishal Midya_ et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
@@ -110,8 +113,6 @@ redirect_from:
 ---
 
 ## Malaria Research
-
-* <span style="text-align: justify"> Acquired immune responses against anti-merozoite surface protein - _l<sub>19</sub>_ antibodies during mild and severe malarial infections. (In Preparation)</span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India](https://doi.org/10.1007/s00436-019-06540-2)</span>, **Parasitology Research**, November 2019 </span>
 
