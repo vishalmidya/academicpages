@@ -11,7 +11,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Application of Machine Learning techniques in medical disgnostics and prediction of pulmonary functions among children with Sickle Cell Disease and Duchenne Muscular Dystrophy (with <span style ="color:blue">[Pritish Mondal, MD](https://childrens.pennstatehealth.org/display-provider/-/provider/1923/pritish-mondal-md)</span>)</span>
 
-* Investigation of cross-cultural pattern of emotion perception in music (with <span style ="color:blue">[Nandini Chatterjee Singh, PhD](http://nandinisingh.wixsite.com/labweb)</span>)
+* Development of Screening Tool for Dyslexia Assessment in Languages of India – Language Assessment Battery (with <span style ="color:blue">[Nandini Chatterjee Singh, PhD](http://nandinisingh.wixsite.com/labweb)</span>)
 
 * Research on Tobacco addictive behavior - its impact on policy and the regulation of tobacco products (with <span style ="color:blue">[Andrea Hobkirk, PhD](https://pennstate.pure.elsevier.com/en/persons/andrea-hobkirk)</span>).
 
