@@ -15,6 +15,6 @@ redirect_from:
 
 * Research on Tobacco addictive behavior - its impact on policy and the regulation of tobacco products (with <span style ="color:blue">[Andrea Hobkirk, PhD](https://pennstate.pure.elsevier.com/en/persons/andrea-hobkirk)</span>).
 
-Codes for some of my papers and projects can be found in my <span style ="color:blue">[github profile](https://github.com/vishalmidya)</span>.</span> 
+Codes for some of my papers and projects can be found in my <span style ="color:blue">[github profile](https://github.com/vishalmidya)</span>.
 
 <span style="text-align: justify">I am a serious Matcha green tea aficionado and make my own version of <span style ="color:blue">[Jamu](https://en.wikipedia.org/wiki/Jamu)</span> every morning. Outside studies, I enjoy rowing, volleyball, cooking and <span style ="color:blue">[adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)</span>).</span>
