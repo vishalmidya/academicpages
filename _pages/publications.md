@@ -101,7 +101,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery).(Submitted at **Dyslexia**, April 2020)</span>
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Submitted at **Dyslexia**, April 2020)</span>
 
 * <span style="text-align: justify"> Chaitra Rao, Rashi Midha, _Vishal Midya_ et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
