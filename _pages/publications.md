@@ -13,9 +13,9 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Arthur Berg, Regression Model Selection with Explicitly Balanced Type I and Type II Errors (In Preparation)</span>
-
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance (In Preparation)</span>
+
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Consistent Model Selection with Calibrated Type 1 and Type 2 Errors using Cohen's $f^2$ (In Preparation)</span>
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, December 2019 </span>
 
@@ -32,8 +32,6 @@ redirect_from:
 # Tobacco Addiction and Regulatory Science
 
 --- 
-
-* <span style="text-align: justify"> Jessica Yingst, _Vishal Midya_, Jonathan Foulds et al., Effects of nicotine dose and flavor on the acceptability of electronic cigarettes among smokers participating in a randomized control trial to reduce cigarette consumption (To be Submitted)</span>
 
 * <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., High concentrations of free radicals in small cigar mainstream smoke (In Preparation)</span>  
 
@@ -113,6 +111,8 @@ redirect_from:
 ---
 
 ## Malaria Research
+
+* <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Submitted at **Journal of Parasitic Diseases**, May 2020) </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India](https://doi.org/10.1007/s00436-019-06540-2)</span>, **Parasitology Research**, November 2019 </span>
 
