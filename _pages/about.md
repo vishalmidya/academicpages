@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-I am going to join _Division of Environmental Epidemiology_ in the Department of Environmental Medicine and Public Health at 
+I am going to be a Post Docatoral Fellow at _Division of Environmental Epidemiology_ in the Department of Environmental Medicine and Public Health at <span style = "color:blue">[Icahn School of Medicine, Mount Sinai](https://icahn.mssm.edu/about/departments/environmental-public-health)</span>. 
 
 I was a PhD student in _Division of Biostatistics and Bioinformatics_ at <span style ="color:blue">[Penn State College of Medicine](https://med.psu.edu/)</span> under <span style ="color:blue">[Jason Liao, PhD](https://sites.google.com/site/jiangangliao/)</span> and <span style ="color:blue">[Arthur Berg, PhD](http://www.personal.psu.edu/asb17/Homepage/Welcome.html)</span>. I wrote my thesis on Frequentist and Bayesian hypothesis testing with a focus on meaningful effect sizes to enhance reproducibility in scientific studies. <span style="text-align: justify"> Before joining Penn State, I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span> and _M.Stat (Masters of Statistics)_ from <span style ="color:blue">[Indian Statistical Institute](https://www.isical.ac.in/)</span>.</span>
 
