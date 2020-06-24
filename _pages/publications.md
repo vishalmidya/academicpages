@@ -17,7 +17,7 @@ redirect_from:
 
 * <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Hypothesis Testing with Calibrated Type 1 and Type 2 Errors under a Meaningful Effect Size (In Preparation)</span>
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, December 2019 </span>
+* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, January 2020 </span>
 
 ---
 
