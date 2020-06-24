@@ -13,7 +13,7 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance (In Preparation)</span>
+* <span style="text-align: justify"> _Vishal Midya_, Comparison of Bayesian t-Tests using Systematic Bias in Mean of log Bayes Factor (In Preparation)</span>
 
 * <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Hypothesis Testing with Calibrated Type 1 and Type 2 Errors under a Meaningful Effect Size (In Preparation)</span>
 
