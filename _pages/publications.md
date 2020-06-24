@@ -15,7 +15,7 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg, Correcting the bias in Bayes factors for robust superior frequentist performance (In Preparation)</span>
 
-* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Consistent Model Selection with Calibrated Type 1 and Type 2 Errors using Cohen's $$f^2$$ (In Preparation)</span>
+* <span style="text-align: justify"> _Vishal Midya_, J.G.Liao, Hypothesis Testing with Calibrated Type 1 and Type 2 Errors under a Meaningful Effect Size (In Preparation)</span>
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, December 2019 </span>
 
@@ -37,7 +37,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Reema Goel, _Vishal Midya_, Zachary Bitzer et al., Assessment of Free Radicals in SPECTRUM Variable Nicotine Content Cigarette Smoke (In Preparation)</span> 
 
-* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers, (In Preparation) </span>
+* <span style="text-align: justify">Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Daily cotinine patterns and nicotine dependence among non-daily smokers, (Submitted at **Journal of Psychopharmacology**, June 2020) </span>
 
 * <span style="text-align: justify"> Shari Hrabovsky, _Vishal Midya_, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**, March 2019 </span>
 
