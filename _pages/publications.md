@@ -59,6 +59,10 @@ redirect_from:
 * <span style="text-align: justify"> Differential effects of sulfur amino acid-restricted and lowcalorie diets on gut microbial profile and bile acid
 composition in male C57BL6/J mice </span>
 
+* <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
+
+* <span style="text-align: justify"> Derivation of Reference Equations for Impulse Oscillometry Indices in Children with Sickle Cell Disease and its Application </span>
+
 * <span style="text-align: justify"> Comparison of Bayesian t-Tests using Systematic Bias in Mean of log Bayes Factor </span>
 
 * <span style="text-align: justify"> Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy </span>
