@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /Media/
 title: "Media"
 author_profile: true
