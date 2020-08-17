@@ -40,6 +40,8 @@ redirect_from:
 
 --- 
 
+*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, Vishal Midya et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (R&R at **Journal of Gerontology: Biological Sciences**, August 2020)</span> 
+
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
 
 * <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Submitted at **Journal of Parasitic Diseases**, May 2020) </span>
@@ -55,9 +57,6 @@ redirect_from:
 * <span style="text-align: justify"> Improving Inference Efficiency and Validity by Calibrating Type 1 and Type 2 Errors under a Meaningful Effect Size</span>
 
 * <span style="text-align: justify"> Daily cotinine patterns and nicotine dependence among non-daily smokers </span>
-
-* <span style="text-align: justify"> Differential effects of sulfur amino acid-restricted and lowcalorie diets on gut microbial profile and bile acid
-composition in male C57BL6/J mice </span>
 
 * <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
 
