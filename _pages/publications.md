@@ -40,6 +40,10 @@ redirect_from:
 
 --- 
 
+* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Submitted at **Communications in Statistics - Theory and Methods**, September 2020) </span>
+
+* <span style="text-align: justify"> Darya Nesterova, Vishal Midya, Achuthamangalam B Madhankumar et al., Efficacy of Mutant Interleukin-13 alpha-2 Receptor Targeted Liposomal Doxorubicin in the Intracranial Brain Tumor Model. (Submitted at **Molecular Cancer Therapeutics**, September 2020) </span>
+
 *  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, Vishal Midya et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (R&R at **Journal of Gerontology: Biological Sciences**, August 2020)</span> 
 
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
@@ -61,8 +65,6 @@ redirect_from:
 * <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
 
 * <span style="text-align: justify"> Derivation of Reference Equations for Impulse Oscillometry Indices in Children with Sickle Cell Disease and its Application </span>
-
-* <span style="text-align: justify"> Comparison of Bayesian t-Tests using Systematic Bias in Mean of log Bayes Factor </span>
 
 * <span style="text-align: justify"> Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy </span>
 
