@@ -40,6 +40,8 @@ redirect_from:
 
 --- 
 
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (In Press at **The Online Journal of Issues in Nursing**, October 2020)</span>
+
 * <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Submitted at **Communications in Statistics - Theory and Methods**, September 2020) </span>
 
 * <span style="text-align: justify"> Darya Nesterova, Vishal Midya, Achuthamangalam B Madhankumar et al., Efficacy of Mutant Interleukin-13 alpha-2 Receptor Targeted Liposomal Doxorubicin in the Intracranial Brain Tumor Model. (Submitted at **Molecular Cancer Therapeutics**, September 2020) </span>
@@ -49,8 +51,6 @@ redirect_from:
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
 
 * <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Submitted at **Journal of Parasitic Diseases**, May 2020) </span>
-
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (R&R at **The Online Journal of Issues in Nursing**, March 2020)</span>
 
 ---
 
