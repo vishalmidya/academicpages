@@ -45,9 +45,12 @@ redirect_from:
 # Under Review
 
 --- 
-* <span style="text-align: justify"> Daily cotinine patterns and nicotine dependence among non-daily smokers </span>
+* <span style="text-align: justify"> Contrasting smoking behaviors of non-daily smokers – a study based on clustering of
+repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
 
-* <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
+* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Under Review at **Frontiers in Oncology**, October 2020) </span>
+
+* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Chest**, October 2020) </span>
 
 * <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, September 2020) </span>
 
@@ -60,6 +63,8 @@ redirect_from:
 # Under Preparation
 
 ---
+
+* <span style="text-align: justify"> Risk factors for COVID-19 Infection and Illness Severity in Mount Sinai Health System Residents and Fellows </span>
 
 * <span style="text-align: justify"> Improving Inference Efficiency and Validity by Calibrating Type 1 and Type 2 Errors under a Meaningful Effect Size</span>
 
