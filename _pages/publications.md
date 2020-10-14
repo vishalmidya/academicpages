@@ -11,11 +11,11 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, Vishal Midya et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (Accepted at **Journal of Gerontology: Biological Sciences**, October 2020)</span> 
+*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (Accepted at **Journal of Gerontology: Biological Sciences**, October 2020)</span> 
 
 * <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Accepted at **Journal of Parasitic Diseases**, October 2020) </span>
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_, Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
 
 * <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, <span style ="color:purple"> [Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma](https://academic.oup.com/noa/advance-article/doi/10.1093/noajnl/vdaa001/5696853)</span>, **Neuro-Oncology Advances**, January 2020 </span>
 
@@ -45,8 +45,7 @@ redirect_from:
 # Under Review
 
 --- 
-* <span style="text-align: justify"> Contrasting smoking behaviors of non-daily smokers – a study based on clustering of
-repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
+* <span style="text-align: justify"> Vishal Midya, Andréa L. Hobkirk, Nicolle M. Krebs et al., Contrasting smoking behaviors of non-daily smokers – a study based on clustering of repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
 
 * <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Under Review at **Frontiers in Oncology**, October 2020) </span>
 
