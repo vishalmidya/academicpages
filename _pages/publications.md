@@ -11,6 +11,12 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
+*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, Vishal Midya et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (Accepted at **Journal of Gerontology: Biological Sciences**, October 2020)</span> 
+
+* <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Accepted at **Journal of Parasitic Diseases**, October 2020) </span>
+
+* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
+
 * <span style="text-align: justify"> Darya S. Nesterova, _Vishal Midya_, Brad E. Zacharia et al, <span style ="color:purple"> [Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma](https://academic.oup.com/noa/advance-article/doi/10.1093/noajnl/vdaa001/5696853)</span>, **Neuro-Oncology Advances**, January 2020 </span>
 
 * <span style="text-align: justify"> J.G.Liao, _Vishal Midya_, Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, January 2020 </span>
@@ -39,18 +45,15 @@ redirect_from:
 # Under Review
 
 --- 
+* <span style="text-align: justify"> Daily cotinine patterns and nicotine dependence among non-daily smokers </span>
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_ et al., Burnout in Nurse Anesthetists. (In Press at **The Online Journal of Issues in Nursing**, October 2020)</span>
+* <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
 
-* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Submitted at **Communications in Statistics - Theory and Methods**, September 2020) </span>
+* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, September 2020) </span>
 
 * <span style="text-align: justify"> Darya Nesterova, Vishal Midya, Achuthamangalam B Madhankumar et al., Efficacy of Mutant Interleukin-13 alpha-2 Receptor Targeted Liposomal Doxorubicin in the Intracranial Brain Tumor Model. (Submitted at **Molecular Cancer Therapeutics**, September 2020) </span>
 
-*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, Vishal Midya et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (R&R at **Journal of Gerontology: Biological Sciences**, August 2020)</span> 
-
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
-
-* <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Submitted at **Journal of Parasitic Diseases**, May 2020) </span>
 
 ---
 
@@ -59,10 +62,6 @@ redirect_from:
 ---
 
 * <span style="text-align: justify"> Improving Inference Efficiency and Validity by Calibrating Type 1 and Type 2 Errors under a Meaningful Effect Size</span>
-
-* <span style="text-align: justify"> Daily cotinine patterns and nicotine dependence among non-daily smokers </span>
-
-* <span style="text-align: justify"> Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease- a Study Based on Machine Learning </span>
 
 * <span style="text-align: justify"> Derivation of Reference Equations for Impulse Oscillometry Indices in Children with Sickle Cell Disease and its Application </span>
 
