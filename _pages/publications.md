@@ -13,7 +13,7 @@ redirect_from:
 
 *  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice. (Accepted at **Journal of Gerontology: Biological Sciences**, October 2020)</span> 
 
-* <span style="text-align: justify"> Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Accepted at **Journal of Parasitic Diseases**, October 2020) </span>
+* <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; _Vishal Midya_ et al., Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru. (Accepted at **Journal of Parasitic Diseases**, October 2020) </span>
 
 * <span style="text-align: justify"> Brian Velles, _Vishal Midya_, Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
 
