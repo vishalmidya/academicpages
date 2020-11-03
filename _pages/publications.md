@@ -13,7 +13,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Brian Velles, _Vishal Midya_, Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
 
-*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice] (https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
+*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
 
 * <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; _Vishal Midya_ et al., <span style ="color:purple"> [Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru](https://link.springer.com/article/10.1007%2Fs12639-020-01288-4) </span>, **Journal of Parasitic Diseases**, October 2020 </span>
 
