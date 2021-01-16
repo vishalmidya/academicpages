@@ -11,8 +11,6 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-* <span style="text-align: justify"> Brian Velles, _Vishal Midya_, Burnout in Nurse Anesthetists. (Accepted at **The Online Journal of Issues in Nursing**, October 2020)</span>
-
 *  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
 
 * <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; _Vishal Midya_ et al., <span style ="color:purple"> [Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru](https://link.springer.com/article/10.1007%2Fs12639-020-01288-4) </span>, **Journal of Parasitic Diseases**, October 2020 </span>
@@ -45,7 +43,6 @@ redirect_from:
 # Under Review
 
 --- 
-* <span style="text-align: justify"> Vishal Midya, Andréa L. Hobkirk, Nicolle M. Krebs et al., Contrasting smoking behaviors of non-daily smokers – a study based on clustering of repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
 
 * <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Under Review at **Frontiers in Oncology**, October 2020) </span>
 
@@ -53,9 +50,9 @@ redirect_from:
 
 * <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, September 2020) </span>
 
-* <span style="text-align: justify"> Darya Nesterova, Vishal Midya, Achuthamangalam B Madhankumar et al., Efficacy of Mutant Interleukin-13 alpha-2 Receptor Targeted Liposomal Doxorubicin in the Intracranial Brain Tumor Model. (Submitted at **Molecular Cancer Therapeutics**, September 2020) </span>
-
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
+
+* <span style="text-align: justify"> Vishal Midya, Andréa L. Hobkirk, Nicolle M. Krebs et al., Contrasting smoking behaviors of non-daily smokers – a study based on clustering of repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
 
 ---
 
@@ -68,8 +65,6 @@ redirect_from:
 * <span style="text-align: justify"> Improving Inference Efficiency and Validity by Calibrating Type 1 and Type 2 Errors under a Meaningful Effect Size</span>
 
 * <span style="text-align: justify"> Derivation of Reference Equations for Impulse Oscillometry Indices in Children with Sickle Cell Disease and its Application </span>
-
-* <span style="text-align: justify"> Predicting Non-ambulatory Status with Machine Learning Using Pulmonary Functions in Children with Duchenne Muscular Dystrophy </span>
 
 ---
 
