@@ -44,30 +44,33 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Under Review at **Frontiers in Oncology**, October 2020) </span>
+* <span style="text-align: justify"> Risk Factors Associated with SARS-CoV-2 Infection in Resident Physicians and Fellows in New York City During the First COVID-19 Epidemic Wave (Submitted at **JAMA**, January 2021) </span>
 
-* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Chest**, October 2020) </span>
+* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, January 2021) </span>
 
-* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, September 2020) </span>
+* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Review and Resubmit at **Frontiers in Oncology**, January 2021) </span>
 
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (R&R at **Dyslexia**, July 2020)</span>
+* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Pediatric Pulmonology**, January 2021) </span>
 
-* <span style="text-align: justify"> Vishal Midya, Andréa L. Hobkirk, Nicolle M. Krebs et al., Contrasting smoking behaviors of non-daily smokers – a study based on clustering of repeated daily measures of nicotine exposure. (Submitted at **BMC Public Health**, October 2020) </span>
+* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, January 2021) </span>
+
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Under Review at **Annals of Dyslexia**, December 2020)</span>
+
 
 ---
 
 # Under Preparation
 
 ---
+* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children</span>
 
-* <span style="text-align: justify"> Risk factors for COVID-19 Infection and Illness Severity in Mount Sinai Health System Residents and Fellows </span>
+* <span style="text-align: justify"> A Diagnostic Measure for  Weighted Quantile Sum Regression</span>
+
+* <span style="text-align: justify"> Maternal Body Mass Index and Breastfeeding Outcomes: Examining Associations Across Three International Cohorts</span>
 
 * <span style="text-align: justify"> Improving Inference Efficiency and Validity by Calibrating Type 1 and Type 2 Errors under a Meaningful Effect Size</span>
 
-* <span style="text-align: justify"> Derivation of Reference Equations for Impulse Oscillometry Indices in Children with Sickle Cell Disease and its Application </span>
-
 ---
-
 
 # Technical Report 
 
