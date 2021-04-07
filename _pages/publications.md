@@ -11,6 +11,10 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
+*  <span style="text-align: justify"> Andréa L. Hobkirk^, _Vishal Midya_^, Nicolle M. Krebs et al., <span style ="color:purple"> [Characterizing nicotine exposure among non-daily smokers ]</span>. (Provisionally Accepted at **BMC Public Health**, April 2021), ^ Equal contribution</span>
+
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Accepted at **Annals of Dyslexia**, April 2021)</span>
+* 
 *  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
 
 * <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; _Vishal Midya_ et al., <span style ="color:purple"> [Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru](https://link.springer.com/article/10.1007%2Fs12639-020-01288-4) </span>, **Journal of Parasitic Diseases**, October 2020 </span>
@@ -44,27 +48,22 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Risk Factors Associated with SARS-CoV-2 Infection in Resident Physicians and Fellows in New York City During the First COVID-19 Epidemic Wave (Submitted at **JAMA**, January 2021) </span>
+* <span style="text-align: justify"> Risk Factors Associated with SARS-CoV-2 Infection in Resident Physicians and Fellows in New York City During the First COVID-19 Epidemic Wave (Under Review at **Academic Medicine**, March 2021) </span>
 
-* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, January 2021) </span>
+* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, April 2021) </span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Review and Resubmit at **Frontiers in Oncology**, January 2021) </span>
+* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Review and Resubmit at **Frontiers in Oncology**, April 2021) </span>
 
-* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Pediatric Pulmonology**, January 2021) </span>
-
-* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Under Review at **Communications in Statistics - Theory and Methods**, January 2021) </span>
-
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Under Review at **Annals of Dyslexia**, December 2020)</span>
-
+* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Frontiers in Pediatrics**, April 2021) </span>
 
 ---
 
 # Under Preparation
 
 ---
-* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children</span>
+* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using chemical mixture approaches </span>
 
-* <span style="text-align: justify"> A Diagnostic Measure for  Weighted Quantile Sum Regression</span>
+* <span style="text-align: justify"> A Novel LASSO type Bayesian Weighted Quantile Sum Regression Approach for highly correlated multi-group mixture analysis: current context, importance and future directions </span>
 
 * <span style="text-align: justify"> Maternal Body Mass Index and Breastfeeding Outcomes: Examining Associations Across Three International Cohorts</span>
 
