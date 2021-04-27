@@ -15,7 +15,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Accepted at **Annals of Dyslexia**, April 2021)</span>
 
-* <span style="text-align: justify"> Brian Vells, _Vishal Midya, Amit Prasad <span style ="color:purple"> [Experiences of Burnout Among Nurse Anesthetists](https://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-26-2021/No2-May-2021/Articles-Previous-Topics/Burnout-Among-Nurse-Anesthetists.html)</span>, **OJIN: The Online Journal of Issues in Nursing**, April 2021 </span>
+* <span style="text-align: justify"> Brian Vells, _Vishal Midya_, Amit Prasad <span style ="color:purple"> [Experiences of Burnout Among Nurse Anesthetists](https://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-26-2021/No2-May-2021/Articles-Previous-Topics/Burnout-Among-Nurse-Anesthetists.html)</span>, **OJIN: The Online Journal of Issues in Nursing**, April 2021 </span>
 
 *  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, _Vishal Midya_ et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
 
