@@ -54,8 +54,6 @@ redirect_from:
 
 * <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, April 2021) </span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, Vishal Midya, Elizabeth A. Proctor et al., Sex-based survival differences are associated with HFE expression and immune infiltration in glioblastoma. (Review and Resubmit at **Frontiers in Oncology**, April 2021) </span>
-
 * <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Frontiers in Pediatrics**, April 2021) </span>
 
 ---
