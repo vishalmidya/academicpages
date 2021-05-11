@@ -11,7 +11,7 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-*  <span style="text-align: justify"> Andréa L. Hobkirk^, _Vishal Midya_^, Nicolle M. Krebs et al., Characterizing nicotine exposure among non-daily smokers. (Provisionally Accepted at **BMC Public Health**, April 2021), ^ Equal contribution</span>
+*  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Characterizing nicotine exposure among non-daily smokers. (Provisionally Accepted at **BMC Public Health**, April 2021) </span>
 
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Accepted at **Annals of Dyslexia**, April 2021)</span>
 
