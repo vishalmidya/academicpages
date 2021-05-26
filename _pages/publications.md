@@ -16,8 +16,6 @@ redirect_from:
 * <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Accepted at **Frontiers in Pediatrics**, April 2021) </span> 
 
 * <span style="text-align: justify"> Kate R Pawloski, Betty Kolod, Rabeea F Khan, _Vishal Midya_ et al., <span style ="color:purple"> [Factors Associated with SARS-CoV-2 Infection in Physician Trainees in New York City during the First COVID-19 Wave](https://www.mdpi.com/1660-4601/18/10/5274)</span>, **International Journal of Environmental Research and Public Health**, May 2021 </span>
-
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
   
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
 
