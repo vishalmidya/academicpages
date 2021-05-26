@@ -11,9 +11,15 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-*  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Characterizing nicotine exposure among non-daily smokers. (Provisionally Accepted at **BMC Public Health**, April 2021) </span>
+*  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Characterizing nicotine exposure among non-daily smokers. (Accepted at **BMC Public Health**, April 2021) </span>
 
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al.,  Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery). (Accepted at **Annals of Dyslexia**, April 2021)</span>
+* * <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Accepted at **Frontiers in Pediatrics**, April 2021) </span> 
+
+* <span style="text-align: justify"> Kate R Pawloski, Betty Kolod, Rabeea F Khan, _Vishal Midya_ et al., <span style ="color:purple"> [Factors Associated with SARS-CoV-2 Infection in Physician Trainees in New York City during the First COVID-19 Wave](https://www.mdpi.com/1660-4601/18/10/5274)</span>, **International Journal of Environmental Research and Public Health**, May 2021 </span>
+
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
+  
+* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
 
 * <span style="text-align: justify"> Brian Vells, _Vishal Midya_, Amit Prasad <span style ="color:purple"> [Experiences of Burnout Among Nurse Anesthetists](https://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-26-2021/No2-May-2021/Articles-Previous-Topics/Burnout-Among-Nurse-Anesthetists.html)</span>, **OJIN: The Online Journal of Issues in Nursing**, April 2021 </span>
 
@@ -50,11 +56,7 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Risk Factors Associated with SARS-CoV-2 Infection in Resident Physicians and Fellows in New York City During the First COVID-19 Epidemic Wave (Under Review at **Academic Medicine**, March 2021) </span>
-
 * <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, April 2021) </span>
-
-* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Under Review at **Frontiers in Pediatrics**, April 2021) </span>
 
 ---
 
