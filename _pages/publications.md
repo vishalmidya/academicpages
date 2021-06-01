@@ -11,9 +11,9 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-*  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al., Characterizing nicotine exposure among non-daily smokers. (Accepted at **BMC Public Health**, April 2021) </span>
+*  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al.,  <span style ="color:purple"> [Characterizing nicotine exposure among a community sample of non-daily smokers in the United States](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, May 2021 </span>
 
-* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al., Predictors of Diffusing Capacity in Children and Adolescents with Sickle Cell Disease: A Longitudinal Study Based on Machine Learning Algorithm and Linear Mixed Effect Model. (Accepted at **Frontiers in Pediatrics**, April 2021) </span> 
+* <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al.,  <span style ="color:purple"> [Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study](https://doi.org/10.3389/fped.2021.678174)</span>, **Frontiers in Pediatrics - Pediatric Pulmonology**, May 2021 </span>
 
 * <span style="text-align: justify"> Kate R Pawloski, Betty Kolod, Rabeea F Khan, _Vishal Midya_ et al., <span style ="color:purple"> [Factors Associated with SARS-CoV-2 Infection in Physician Trainees in New York City during the First COVID-19 Wave](https://www.mdpi.com/1660-4601/18/10/5274)</span>, **International Journal of Environmental Research and Public Health**, May 2021 </span>
   
