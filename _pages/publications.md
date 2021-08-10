@@ -65,12 +65,11 @@ redirect_from:
 
 * <span style="text-align: justify"> Improved inference efficiency and validity using a Type 1 and Type 2 error calibrated cutoff with application in exposure mixtures analysis </span>
 
-* <span style="text-align: justify"> Type 2 Diabetes risk prediction using High Resolution Metabolomics using Machine Learning Tool XGBoost - A proof of concent study </span>
+* <span style="text-align: justify"> Type 2 Diabetes risk prediction using High Resolution Metabolomics using Machine Learning Tool XGBoost - A proof of concept study </span>
 
 * <span style="text-align: justify"> A Novel LASSO type Bayesian Weighted Quantile Sum Regression Approach for highly correlated multi-group mixture analysis: current context, importance and future directions </span>
 
 * <span style="text-align: justify"> Maternal Body Mass Index and Breastfeeding Outcomes: Examining Associations Across Three International Cohorts</span>
-
 
 ---
 
