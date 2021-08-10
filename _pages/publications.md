@@ -54,7 +54,7 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Vishal Midya, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, April 2021) </span>
+* <span style="text-align: justify"> Vishal Midya and J.G. Liao, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, August 2021) </span>
 
 ---
 
