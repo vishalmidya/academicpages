@@ -11,6 +11,8 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
+* <span style="text-align: justify"> Vishal Midya and J.G. Liao, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Accepted at **Communications in Statistics - Theory and Methods**, August 2021) </span>
+
 *  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al.,  <span style ="color:purple"> [Characterizing nicotine exposure among a community sample of non-daily smokers in the United States](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, May 2021 </span>
 
 * <span style="text-align: justify"> Pritish Mondal, Vishal Midya, Arshjot Khokhar et al.,  <span style ="color:purple"> [Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study](https://doi.org/10.3389/fped.2021.678174)</span>, **Frontiers in Pediatrics - Pediatric Pulmonology**, May 2021 </span>
@@ -54,16 +56,15 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Vishal Midya and J.G. Liao, Systematic Bias in Mean of Log Bayes Factor: Implication and Application. (Review and Resubmit at **Communications in Statistics - Theory and Methods**, August 2021) </span>
+* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using chemical mixture approaches </span>
+
+* <span style="text-align: justify"> Improved inference efficiency and validity using a Type 1 and Type 2 error calibrated cutoff with application in exposure mixtures analysis </span>
 
 ---
 
 # Under Preparation
 
 ---
-* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using chemical mixture approaches </span>
-
-* <span style="text-align: justify"> Improved inference efficiency and validity using a Type 1 and Type 2 error calibrated cutoff with application in exposure mixtures analysis </span>
 
 * <span style="text-align: justify"> Type 2 Diabetes risk prediction using High Resolution Metabolomics using Machine Learning Tool XGBoost - A proof of concept study </span>
 
