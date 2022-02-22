@@ -62,7 +62,7 @@ redirect_from:
 
 * <span style="text-align: justify"> State-of-the-Art Methods for Exposure-Health Studies: results from the Exposome Data Challenge Event </span>
 
-* <span style="text-align: justify"> Quantification of variation in environmental mixtures using Cohen’s f^2 in a type 1 and type 2 error balanced framework </span>
+* <span style="text-align: justify"> Quantification of variation in environmental mixtures using Cohen’s f2 in a type 1 and type 2 error balanced framework </span>
 
 ---
 
