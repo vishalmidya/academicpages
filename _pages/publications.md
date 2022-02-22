@@ -70,11 +70,11 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Type 2 Diabetes risk prediction using High Resolution Metabolomics using Machine Learning Tool XGBoost - A proof of concept study </span>
+* <span style="text-align: justify"> Propestive association between Type 2 Diabetes and endocrine-disrupting chemicals using High Resolution Metabolomics </span>
 
 * <span style="text-align: justify"> A Novel LASSO type Bayesian Weighted Quantile Sum Regression Approach for highly correlated multi-group mixture analysis: current context, importance and future directions </span>
 
-* <span style="text-align: justify"> Maternal Body Mass Index and Breastfeeding Outcomes: Examining Associations Across Three International Cohorts</span>
+* <span style="text-align: justify"> Association between time-varying metabolomics and PFAS exposures - from prenatal to adulthood </span>
 
 ---
 
