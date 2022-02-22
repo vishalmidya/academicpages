@@ -56,9 +56,13 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using chemical mixture approaches </span>
+* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using exposure mixture approaches </span>
 
-* <span style="text-align: justify"> Improved inference efficiency and validity using a Type 1 and Type 2 error calibrated cutoff with application in exposure mixtures analysis </span>
+* <span style="text-align: justify"> Mediators of the association between maternal body mass index and breastfeeding duration in three international cohorts  </span>
+
+* <span style="text-align: justify"> State-of-the-Art Methods for Exposure-Health Studies: results from the Exposome Data Challenge Event </span>
+
+* <span style="text-align: justify"> Quantification of variation in environmental mixtures using Cohen’s $f^2$ in a type 1 and type 2 error balanced framework </span>
 
 ---
 
