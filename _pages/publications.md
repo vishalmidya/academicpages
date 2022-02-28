@@ -82,7 +82,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Chaitra Rao, Rashi Midha, _Vishal Midya_ et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
+* <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
 ---
 
