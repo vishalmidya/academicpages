@@ -11,7 +11,7 @@ redirect_from:
 
 # Peer-Reviewed Publications
 
-* <span style="text-align: justify"> <span style ="color:red"> _Vishal Midya_ </span> and J.G. Liao, <span style ="color:purple"> [Systematic Bias in Mean of Log Bayes Factor: Implication and Application](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, August 2021 </span>
+* <span style="text-align: justify"> <span style ="color:red">_Vishal Midya_</span> and J.G. Liao, <span style ="color:purple"> [Systematic Bias in Mean of Log Bayes Factor: Implication and Application](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, August 2021 </span>
 
 *  <span style="text-align: justify"> Andréa L. Hobkirk, _Vishal Midya_, Nicolle M. Krebs et al.,  <span style ="color:purple"> [Characterizing nicotine exposure among a community sample of non-daily smokers in the United States](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, May 2021 </span>
 
