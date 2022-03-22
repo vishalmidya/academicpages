@@ -23,7 +23,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Best Paper Award in Mathematics, <span style ="color:purple">  19th West Bengal Science and Technology Congress </span>, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
 
-* <span style="text-align: justify"> Best of Subject Category Award in Mathematics at <span style ="color:purple">  Intel-IRIS National Science Fair </span> , India </span>
+* <span style="text-align: justify"> Best of Subject Category Award in Mathematics at <span style ="color:purple">  Intel-IRIS National Science Fair </span> , India, 2009 </span>
 
 ---
 
