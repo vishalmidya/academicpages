@@ -11,8 +11,9 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
+* <span style="text-align: justify"> 2019 - Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
 
+* 
 
 ---
 
