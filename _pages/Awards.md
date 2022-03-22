@@ -15,7 +15,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
 
-* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) & The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
+* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
 
