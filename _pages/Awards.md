@@ -7,7 +7,7 @@ redirect_from:
 - /Awards.html
 ---
 
-# Awards and Honors
+# Major awards and honors
 
 ---
 
