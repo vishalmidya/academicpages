@@ -21,7 +21,6 @@ redirect_from:
 
 ---
 * Exposome Symposium on **Exposomics COVID-19 and Health Disparities**; Exposome Data Challenge Event; 33rd Annual Conference of the International Society for Environmental Epidemiology, *2021*
-* American Thoracic Society International Conference, Dallas, *2019*
 * United States Conference on Teaching Statistics, State College, *2019*
 * Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *2018*
 * Annual Meeting of Society For Research On Nicotine and Tobacco, Baltimore, *2018*
