@@ -19,7 +19,11 @@ redirect_from:
 
 * <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) & The National Academy of Sciences (NASI) <span style ="color:purple">[Summer Research Fellowship in Mathematics](https://web-japps.ias.ac.in:8443/fellowship2014/lists/selectedList.jsp)</span>, 2014 </span>
 
-* <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016</span>
+* <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
+
+* <span style="text-align: justify"> Best Paper Award in Mathematics, <span style ="color:purple">  19th West Bengal Science and Technology Congress </span>, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
+
+* <span style="text-align: justify"> Best of Subject Category Award in Mathematics at <span style ="color:purple">  Intel-IRIS National Science Fair </span> , India </span>
 
 ---
 
