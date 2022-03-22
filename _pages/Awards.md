@@ -17,7 +17,7 @@ redirect_from:
 
 * <span style="text-align: justify"> Ranked **3rd** in US (25th among 193 teams worldwide, top 13%) in <span style ="color:purple">[Prudsys Data Mining Cup - International Student Competition 2018](https://www.data-mining-cup.com/dmc-2018/)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
 
-* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) & The National Academy of Sciences (NASI) <span style ="color:purple">[Summer Research Fellowship in Mathematics](https://web-japps.ias.ac.in:8443/fellowship2014/lists/selectedList.jsp)</span>, 2014 </span>
+* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) & The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
 
