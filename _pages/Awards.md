@@ -1,4 +1,25 @@
+---
+layout: archive
+title: " "
+permalink: /Awards and Honors/
+author_profile: true
+redirect_from: 
+- /Awards.html
+---
+
+# Awards and Honors
+
+---
+
+* <span style ="color:purple"> [Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data](https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html)</span> (with Daniel McGuire & Renan sauteraud), *December 2019*
+* Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
+* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
+
+---
+
+# Contributed Talks
 Awards and Honors
+
 
 \section{Major Achievements}
 \begin{longtable}{!{\hfill}p{3.6cm}p{14cm}}
