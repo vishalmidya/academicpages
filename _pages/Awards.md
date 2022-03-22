@@ -11,21 +11,15 @@ redirect_from:
 
 ---
 
+* <span style="text-align: justify">  <span style ="color:purple">[Graduate Alumni Society Award - 2019 & 2018](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span> Penn State College of Medicine, Pennsylvania State University </span>
+
 * <span style="text-align: justify"> Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
 
-* 
+* <span style="text-align: justify"> Ranked **3rd** in US (25th among 193 teams worldwide, top 13%) in <span style ="color:purple">[Prudsys Data Mining Cup - International Student Competition 2018](https://www.data-mining-cup.com/dmc-2018/)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
+
+* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) & The National Academy of Sciences (NASI) <span style ="color:purple">[Summer Research Fellowship in Mathematics](https://web-japps.ias.ac.in:8443/fellowship2014/lists/selectedList.jsp)</span>, 2014 </span>
+
+* <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016</span>
 
 ---
 
-\textsc{2018} & Ranked $3^{rd}$ in US ($25^{th}$ among $193$ teams worldwide, top $13$\%) in \href{https://www.data-mining-cup.com/dmc-2018/}{{Prudsys Data Mining Cup - International Student Competition 2018}} [with \href{https://www.linkedin.com/in/daniel-mcguire-0083099b/}{Daniel McGuire} \& \href{http://srenan.github.io/web/}{Renan sauteraud}] \\ \\ 
-
-\textsc{2013} & $2^{nd}$ in oral paper presentation at \textit{Spectrum}, Annual Seminar of Department of Physics, St. Xavier's College, Kolkata \\ \\
-
-\textsc{2012} & $1^{st}$ in oral paper presentation at \textit{Spectrum}, Annual Seminar of Department of Physics, St. Xavier's College, Kolkata \\ \\
-
-\textsc{2012} & Best Paper Award in Mathematics, $19^{th}$ West Bengal Science and Technology Congress, Saha Institute of Nuclear Physics \\ \\
-
-\textsc{2009} & Best of Subject Category Award in Mathematics, \emph{Intel-IRIS} National Science Fair, India\\ \\
- 
-\textsc{2008} & Special Prize (Certificate of Merit), West Bengal State Level Science Fair\\
-\end{longtable}
