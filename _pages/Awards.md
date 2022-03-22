@@ -11,21 +11,10 @@ redirect_from:
 
 ---
 
-* <span style ="color:purple"> [Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data](https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html)</span> (with Daniel McGuire & Renan sauteraud), *December 2019*
-* Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
-* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
+* <span style="text-align: justify"> Ranked $3^{rd}$ worldwide (among $87$ teams, top $4$\%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
+
 
 ---
-
-# Contributed Talks
-Awards and Honors
-
-
-\section{Major Achievements}
-\begin{longtable}{!{\hfill}p{3.6cm}p{14cm}}
-
-\textsc{2019} & Ranked $3^{rd}$ worldwide (among $87$ teams
-, top $4$\%) in \href{https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257}{\textit{Kaggle BigData Cup Challenge 2019: Flare Prediction}} (Solar Flare Prediction from Time Series of Solar Magnetic Field Parameters) [with \href{https://www.linkedin.com/in/daniel-mcguire-0083099b/}{Daniel McGuire} \& \href{http://srenan.github.io/web/}{Renan sauteraud}] \\ \\ 
 
 \textsc{2018} & Ranked $3^{rd}$ in US ($25^{th}$ among $193$ teams worldwide, top $13$\%) in \href{https://www.data-mining-cup.com/dmc-2018/}{{Prudsys Data Mining Cup - International Student Competition 2018}} [with \href{https://www.linkedin.com/in/daniel-mcguire-0083099b/}{Daniel McGuire} \& \href{http://srenan.github.io/web/}{Renan sauteraud}] \\ \\ 
 
