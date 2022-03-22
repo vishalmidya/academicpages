@@ -20,7 +20,7 @@ redirect_from:
 # Contributed Talks
 
 ---
-
+* Exposome Symposium on **Exposomics COVID-19 and Health Disparities**; Exposome Data Challenge Event; 33rd Annual Conference of the International Society for Environmental Epidemiology, *2021*
 * American Thoracic Society International Conference, Dallas, *2019*
 * United States Conference on Teaching Statistics, State College, *2019*
 * Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *2018*
