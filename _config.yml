@@ -175,6 +175,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  Awards:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -239,6 +242,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+   # _Awards
+  - scope:
+      path: ""
+      type: Awards
+    values:
+      layout: Awards
       author_profile: true
       share: true
 
