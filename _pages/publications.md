@@ -9,7 +9,9 @@ redirect_from:
 
 --- 
 
-# Peer-Reviewed Publications
+# Publications
+
+* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> Vishal Midya, Elena Colicino, David V. Conti et al., <span style ="color:purple"> [Association of Prenatal Exposure to Endocrine-Disrupting Chemicals With Liver Injury in Children](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793915)</span>, **JAMA Network Open**, July 2022 </span>
 
 * <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and J.G. Liao, <span style ="color:purple"> [Systematic Bias in Mean of Log Bayes Factor: Implication and Application](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, August 2021 </span>
 
@@ -18,6 +20,9 @@ redirect_from:
 * <span style="text-align: justify"> Pritish Mondal, <span style ="color:red">Vishal Midya</span>, Arshjot Khokhar et al.,  <span style ="color:purple"> [Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study](https://doi.org/10.3389/fped.2021.678174)</span>, **Frontiers in Pediatrics - Pediatric Pulmonology**, May 2021 </span>
 
 * <span style="text-align: justify"> Kate R Pawloski, Betty Kolod, Rabeea F Khan, <span style ="color:red">Vishal Midya</span> et al., <span style ="color:purple"> [Factors Associated with SARS-CoV-2 Infection in Physician Trainees in New York City during the First COVID-19 Wave](https://www.mdpi.com/1660-4601/18/10/5274)</span>, **International Journal of Environmental Research and Public Health**, May 2021 </span>
+
+*  <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> <span style ="color:purple"> [A Novel LASSO type Bayesian Weighted Quantile Sum Regression for highly correlated multi-group mixture analysis: current context, importance and future directions](https://policycommons.net/artifacts/2016311/a-novel-lasso-type-bayesian-weighted-quantile-sum-regression-for-highly-correlated-multi-group-mixture-analysis/2768754/)</span>, **ISGlobal: Instituto de Salud Global de Barcelona**, April 2021 </span>
+
   
 * <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
 
@@ -56,13 +61,11 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Prenatal exposure to endocrine-disrupting chemicals and liver injury in children using exposure mixture approaches </span>
-
 * <span style="text-align: justify"> Mediators of the association between maternal body mass index and breastfeeding duration in three international cohorts  </span>
 
 * <span style="text-align: justify"> State-of-the-Art Methods for Exposure-Health Studies: results from the Exposome Data Challenge Event </span>
 
-* <span style="text-align: justify"> Quantification of variation in environmental mixtures using Cohen’s f2 in a type 1 and type 2 error balanced framework </span>
+* <span style="text-align: justify"> Quantifying the Effect Size of Exposure-Outcome Association Using δ-score: Application to Environmental Chemical Mixture studies </span>
 
 ---
 
@@ -70,11 +73,9 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Propestive association between Type 2 Diabetes and endocrine-disrupting chemicals using High Resolution Metabolomics </span>
+* <span style="text-align: justify"> Exposure to perfluoroalkyl substances, incident Type 2 Diabetes risk and associated metabolic pathway dysregulation in a multiethnic population </span>
 
-* <span style="text-align: justify"> A Novel LASSO type Bayesian Weighted Quantile Sum Regression Approach for highly correlated multi-group mixture analysis: current context, importance and future directions </span>
-
-* <span style="text-align: justify"> Association between time-varying metabolomics and PFAS exposures - from prenatal to adulthood </span>
+* <span style="text-align: justify"> Detecting Synergistic Multi ordered Explanatory Interactions (Moxies) in Mixtures of Environmental Chemicals </span>
 
 ---
 
