@@ -67,6 +67,8 @@ redirect_from:
 
 * <span style="text-align: justify"> Quantifying the Effect Size of Exposure-Outcome Association Using δ-score: Application to Environmental Chemical Mixture studies </span>
 
+* <span style="text-align: justify"> Cysteine Restriction-Specific Effects of Sulfur Amino Acid Restriction on Lipid Metabolism </span>
+
 ---
 
 # Under Preparation
