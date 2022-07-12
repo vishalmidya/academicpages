@@ -9,8 +9,6 @@ redirect_from:
 
 --- 
 
-# Publications
-
 * <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> Vishal Midya, Elena Colicino, David V. Conti et al., <span style ="color:purple"> [Association of Prenatal Exposure to Endocrine-Disrupting Chemicals With Liver Injury in Children](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793915)</span>, **JAMA Network Open**, July 2022 </span>
 
 * <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and J.G. Liao, <span style ="color:purple"> [Systematic Bias in Mean of Log Bayes Factor: Implication and Application](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, August 2021 </span>
