@@ -69,15 +69,6 @@ redirect_from:
 
 ---
 
-# Under Preparation
-
----
-
-* <span style="text-align: justify"> Exposure to perfluoroalkyl substances, incident Type 2 Diabetes risk and associated metabolic pathway dysregulation in a multiethnic population </span>
-
-* <span style="text-align: justify"> Detecting Synergistic Multi ordered Explanatory Interactions (Moxies) in Mixtures of Environmental Chemicals </span>
-
----
 
 # Technical Report 
 
