@@ -58,18 +58,6 @@ redirect_from:
 * <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018 </span>
 
 
-
-# Under Review
-
---- 
-
-* <span style="text-align: justify"> Mediators of the association between maternal body mass index and breastfeeding duration in three international cohorts  </span>
-
-* <span style="text-align: justify"> Cysteine Restriction-Specific Effects of Sulfur Amino Acid Restriction on Lipid Metabolism </span>
-
----
-
-
 # Technical Report 
 
 ---
