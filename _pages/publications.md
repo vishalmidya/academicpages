@@ -9,6 +9,8 @@ redirect_from:
 
 --- 
 
+* <span style="text-align: justify"> Vishal Midya, Jiangang Liao, Chris Gennings et al., <span style ="color:purple"> [Quantifying the Effect Size of Exposure-Outcome Association Using δ-Score: Application to Environmental Chemical Mixture Studies](https://www.mdpi.com/2073-8994/14/10/1962)</span>, **Symmetry**, September 2022 </span>
+
 * <span style="text-align: justify"> Léa Maitre, Jean-Baptiste Guimbaud, Charline Warembourg et al., <span style ="color:purple"> [State-of-the-art methods for exposure-health studies: Results from the exposome data challenge event](https://www.sciencedirect.com/science/article/pii/S016041202200349X)</span>, **Environment International**, October 2022 </span>
 
 * <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Elena Colicino, David V. Conti et al., <span style ="color:purple"> [Association of Prenatal Exposure to Endocrine-Disrupting Chemicals With Liver Injury in Children](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793915)</span>, **JAMA Network Open**, July 2022 </span>
