@@ -38,7 +38,7 @@ redirect_from:
 
 * <span style="text-align: justify"> J.G.Liao, <span style ="color:red">Vishal Midya</span> , Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, January 2020 </span>
 
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, <span style ="color:red">Vishal Midya</span>^, <span style ="color:purple"> [Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares](https://ieeexplore.ieee.org/document/9006212)</span>,  **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019, ^_Equal contribution_</span>
+* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>^, Dan McGuire^, Renan Sauteraud^, <span style ="color:purple"> [Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares](https://ieeexplore.ieee.org/document/9006212)</span>,  **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019, ^_Equal contribution_</span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India](https://doi.org/10.1007/s00436-019-06540-2)</span>, **Parasitology Research**, November 2019 </span>
 
