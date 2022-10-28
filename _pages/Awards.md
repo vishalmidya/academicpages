@@ -14,9 +14,14 @@ redirect_from:
 * <span style="text-align: justify">  <span style ="color:purple"> **2022 Lilienfeld Postdoctoral Prize Paper Award Finalist** </span> 
  <br/> Society for Epidemiologic Research </span>
 
-* <span style="text-align: justify">  <span style ="color:purple">[Graduate Alumni Society Award - 2019 & 2018](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>, Penn State College of Medicine, Pennsylvania State University </span>
+* <span style="text-align: justify">  <span style ="color:purple">[**Graduate Alumni Society Award - 2019 & 2018**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
+<br/>
+Penn State College of Medicine, Pennsylvania State University </span>
 
-* <span style="text-align: justify"> Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
+* <span style="text-align: justify"> **Ranked **3rd** worldwide (among 87 teams)** 
+<br/> <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> 
+<br/> Solar Flare Prediction from Time Series of Solar Magnetic Field Parameters 
+<br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
 
