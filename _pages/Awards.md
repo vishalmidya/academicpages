@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:purple"> 2022 Lilienfeld Postdoctoral Prize Paper Award Finalist </span>, Society for Epidemiologic Research </span>
+* <span style="text-align: justify">  <span style ="color:purple"> **2022 Lilienfeld Postdoctoral Prize Paper Award Finalist** </span>, Society for Epidemiologic Research </span>
 
 * <span style="text-align: justify">  <span style ="color:purple">[Graduate Alumni Society Award - 2019 & 2018](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>, Penn State College of Medicine, Pennsylvania State University </span>
 
