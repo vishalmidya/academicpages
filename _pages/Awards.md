@@ -19,7 +19,6 @@ redirect_from:
 
 * <span style="text-align: justify"> **Ranked 3rd worldwide (among 87 teams)** 
 <br/> <span style ="color:purple">[_Kaggle BigData Cup Challenge 2019: Solar Flare Prediction_](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> 
-<br/> Solar Flare Prediction from Time Series of Solar Magnetic Field Parameters 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> **Ranked 25th worldwide (among 193 teams, 3rd in US)** 
