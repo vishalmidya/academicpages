@@ -22,7 +22,7 @@ redirect_from:
 <br/> Solar Flare Prediction from Time Series of Solar Magnetic Field Parameters 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> **Ranked **25th** worldwide (among 193 teams, **3rd** in US})** 
+* <span style="text-align: justify"> **Ranked **25th** worldwide (among 193 teams, **3rd** in US)** 
 <br/> <span style ="color:purple">[Prudsys Data Mining Cup - International Student Competition 2018](https://www.data-mining-cup.com/dmc-2018/)</span> 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
