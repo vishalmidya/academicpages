@@ -15,8 +15,7 @@ redirect_from:
  <br/> Society for Epidemiologic Research </span>
 
 * <span style="text-align: justify">  <span style ="color:purple">[**Graduate Alumni Society Award - 2019 & 2018**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
-<br/>
-Penn State College of Medicine, Pennsylvania State University </span>
+<br/> Penn State College of Medicine, Pennsylvania State University </span>
 
 * <span style="text-align: justify"> **Ranked **3rd** worldwide (among 87 teams)** 
 <br/> <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> 
