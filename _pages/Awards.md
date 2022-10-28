@@ -33,14 +33,14 @@ redirect_from:
 * <span style="text-align: justify"> <span style ="color:purple">[**Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship** (http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
 <br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
 
-* <span style="text-align: justify"> **Best Paper Award in Mathematics**<span style ="color:purple">  
-<br/> 19th West Bengal Science and Technology Congress </span>, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
+* <span style="text-align: justify"> **Best Paper Award in Mathematics**
+<br/> <span style ="color:purple"> 19th West Bengal Science and Technology Congress </span>, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
 
-* <span style="text-align: justify"> **Best of Subject Category Award in Mathematics** <span style ="color:purple">  
-<br/> Intel-IRIS National Science Fair </span>, India, 2009 </span>
+* <span style="text-align: justify"> **Best of Subject Category Award in Mathematics** 
+<br/> <span style ="color:purple"> Intel-IRIS National Science Fair </span>, India, 2009 </span>
 
-* <span style="text-align: justify"> **Special Prize (Certificate of Merit)** <span style ="color:purple">  
-<br/> West Bengal State Level Science Fair </span>, India, 2008 </span>
+* <span style="text-align: justify"> **Special Prize (Certificate of Merit)** 
+<br/> <span style ="color:purple"> West Bengal State Level Science Fair </span>, India, 2008 </span>
 
 ---
 
