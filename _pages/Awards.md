@@ -30,7 +30,7 @@ redirect_from:
 <br/> **Summer Research Fellowship in Mathematics** 
 <br/> <span style ="color:purple"> [National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
 
-* <span style="text-align: justify"> <span style ="color:purple">[**Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship**] (http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
+* <span style="text-align: justify"> <span style ="color:purple">[**Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship**](http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
 <br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
 
 * <span style="text-align: justify"> **Best Paper Award in Mathematics**
