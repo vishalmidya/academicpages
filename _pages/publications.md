@@ -54,7 +54,7 @@ redirect_from:
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [**The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data**](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018 </span>
 
-1. <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester et al.,<span style ="color:purple"> **[Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content**](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018 </span>
+1. <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester et al.,<span style ="color:purple">[**Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content**](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018 </span>
 
 
 # Technical Report 
