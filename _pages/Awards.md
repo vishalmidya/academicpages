@@ -22,6 +22,10 @@ redirect_from:
 <br/> Solar Flare Prediction from Time Series of Solar Magnetic Field Parameters 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
+* <span style="text-align: justify"> **Ranked **25^{th}** worldwide (among 193 teams, **3^{rd}** in US})** 
+<br/> <span style ="color:purple">[Prudsys Data Mining Cup - International Student Competition 2018](https://www.data-mining-cup.com/dmc-2018/)</span> 
+<br/> (with Daniel McGuire and Renan sauteraud) </span>
+
 * <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
