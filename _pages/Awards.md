@@ -21,7 +21,7 @@ redirect_from:
 <br/> <span style ="color:purple">_Kaggle BigData Cup Challenge 2019: Solar Flare Prediction_</span> 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> [**_Ranked 25th worldwide (among 193 teams, 3rd in US)]_**](https://www.data-mining-cup.com/dmc-2018/) 
+* <span style="text-align: justify"> [**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)
 <br/> <span style ="color:purple">_Prudsys Data Mining Cup - International Student Competition 2018_</span> 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
