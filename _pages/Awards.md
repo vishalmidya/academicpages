@@ -21,13 +21,13 @@ redirect_from:
 <br/> <span style ="color:purple">_Kaggle BigData Cup Challenge 2019: Solar Flare Prediction_</span> 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> [_**Ranked 25th worldwide (among 193 teams, 3rd in US)]**_](https://www.data-mining-cup.com/dmc-2018/) 
+* <span style="text-align: justify"> [**_Ranked 25th worldwide (among 193 teams, 3rd in US)]_**](https://www.data-mining-cup.com/dmc-2018/) 
 <br/> <span style ="color:purple">_Prudsys Data Mining Cup - International Student Competition 2018_</span> 
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> [**_Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI)_**](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)
 <br/> **Summer Research Fellowship in Mathematics** 
-<br/> <span style ="color:purple"> [National Brain Research Centre]</span>, 2014 </span>
+<br/> <span style ="color:purple"> National Brain Research Centre</span>, 2014 </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[**Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship**](http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
 <br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
