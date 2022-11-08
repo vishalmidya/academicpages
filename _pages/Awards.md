@@ -21,8 +21,7 @@ redirect_from:
 <br/> **Kaggle BigData Cup Challenge 2019: Solar Flare Prediction**
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)</span> 
-<br/> **Prudsys Data Mining Cup - International Student Competition 2018**
+* <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)</span> <br/> **Prudsys Data Mining Cup - International Student Competition 2018**
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[**_Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI)_**](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>
