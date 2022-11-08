@@ -19,7 +19,7 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and J.G. Liao, <span style ="color:purple"> [**Systematic Bias in Mean of Log Bayes Factor: Implication and Application**](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, 2021, 1–10. </span>
 
-1. <span style="text-align: justify"> Andréa L. Hobkirk, <span style ="color:red">Vishal Midya</span>, Nicolle M. Krebs et al.,  <span style ="color:purple"> [**Characterizing nicotine exposure among a community sample of non-daily smokers in the United States**](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, May 2021 </span>
+1. <span style="text-align: justify"> Andréa L. Hobkirk, <span style ="color:red">Vishal Midya</span>, Nicolle M. Krebs, Sophia I. Allen, Lisa Reinhart, Dongxiao Sun, Andrea L. Stennett, Joshua E. Muscat, <span style ="color:purple"> [**Characterizing nicotine exposure among a community sample of non-daily smokers in the United States**](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, vol. 21, no. 1, 1025, 2021.  </span>
 
 1. <span style="text-align: justify"> Pritish Mondal, <span style ="color:red">Vishal Midya</span>, Arshjot Khokhar et al.,  <span style ="color:purple"> [**Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study**](https://doi.org/10.3389/fped.2021.678174)</span>, **Frontiers in Pediatrics - Pediatric Pulmonology**, May 2021 </span>
 
