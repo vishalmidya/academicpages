@@ -17,17 +17,17 @@ redirect_from:
 * <span style="text-align: justify">  <span style ="color:purple">[**_Graduate Alumni Society Award - 2019 & 2018_**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
 <br/> Penn State College of Medicine, Pennsylvania State University </span>
 
-* <span style="text-align: justify"> [**_Ranked 3rd worldwide (among 87 teams)_**](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257) 
-<br/> <span style ="color:purple">**Kaggle BigData Cup Challenge 2019: Solar Flare Prediction**</span> 
+* <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 3rd worldwide (among 87 teams)_**](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span>  
+<br/> **Kaggle BigData Cup Challenge 2019: Solar Flare Prediction**
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> [**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)
-<br/> <span style ="color:purple">**Prudsys Data Mining Cup - International Student Competition 2018**</span> 
+* <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)</span> 
+<br/> **Prudsys Data Mining Cup - International Student Competition 2018**
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
-* <span style="text-align: justify"> [**_Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI)_**](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)
+* <span style="text-align: justify"> <span style ="color:purple">[**_Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI)_**](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>
 <br/> **Summer Research Fellowship in Mathematics** 
-<br/> <span style ="color:purple"> National Brain Research Centre</span>, 2014 </span>
+<br/>  National Brain Research Centre</span>, 2014 
 
 * <span style="text-align: justify"> <span style ="color:purple">[**Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship**](http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
 <br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
