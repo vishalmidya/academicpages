@@ -17,8 +17,7 @@ redirect_from:
 * <span style="text-align: justify">  <span style ="color:purple">[**_Graduate Alumni Society Award - 2019 & 2018_**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
 <br/> Penn State College of Medicine, Pennsylvania State University </span>
 
-* <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 3rd worldwide (among 87 teams)_**](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span>  
-<br/> **Kaggle BigData Cup Challenge 2019: Solar Flare Prediction**
+* <span style="text-align: justify"><span style ="color:purple">[**_Ranked 3rd worldwide (among 87 teams)_**](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> <br/> **Kaggle BigData Cup Challenge 2019: Solar Flare Prediction**
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[**_Ranked 25th worldwide (among 193 teams, 3rd in US)_**](https://www.data-mining-cup.com/dmc-2018/)</span> <br/> **Prudsys Data Mining Cup - International Student Competition 2018**
