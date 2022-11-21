@@ -9,6 +9,8 @@ redirect_from:
 
 --- 
 
+1. <span style="text-align: justify"> Sailendra N. Nichenametla, Dwight A. L. Mattocks, Diana Cooke, <span style ="color:red">Vishal Midya</span>, Virginia L. Malloy, Wilfredo Mansilla, Bente Øvrebø, Cheryl Turner, Nasser E. Bastani, Jitka Sokolová, Markéta Pavlíková, John P. Richie Jr., Anna K. Shoveller, Helga Refsum, Thomas Olsen, Kathrine J. Vinknes, Viktor Kožich, Gene P. Ables. (2022). <span style ="color:purple"> [**Cysteine restriction-specific effects of sulfur amino acid restriction on lipid metabolism**](https://onlinelibrary.wiley.com/doi/10.1111/acel.13739)</span>, **Aging Cell**, 00, e13739. </span>
+
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jiangang Liao, Chris Gennings, Elena Colicino, Susan L. Teitelbaum, Robert O. Wright, and Damaskini Valvi. 2022. <span style ="color:purple"> [**Quantifying the Effect Size of Exposure-Outcome Association Using δ-Score: Application to Environmental Chemical Mixture Studies**](https://www.mdpi.com/2073-8994/14/10/1962)</span>, **_Symmetry_**, 14, no. 10: 1962. </span>
 
 1. <span style="text-align: justify"> Léa Maitre, Jean-Baptiste Guimbaud, Charline Warembourg, Nuria Güil-Oumrait, Paula Marcela Petrone,
