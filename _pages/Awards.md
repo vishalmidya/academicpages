@@ -27,8 +27,8 @@ redirect_from:
 <br/> **Summer Research Fellowship in Mathematics** 
 <br/>  National Brain Research Centre</span>, 2014 
 
-* **All India Rank 22 in Mathematical Statistics**
-<br/> Indian Institute of Technology-Joint Admission Test for Masters (IIT JAM), 2014 </span>
+*  <span style="text-align: justify"> <span style ="color:purple">**All India Rank 22 in Mathematical Statistics**</span>
+<br/> Indian Institute of Technology-Joint Admission Test for Masters (IIT JAM)</span>, 2014
 
 * <span style="text-align: justify"> <span style ="color:purple">[**_Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship_**](http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
 <br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
