@@ -15,4 +15,4 @@ Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Dama
 
 Codes for some of my papers and projects can be found in my <span style ="color:blue">[github profile](https://github.com/vishalmidya)</span>.
 
-<span style="text-align: justify">I am a serious Matcha green tea aficionado. Outside studies, I enjoy long distance running, rowing, volleyball, cooking and <span style ="color:blue">[adda](https://en.wikipedia.org/wiki/Adda_(South_Asian)</span>).</span>
+<span style="text-align: justify">I am a serious Matcha green tea aficionado. Outside studies, I enjoy the outdoors, long distance running, rowing, and volleyball.</span>
