@@ -19,7 +19,7 @@ author_profile: true
 
 7. <span style ="color:blue">[Mount Sinai Newsroom](https://www.mountsinai.org/about/newsroom/2022/prenatal-exposure-to-chemicals-in-consumer-and-industrial-products-is-associated-with-rising-liver-disease-in-children)</span> and <span style ="color:blue">[Icahn School of Medicine](https://www.youtube.com/watch?v=gaiKVC2R_yA)</span>
 
-8. Recognized in <span style ="color:blue"> [Pediatric Pulmonology Year in Review 2019: Physiology](https://pubmed.ncbi.nlm.nih.gov/32729952/)</span> as one of the **reports published in Pediatric Pulmonology that advanced the field of pediatric pulmonary physiology**
+8. Recognized in <span style ="color:blue"> [Pediatric Pulmonology Year in Review 2019: Physiology](https://pubmed.ncbi.nlm.nih.gov/32729952/)</span> as one of the reports published in Pediatric Pulmonology that advanced the field of pediatric pulmonary physiology
 
 9. <span style ="color:blue"> [Two-part podcast series](https://indscicomm.blog/podcast/emotions-hindustani-music-part-2/)</span> on Neuroscience and Hindustani Music by <span style ="color:blue"> [IndSciComm](https://indscicomm.blog/)</span> based on my paper at <span style ="color:blue"> [PLoS ONE](https://doi.org/10.1371/journal.pone.0222380)</span> and this paper at <span style ="color:blue"> [Frontiers in Psychology
 ](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00513/full)</span>
