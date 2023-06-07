@@ -71,6 +71,10 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 
 1. <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester, J.G. Liao, Jessica Yingst, Shari Hrabovsky, Sophia I Allen, Nicolle M Krebs, Lisa Reinhart, A Eden Evins, Kimberly Horn, John Richie, Joshua Muscat, Jonathan Foulds, <span style ="color:purple">[**Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content**](https://doi.org/10.18001/TRS.4.1.4)</span>, **_Tobacco Regulatory Science_**, 2018;4(1):573-585.  </span>
 
+---
+---
+
+
 # Under Review
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, pre print available at **_medRxiv_**.</span>
@@ -79,10 +83,11 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, pre print available at **_Research Square_**.</span>
 
+---
+---
+
 
 # Technical Report 
-
----
 
 1. <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [**Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists**](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
