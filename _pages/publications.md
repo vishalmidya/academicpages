@@ -9,6 +9,8 @@ redirect_from:
 
 --- 
 
+1. <span style="text-align: justify"> Shoshannah Eggers, <span style ="color:red">Vishal Midya</span>, Moira Bixby, Chris Gennings, Libni A Torres-Olascoaga, Ryan W Walker, Robert O Wright, Manish Arora and Martha Maria Tellez Rojo <span style ="color:purple"> [**Prenatal Lead Exposure is Negatively Associated with the Gut Microbiome in Childhood**](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1193919/abstract)</span>, **_Frontiers in Microbiology_**, in press. </span>
+
 1. <span style="text-align: justify"> Madeline Keyes, Chloe Andrews, <span style ="color:red">Vishal Midya</span>, Paula Carrasco, Mònica Guxens, Alba Jimeno-Romero, Mario Murcia, Cristina Rodriguez-Dehli, Dora Romaguera, Loreto Santa-Maria, Marina Vafeiadi, Lida Chatzi, Emily Oken, Martine Vrijheid, Damaskini Valvi, Sarbattama Sen,  <span style ="color:purple"> [**Mediators of the association between maternal body mass index and breastfeeding duration in 3 international cohorts**](https://www.sciencedirect.com/science/article/pii/S0002916523463332)</span>, **_The American Journal of Clinical Nutrition_**, 2023/5/18. </span>
 
 1. <span style="text-align: justify"> Tania P Chen, Meizhen Yao, <span style ="color:red">Vishal Midya</span>, Betty Kolod, Rabeea F Khan, Adeyemi Oduwole, Bernard Camins, I Michael Leitman, Ismail Nabeel, Kristin Oliver, Damaskini Valvi, <span style ="color:purple"> [**Symptoms Predicting SARS-CoV-2 Test Results in Resident Physicians and Fellows in New York City**](https://doi.org/10.3390/covid3050049)</span>, **_COVID_**, 2023; 3(5):671-681. </span>
@@ -59,7 +61,6 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 
 1. <span style="text-align: justify"> Arshjot Khokar, Athira Nair, <span style ="color:red">Vishal Midya</span>, Ashutosh Kumar, Ankita Sinharoy, Tariq Ali Ahmad, Mutasim Abu-Hasan, Pritish Mondal, <span style ="color:purple"> [**The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy**](https://doi.org/10.1002/mus.26623)</span>, **_Muscle and Nerve_**, 60: 286-291. </span>
 
-
 1. <span style="text-align: justify"> Pritish Mondal, Alison Yirinec, <span style ="color:red">Vishal Midya</span>, Binu-John Sankoorikal, Gayle Smink, Arshjot Khokhar, Mutasim Abu-Hasan, Rebecca Bascom, <span style ="color:purple">[**Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease**](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppul.24382)</span>, **_Pediatric Pulmonology_**. 2019; 54: 1422- 1430.  </span>
 
 1. <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, <span style ="color:red">Vishal Midya</span>, Breianna Hummer, Courtney Lester, Nicolle Krebs, Shari Hrabovsky, Ashley Wilhelm, Jason Liao, Miao-Shan Yen, Caroline Cobb, Thomas Eissenberg, Jonathan Foulds, <span style ="color:purple"> [**Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial**](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **_Addictive Behaviours_**, Volume 91, 2019, Pages 95-101, ISSN 0306-4603. </span>
@@ -69,6 +70,14 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Sekhar Pal, Ankita Sinharoy, Jishu K. Das, Harish Rao, Mutasim Abu-Hasan, Pritish Mondal, <span style ="color:purple"> [**The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data**](https://doi.org/10.3389/fpubh.2018.00295)</span>, **_Frontiers in Public Health_**, 6:295, 2018. </span>
 
 1. <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester, J.G. Liao, Jessica Yingst, Shari Hrabovsky, Sophia I Allen, Nicolle M Krebs, Lisa Reinhart, A Eden Evins, Kimberly Horn, John Richie, Joshua Muscat, Jonathan Foulds, <span style ="color:purple">[**Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content**](https://doi.org/10.18001/TRS.4.1.4)</span>, **_Tobacco Regulatory Science_**, 2018;4(1):573-585.  </span>
+
+# Under Review
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, pre print available at **_medRxiv_**.</span>
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil Lane, Chris Gennings, Libni A Torres-Olascoaga, Robert O Wright, Manish Arora, Martha Maria Tellez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://www.medrxiv.org/content/10.1101/2023.05.18.23290127v1.full.pdf)</span>, pre print available at **_medRxiv_**.</span>
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, pre print available at **_Research Square_**.</span>
 
 
 # Technical Report 
