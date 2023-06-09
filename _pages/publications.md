@@ -19,7 +19,9 @@ redirect_from:
 ---
 ---
 
-# 2023
+# Peer-reviewed Publication
+
+## 2023
 
 1. <span style="text-align: justify"> Shoshannah Eggers, <span style ="color:red">Vishal Midya</span>, Moira Bixby, Chris Gennings, Libni A Torres-Olascoaga, Ryan W Walker, Robert O Wright, Manish Arora and Martha Maria Tellez Rojo <span style ="color:purple"> [**Prenatal Lead Exposure is Negatively Associated with the Gut Microbiome in Childhood**](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1193919/abstract)</span>, **_Frontiers in Microbiology_**, in press. </span>
 
