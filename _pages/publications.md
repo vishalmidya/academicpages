@@ -8,7 +8,7 @@ redirect_from:
 ---
 --- 
 
-# Under Review
+## Under Review
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, pre print available at **_medRxiv_**.</span>
 
@@ -19,7 +19,7 @@ redirect_from:
 ---
 ---
 
-# Peer-reviewed Publication
+# Peer-reviewed Publications
 
 ## 2023
 
@@ -36,7 +36,7 @@ redirect_from:
 ---
 ---
 
-# 2022
+## 2022
 
 1. <span style="text-align: justify"> Sailendra N. Nichenametla, Dwight A. L. Mattocks, Diana Cooke, <span style ="color:red">Vishal Midya</span>, Virginia L. Malloy, Wilfredo Mansilla, Bente Øvrebø, Cheryl Turner, Nasser E. Bastani, Jitka Sokolová, Markéta Pavlíková, John P. Richie Jr., Anna K. Shoveller, Helga Refsum, Thomas Olsen, Kathrine J. Vinknes, Viktor Kožich, Gene P. Ables. (2022). <span style ="color:purple"> [**Cysteine restriction-specific effects of sulfur amino acid restriction on lipid metabolism**](https://onlinelibrary.wiley.com/doi/10.1111/acel.13739)</span>, **_Aging Cell_**, 00, e13739. </span>
 
@@ -51,7 +51,7 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 ---
 ---
 
-# 2021
+## 2021
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and J.G. Liao, <span style ="color:purple"> [**Systematic Bias in Mean of Log Bayes Factor: Implication and Application**](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **_Communications in Statistics - Theory and Methods_**, 2021, 1–10. </span>
 
@@ -76,7 +76,7 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 ---
 ---
 
-# 2020
+## 2020
 
 1. <span style="text-align: justify"> Darya S. Nesterova, <span style ="color:red">Vishal Midya</span>, Brad E. Zacharia, Elizabeth A Proctor, Sang Y Lee, Lindsay C Stetson, Justin D Lathia, Joshua B Rubin, Kristin A Waite, Michael E Berens, Jill S Barnholtz-Sloan, James R Connor <span style ="color:purple"> [**Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma**](https://academic.oup.com/noa/advance-article/doi/10.1093/noajnl/vdaa001/5696853)</span>, **_Neuro-Oncology Advances_**, Volume 2, Issue 1, January-December 2020, vdaa001. </span>
 
@@ -88,7 +88,7 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 ---
 ---
 
-# 2019
+## 2019
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>^, Jeffrey Valla^, Hymavathy Balasubramanian, Avantika Mathur, Nandini Chatterjee Singh <span style ="color:purple"> [**Cultural differences in the use of acoustic cues for musical emotion experience**](https://doi.org/10.1371/journal.pone.0222380)</span>, **_PLoS ONE_**, 14(9): e0222380. ^_Equal contribution_</span>
 
@@ -103,7 +103,7 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 ---
 ---
 
-# 2018
+## 2018
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Sekhar Pal, Ankita Sinharoy, Jishu K. Das, Harish Rao, Mutasim Abu-Hasan, Pritish Mondal, <span style ="color:purple"> [**The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data**](https://doi.org/10.3389/fpubh.2018.00295)</span>, **_Frontiers in Public Health_**, 6:295, 2018. </span>
 
