@@ -121,16 +121,11 @@ Participant Consortium*, <span style ="color:purple"> [**State-of-the-art method
 
 ## 2015
 
+1. <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [**Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists**](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
+
 1. <span style="text-align: justify"> Anirban Patranabis, Kaushik Banerjee, <span style ="color:red">Vishal Midya</span>, Sneha Chakraborty, Shankha Sanyal, Archi Banerjee, Ranjan Sengupta, Dipak Ghosh. <span style ="color:purple"> [**Harmonic and timbre analysis of tabla strokes**](https://arxiv.org/abs/1510.04880)</span>, preprint available at **_arXiv_**.</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>. <span style ="color:purple"> [**On Mathematical Functions for Theoretical and Experimental Distributions for Shrutis (Micro Tonal Intervals) and Their Application in Hindustani Music**](https://arxiv.org/abs/1502.03679)</span>, preprint available at **_arXiv_**.</span>
-
----
----
-
-# Technical Report 
-
-1. <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [**Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists**](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
 ---
 
