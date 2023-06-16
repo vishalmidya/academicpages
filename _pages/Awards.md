@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:purple"> **_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_** </span> 
+* <span style="text-align: justify">  <span style ="color:purple"> [**_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_**](https://epiresearch.org/annual-meeting/2022-meeting/2022-award-winners/) </span> 
  <br/> **Society for Epidemiologic Research** </span>
 
 * <span style="text-align: justify">  <span style ="color:purple">[**_Graduate Alumni Society Award - 2019 & 2018_**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
