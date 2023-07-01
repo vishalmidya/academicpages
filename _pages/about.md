@@ -17,7 +17,7 @@ My research can be broadly divided into three categories:
 
 **Microbial Exposomics**
 
-1. 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil Lane, Chris Gennings, Libni A Torres-Olascoaga, Robert O Wright, Manish Arora, Martha Maria Tellez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://www.medrxiv.org/content/10.1101/2023.05.18.23290127v1.full.pdf)</span>, preprint available at **_medRxiv_**.</span>
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil Lane, Chris Gennings, Libni A Torres-Olascoaga, Robert O Wright, Manish Arora, Martha Maria Tellez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://www.medrxiv.org/content/10.1101/2023.05.18.23290127v1.full.pdf)</span>, preprint available at **_medRxiv_**.</span>
 
 1. <span style="text-align: justify"> Shoshannah Eggers, <span style ="color:red">Vishal Midya</span>, Moira Bixby, Chris Gennings, Libni A Torres-Olascoaga, Ryan W Walker, Robert O Wright, Manish Arora and Martha Maria Tellez Rojo <span style ="color:purple"> [**Prenatal Lead Exposure is Negatively Associated with the Gut Microbiome in Childhood**](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1193919/full)</span>, **_Frontiers in Microbiology_**, June 2023, Sec. Microorganisms in Vertebrate Digestive Systems, Volume 14 - 2023. </span>
 
