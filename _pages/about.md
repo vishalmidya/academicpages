@@ -15,7 +15,7 @@ Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Dama
 
 My current research can be broadly divided into three categories:
 
-**Applied Machine-Learning in Environmental Health**
+<span style="font-size: 16px">**_Applied Machine-Learning in Environmental Health_**
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, preprint available at **_medRxiv_**.</span>
 
