@@ -28,7 +28,7 @@ My current research can be broadly divided into three categories:
 
 1. <span style="text-align: justify"> Shoshannah Eggers, <span style ="color:red">Vishal Midya</span>, Moira Bixby, Chris Gennings, Libni A Torres-Olascoaga, Ryan W Walker, Robert O Wright, Manish Arora and Martha Maria Tellez Rojo <span style ="color:purple"> [**Prenatal Lead Exposure is Negatively Associated with the Gut Microbiome in Childhood**](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1193919/full)</span>, **_Frontiers in Microbiology_**, June 2023, Sec. Microorganisms in Vertebrate Digestive Systems, Volume 14 - 2023. </span>
 
-**Environmental Health and Epidemiology**
+**Environmental Epidemiology**
 
 1. <span style="text-align: justify"> Sandra India-Aldana, Meizhen Yao, <span style ="color:red">Vishal Midya</span>, Elena Colicino, Leda Chatzi, Jaime Chu, Chris Gennings, Dean P. Jones, Ruth J. F. Loos, Veronica W. Setiawan, Mathew Ryan Smith, Ryan W. Walker, Dinesh Barupal, Douglas I. Walker & Damaskini Valvi <span style ="color:purple"> [**PFAS Exposures and the Human Metabolome: A Systematic Review of Epidemiological Studies**](https://link.springer.com/article/10.1007/s40726-023-00269-4)</span>, **_Current Pollution Reports_**, June 2023. </span>
 
