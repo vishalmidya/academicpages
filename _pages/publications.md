@@ -10,14 +10,14 @@ redirect_from:
 
 ## Under Review
 
-1. <span style="text-align: justify"> Manasi Agrawal*, <span style ="color:red">Vishal Midya*</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
-PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**</span>.*equal contribution</span>
+1. <span style="text-align: justify"> Manasi Agrawal#, <span style ="color:red">Vishal Midya#</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
+PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**</span>.#equal contribution</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil Lane, Chris Gennings, Libni A Torres-Olascoaga, Robert O Wright, Manish Arora, Martha Maria Tellez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://www.medrxiv.org/content/10.1101/2023.05.18.23290127v1.full.pdf)</span>, pre print available at **_medRxiv_**.</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, preprint available at **_Research Square_**.</span>
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya*</span>, Cecilia Sara Alcala*, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, preprint available at **_medRxiv_**.*equal contribution</span>
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Cecilia Sara Alcala#, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, preprint available at **_medRxiv_**.#equal contribution</span>
 
 ---
 ---
