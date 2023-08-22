@@ -17,14 +17,14 @@ PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl 
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, preprint available at **_Research Square_**.</span>
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Cecilia Sara Alcala#, Elza Rechtman, Jill K Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine learning assisted discovery of synergistic interactions between environmental pesticides, phthalates, phenols, and trace elements in child neurodevelopment**](https://www.medrxiv.org/content/10.1101/2023.02.02.23285222.full.pdf)</span>, preprint available at **_medRxiv_**.#equal contribution</span>
-
 ---
 ---
 
 # Peer-reviewed Publications
 
 ## 2023
+
+1. 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K. Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria J. Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine Learning Assisted Discovery of Interactions between Pesticides, Phthalates, Phenols, and Trace Elements in Child Neurodevelopment**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c00848)</span>, **_Environmental Science & Technology_**, August 2023</span>
 
 1. <span style="text-align: justify"> Sandra India-Aldana, Meizhen Yao, <span style ="color:red">Vishal Midya</span>, Elena Colicino, Leda Chatzi, Jaime Chu, Chris Gennings, Dean P. Jones, Ruth J. F. Loos, Veronica W. Setiawan, Mathew Ryan Smith, Ryan W. Walker, Dinesh Barupal, Douglas I. Walker & Damaskini Valvi <span style ="color:purple"> [**PFAS Exposures and the Human Metabolome: A Systematic Review of Epidemiological Studies**](https://link.springer.com/article/10.1007/s40726-023-00269-4)</span>, **_Current Pollution Reports_**, June 2023. </span>
 
