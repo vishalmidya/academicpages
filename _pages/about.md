@@ -15,9 +15,9 @@ My primary research focuses on how prenatal exposure to environmental chemicals 
 
 My current research can be broadly divided into three categories:
 
-1. <span style="font-size: 18px">**_Machine-Learning in Environmental Health_**
+1. <span style="font-size: 20px">**_Machine-learning in environmental health_**
 
-1. <span style="font-size: 18px">**_Microbial Exposomics_**
+1. <span style="font-size: 20px">**_Exposomics, microbiome and human health_**
 
-1. <span style="font-size: 18px">**_Environmental Epidemiology_**
+1. <span style="font-size: 20px">**_Environmental epidemiology_**
 
