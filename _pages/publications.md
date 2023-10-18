@@ -15,14 +15,14 @@ redirect_from:
 1. <span style="text-align: justify"> Manasi Agrawal#, <span style ="color:red">Vishal Midya#</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
 PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**</span>, under review.#equal contribution</span>
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, preprint available at **_Research Square_**.</span>
-
 ---
 ---
 
 # Peer-reviewed Publications
 
 ## 2023
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> **Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**</span>, accepted at **_Statistics in Bioscience_**, October 2023. </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil M. Lane, Chris Gennings, Libni A. Torres-Olascoaga, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Shoshannah Eggers. <span style ="color:purple"> **Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**</span>, accepted at **_Environmental Science & Technology_**, September 2023. </span>
 
