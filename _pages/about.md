@@ -15,26 +15,9 @@ My primary research focuses on how prenatal exposure to environmental chemicals 
 
 My current research can be broadly divided into three categories:
 
-<span style="font-size: 18px">**_Applied Machine-Learning in Environmental Health_**
+1. <span style="font-size: 18px">**_Machine-Learning in Environmental Health_**
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Cecilia Sara Alcala, Elza Rechtman, Jill K. Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria J. Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine Learning Assisted Discovery of Interactions between Pesticides, Phthalates, Phenols, and Trace Elements in Child Neurodevelopment**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c00848)</span>, **_Environmental Science & Technology_**, August 2023</span>
+1. <span style="font-size: 18px">**_Microbial Exposomics_**
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://assets.researchsquare.com/files/rs-2996735/v1_covered_3ff85cb5-c707-4a16-b5a1-b52e3170713f.pdf?c=1685508694)</span>, preprint available at **_Research Square_**.</span>
-
-
-<span style="font-size: 18px">**_Microbial Exposomics_**
-
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil Lane, Chris Gennings, Libni A Torres-Olascoaga, Robert O Wright, Manish Arora, Martha Maria Tellez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://www.medrxiv.org/content/10.1101/2023.05.18.23290127v1.full.pdf)</span>, preprint available at **_medRxiv_**.</span>
-
-1. <span style="text-align: justify"> Shoshannah Eggers, <span style ="color:red">Vishal Midya</span>, Moira Bixby, Chris Gennings, Libni A Torres-Olascoaga, Ryan W Walker, Robert O Wright, Manish Arora and Martha Maria Tellez Rojo <span style ="color:purple"> [**Prenatal Lead Exposure is Negatively Associated with the Gut Microbiome in Childhood**](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1193919/full)</span>, **_Frontiers in Microbiology_**, June 2023, Sec. Microorganisms in Vertebrate Digestive Systems, Volume 14 - 2023. </span>
-
-<span style="font-size: 18px">**_Environmental Epidemiology_**
-
-1. <span style="text-align: justify"> Sandra India-Aldana, Meizhen Yao, <span style ="color:red">Vishal Midya</span>, Elena Colicino, Leda Chatzi, Jaime Chu, Chris Gennings, Dean P. Jones, Ruth J. F. Loos, Veronica W. Setiawan, Mathew Ryan Smith, Ryan W. Walker, Dinesh Barupal, Douglas I. Walker & Damaskini Valvi <span style ="color:purple"> [**PFAS Exposures and the Human Metabolome: A Systematic Review of Epidemiological Studies**](https://link.springer.com/article/10.1007/s40726-023-00269-4)</span>, **_Current Pollution Reports_**, June 2023. </span>
-
-1. <span style="text-align: justify"> Madeline Keyes, Chloe Andrews, <span style ="color:red">Vishal Midya</span>, Paula Carrasco, Mònica Guxens, Alba Jimeno-Romero, Mario Murcia, Cristina Rodriguez-Dehli, Dora Romaguera, Loreto Santa-Maria, Marina Vafeiadi, Lida Chatzi, Emily Oken, Martine Vrijheid, Damaskini Valvi, Sarbattama Sen,  <span style ="color:purple"> [**Mediators of the association between maternal body mass index and breastfeeding duration in 3 international cohorts**](https://www.sciencedirect.com/science/article/pii/S0002916523463332)</span>, **_The American Journal of Clinical Nutrition_**, in press. </span>
-
-1. <span style="text-align: justify"> Nathan J. Cohen, Meizhen Yao, <span style ="color:red">Vishal Midya</span>, Sandra India-Aldana, Tomer Mouzica, Syam S. Andra, Srinivasan Narasimhan, Anil K. Meher, Manish Arora, Jerry Kok Yen Chan, Shiao-Yng Chan, See Ling Loy, Lidia Minguez-Alarcon, Youssef Oulhote, Jonathan Huang, Damaskini Valvi,  <span style ="color:purple"> [**Exposure to perfluoroalkyl substances and women's fertility outcomes in a Singaporean population-based preconception cohort**](https://www.sciencedirect.com/science/article/abs/pii/S0048969723008835)</span>, **_Science of The Total Environment_**, 2023 Vol. 873. </span>
-
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Elena Colicino, David V Conti, Kiros Berhane, Erika Garcia, Nikos Stratakis, Sandra Andrusaityte, Xavier Basagaña, Maribel Casas, Serena Fossati, Regina Gražuleviciene, Line Småstuen Haug, Barbara Heude, Léa Maitre, Rosemary McEachan, Eleni Papadopoulou, Theano Roumeliotaki, Claire Philippat, Cathrine Thomsen, Jose Urquiza, Marina Vafeiadi, Nerea Varo, Miriam B Vos, John Wright, Rob McConnell, Martine Vrijheid, Lida Chatzi, Damaskini Valvi, <span style ="color:purple"> [**Association of Prenatal Exposure to Endocrine-Disrupting Chemicals With Liver Injury in Children**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793915)</span>, **_JAMA Network Open_**. 2022;5(7):e2220176. </span>
+1. <span style="font-size: 18px">**_Environmental Epidemiology_**
 
