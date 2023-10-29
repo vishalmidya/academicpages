@@ -25,7 +25,7 @@ PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> **Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**</span>, accepted at **_Statistics in Bioscience_**, October 2023. </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil M. Lane, Chris Gennings, Libni A. Torres-Olascoaga, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c04346
-)</span>, **_Environmental Science & Technology_**, September 2023. </span>
+)</span>, **_Environmental Science & Technology_**, October 2023. </span>
 
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Cecilia Sara Alcala#, Elza Rechtman, Jill K. Gregory, Kurunthachalam Kannan, Irva Hertz-Picciotto, Susan L. Teitelbaum, Chris Gennings, Maria J. Rosa, and Damaskini Valvi. <span style ="color:purple"> [**Machine Learning Assisted Discovery of Interactions between Pesticides, Phthalates, Phenols, and Trace Elements in Child Neurodevelopment**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c00848)</span>, **_Environmental Science & Technology_**, August 2023. #equal contribution</span>
