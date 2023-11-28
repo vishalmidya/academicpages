@@ -10,7 +10,9 @@ redirect_from:
 
 ## Under Review
 
-1. <span style="text-align: justify">Kiran Nagdeo#, <span style ="color:red">Vishal Midya#</span>, Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila may mediate the association between prenatal metal mixture exposure and childhood depressive symptoms**</span>, under review.#equal contribution</span>
+1. <span style="text-align: justify"><span style ="color:red">Vishal Midya#</span>, Kiran Nagdeo#,  Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila may mediate the association between prenatal metal mixture exposure and childhood depressive symptoms**</span>, under review.#equal contribution</span>
+
+1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**</span>, under review.#equal contribution</span>
 
 1. <span style="text-align: justify"> Manasi Agrawal#, <span style ="color:red">Vishal Midya#</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
 PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**</span>, under review.#equal contribution</span>
@@ -22,7 +24,7 @@ PREDICTS collaborators. <span style ="color:purple">**Per- and poly-fluoroalkyl 
 
 ## 2023
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> **Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**</span>, accepted at **_Statistics in Bioscience_**, October 2023. </span>
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://link.springer.com/article/10.1007/s12561-023-09405-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231123&utm_content=10.1007/s12561-023-09405-6)</span>, **_Statistics in Bioscience_**, November 2023. </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Jamil M. Lane, Chris Gennings, Libni A. Torres-Olascoaga, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Shoshannah Eggers. <span style ="color:purple"> [**Prenatal Pb exposure is associated with reduced abundance of beneficial gut microbial cliques in late childhood: an investigation using Microbial Co-occurrence Analysis (MiCA)**](https://pubs.acs.org/doi/full/10.1021/acs.est.3c04346
 )</span>, **_Environmental Science & Technology_**, October 2023. </span>
