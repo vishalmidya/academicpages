@@ -22,7 +22,7 @@ redirect_from:
 ## 2023
 
 1. <span style="text-align: justify"> Manasi Agrawal#, <span style ="color:red">Vishal Midya#</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
-PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution</span>, December 2023.  </span>
+PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution, December 2023.  </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://link.springer.com/article/10.1007/s12561-023-09405-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231123&utm_content=10.1007/s12561-023-09405-6)</span>, **_Statistics in Bioscience_**, November 2023.  </span>
 
