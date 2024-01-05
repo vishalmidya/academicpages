@@ -9,10 +9,12 @@ redirect_from:
 --- 
 
 ## Under Review
-
-1. <span style="text-align: justify"><span style ="color:red">Vishal Midya#</span>, Kiran Nagdeo#,  Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila may mediate the association between prenatal metal mixture exposure and childhood depressive symptoms**</span>, under review.#equal contribution</span>
-
+`
 1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**</span>, under review.#equal contribution</span>
+
+1. <span style="text-align: justify"><span style ="color:red">Vishal Midya#</span>, Kiran Nagdeo#,  Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila modifies the association between prenatal metal exposure and depressive symptoms in late childhood**</span>, under review.#equal contribution</span>
+
+1. <span style="text-align: justify"><span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Mariana Torres-Calapiz, Chris Gennings,  Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Prenatal Metal Exposures and Childhood Gut Microbial Signatures Are Associated with Depression Score in Late Childhood**</span>, under review.</span>
 
 ---
 ---
