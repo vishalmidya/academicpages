@@ -14,17 +14,20 @@ redirect_from:
 
 1. <span style="text-align: justify"><span style ="color:red">Vishal Midya#</span>, Kiran Nagdeo#,  Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila modifies the association between prenatal metal exposure and depressive symptoms in late childhood**</span>, under review.#equal contribution</span>
 
-1. <span style="text-align: justify"><span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Mariana Torres-Calapiz, Chris Gennings,  Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Prenatal Metal Exposures and Childhood Gut Microbial Signatures Are Associated with Depression Score in Late Childhood**</span>, under review.</span>
-
 ---
 ---
 
 # Peer-reviewed Publications
 
+## 2024
+
+1. <span style="text-align: justify"><span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Mariana Torres-Calapiz, Chris Gennings,  Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with depression score in late childhood**](https://www.sciencedirect.com/science/article/pii/S0048969724004960?via%3Dihub)</span>, **_Science of The Total Environment_**, January 2024. p.170361 (in press) </span>
+
+
 ## 2023
 
 1. <span style="text-align: justify"> Manasi Agrawal#, <span style ="color:red">Vishal Midya#</span>, Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
-PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution, December 2023.  </span>
+PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution, December 2023. (in press) </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://link.springer.com/article/10.1007/s12561-023-09405-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231123&utm_content=10.1007/s12561-023-09405-6)</span>, **_Statistics in Bioscience_**, November 2023.  </span>
 
