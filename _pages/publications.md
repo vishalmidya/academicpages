@@ -21,7 +21,11 @@ redirect_from:
 
 ## 2024
 
-1. <span style="text-align: justify"><span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Mariana Torres-Calapiz, Chris Gennings,  Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with depression score in late childhood**](https://www.sciencedirect.com/science/article/pii/S0048969724004960?via%3Dihub)</span>, **_Science of The Total Environment_**, January 2024. p.170361 (in press) </span>
+1. <span style="text-align: justify"> A.A. Akinkugbe, <span style ="color:red">Vishal Midya</span>, J. Duffy, J. Landero, R.O. Wright, R.J. Wright. <span style ="color:purple">[**Metal mixtures and oral health among children and adolescents in the National Health and Nutrition Examination Survey (NHANES), 2017–2020**](https://www.sciencedirect.com/science/article/pii/S1438463924000166?via%3Dihub)</span>, **_International Journal of Hygiene and Environmental Health_**, p. 114335; Volume 257, April 2024 </span>
+
+1. <span style="text-align: justify">Jamil M Lane, Francheska M Merced-Nieves, <span style ="color:red">Vishal Midya</span>, Shelley H Liu, Sandra Martinez-Medina, Rosalind J Wright, Martha M Téllez-Rojo, Robert O Wright. <span style ="color:purple">[**Prenatal exposure to metal mixtures and childhood temporal processing in the PROGRESS Birth Cohort Study: Modification by childhood obesity**](https://www.sciencedirect.com/science/article/pii/S0048969724007137)</span>, **_Science of The Total Environment_**, p. 170576; January 2024. Volume 917, 20 March 2024 </span>
+
+1. <span style="text-align: justify"><span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Mariana Torres-Calapiz, Chris Gennings,  Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with depression score in late childhood**](https://www.sciencedirect.com/science/article/pii/S0048969724004960?via%3Dihub)</span>, **_Science of The Total Environment_**, January 2024. p.170361; Volume 916, 15 March 2024 </span>
 
 
 ## 2023
