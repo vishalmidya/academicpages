@@ -21,7 +21,7 @@ redirect_from:
 
 ## 2024
 
-1. <span style="text-align: justify"> Yingst, Jessica, <span style ="color:red">Vishal Midya</span>, Augustus White, Jonathan Foulds, Caroline O. Cobb, Susan Veldheer, Miao-Shan Yen, and Thomas Eissenberg. <span style ="color:purple">[**Effects of liquid nicotine concentration and flavour on the acceptability of electronic nicotine delivery systems (ENDS) among people who smoke participating in a randomised controlled trial to reduce cigarette consumption**](https://tobaccocontrol.bmj.com/content/early/2024/03/11/tc-2023-058282.abstract)</span>, **_Tobacco Control_**, April 2024 (In Press) </span>
+1. <span style="text-align: justify"> Jessica Yingst, <span style ="color:red">Vishal Midya</span>, Augustus White, Jonathan Foulds, Caroline O. Cobb, Susan Veldheer, Miao-Shan Yen, and Thomas Eissenberg. <span style ="color:purple">[**Effects of liquid nicotine concentration and flavour on the acceptability of electronic nicotine delivery systems (ENDS) among people who smoke participating in a randomised controlled trial to reduce cigarette consumption**](https://tobaccocontrol.bmj.com/content/early/2024/03/11/tc-2023-058282.abstract)</span>, **_Tobacco Control_**, April 2024 (In Press) </span>
 
 1. <span style="text-align: justify"> A.A. Akinkugbe, <span style ="color:red">Vishal Midya</span>, J. Duffy, J. Landero, R.O. Wright, R.J. Wright. <span style ="color:purple">[**Metal mixtures and oral health among children and adolescents in the National Health and Nutrition Examination Survey (NHANES), 2017–2020**](https://www.sciencedirect.com/science/article/pii/S1438463924000166?via%3Dihub)</span>, **_International Journal of Hygiene and Environmental Health_**, p. 114335; Volume 257, April 2024 </span>
 
