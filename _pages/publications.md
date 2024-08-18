@@ -8,18 +8,11 @@ redirect_from:
 ---
 --- 
 
-## Under Review
-
-1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**</span>, under review.#equal contribution</span>
-
-1. <span style="text-align: justify"><span style ="color:red">Vishal Midya#</span>, Kiran Nagdeo#,  Chris Gennings, Jamil M. Lane, Libni A. Torres-Olascoaga, Megan K. Horton, Martha Maria Téllez-Rojo, Robert O. Wright, Manish Arora,  Shoshannah Eggers. <span style ="color:purple"> **Akkermansia muciniphila modifies the association between prenatal metal exposure and depressive symptoms in late childhood**</span>, under review.#equal contribution</span>
-
----
----
-
 # Peer-reviewed Publications
 
 ## 2024
+
+1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00125)</span>, **_Environment & Health_**, August (2024) #equal contribution</span>
 
 1. <span style="text-align: justify"> Jessica Yingst, <span style ="color:red">Vishal Midya</span>, Augustus White, Jonathan Foulds, Caroline O. Cobb, Susan Veldheer, Miao-Shan Yen, and Thomas Eissenberg. <span style ="color:purple">[**Effects of liquid nicotine concentration and flavour on the acceptability of electronic nicotine delivery systems (ENDS) among people who smoke participating in a randomised controlled trial to reduce cigarette consumption**](https://tobaccocontrol.bmj.com/content/early/2024/03/11/tc-2023-058282.abstract)</span>, **_Tobacco Control_**, April 2024 (In Press) </span>
 
