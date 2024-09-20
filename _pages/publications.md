@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2024
 
+1. <span style="text-align: justify">  Alcala, C.S., Lamadrid-Figueroa, H., Tamayo-Ortiz, M., Mercado-Garcia, A.,  <span style ="color:red">Vishal Midya</span>, Just, A.C., Foppa-Pedretti, N., Colicino, E., Téllez-Rojo, M.M., Wright, R.O. and Wright, R.J.<span style ="color:purple">[**Prenatal exposure to phthalates and childhood wheeze and asthma in the progress cohort**](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00125)</span>, **_Science of The Total Environment_**, p.176311, September (2024)</span>
+
 1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00125)</span>, **_Environment & Health_**, August (2024) #equal contribution</span>
 
 1. <span style="text-align: justify">  Lane, Jamil M., Xupin Zhang, Cecilia S. Alcala, <span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Rui Li, and Robert O. Wright. <span style ="color:purple">[**Tweeting environmental pollution: Analyzing twitter language to uncover its correlation with county-level obesity rates in the United States**](https://www.sciencedirect.com/science/article/abs/pii/S0091743524002366)</span>, **_Preventive Medicine_**, (2024): 108081</span>
