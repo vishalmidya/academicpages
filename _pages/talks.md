@@ -11,6 +11,20 @@ redirect_from:
 
 ---
 
+* **_Machine Learning in Public Health: A Mount Sinai Workshop_**, 13-14th August, 2024 
+
+* Innovative Methods for Analysis of Environmental Mixtures in Epidemiology, **_CDC's Environmental Health (EH) Nexus, third annual environmental epidemiology methods workshop_**, 1st August, 2024 
+
+* Environmental chemical exposures in pregnancy and risk of intestinal inflammation in childhood, **_Mount Sinai Division of Gastroenterology, IBD Retreat_**, 17th June, 2024 
+
+* Causal Mediation Methods and Analysis, **_Mount Sinai P30 Workshop_**, 11th April, 2024
+
+* Prenatal metals, gut microbial cliques, and late childhood health outcomes,**_Instituto Nacional de Salud Pública (INSP) in Cuernavaca, México_**, 5th March, 2024
+
+* Novel statistical tools to study gut microbial exposomics and child health outcomes,**_National Institute of Environmental Health Sciences, Durham, NC_**, 7th November, 2023
+  
+* Symposium on Exposure Mixture Methods, Conference of **_International Society of Environmental Epidemiology, Kaohsiung, Taiwan_**, 19th September, 2023
+
 * <span style ="color:purple"> [Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data](https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html)</span> (with Daniel McGuire & Renan sauteraud), *December 2019*
 * Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
 * Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
