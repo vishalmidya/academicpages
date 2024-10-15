@@ -12,7 +12,7 @@ redirect_from:
 
 ## 2024
 
-1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, 2024 Aug 23. </span>
+1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, August 2024 . </span>
 
 1. <span style="text-align: justify">  Jesephat Edzie, Cecilia Alcala, Tessa R Bloomquist, Ivan Gutierrez-Avila, Allan C Just, <span style ="color:red">Vishal Midya</span>, Martha María Téllez Rojo, Guadalupe Estrada-Gutierrez, Rosalind J Wright, Robert O Wright, Andrea A Baccarelli, Maria José Rosa <span style ="color:purple">[**Prenatal and early life exposure to fine particulate matter and telomere length in early childhood**](https://www.sciencedirect.com/science/article/pii/S1438463924001287)</span>, **_International Journal of Hygiene and Environmental Health_**, 263 (2025): 114447 </span>
 
