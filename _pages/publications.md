@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2024
 
+1. <span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M. Lane, Libni A. Torres-Olascoaga, Gabriela Gil Martínez, Megan K. Horton, Nia McRae et al., <span style ="color:purple">[**Akkermansia muciniphila attenuates the association between specific metal exposures during pregnancy and depressive symptoms in late childhood**](https://www.cell.com/iscience/fulltext/S2589-0042(24)02560-4)</span>, **_iScience_**, November 2024. </span>
+
 1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal, <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, August 2024 . </span>
 
 1. <span style="text-align: justify">  Cecilia S. Alcala, Jamil M. Lane, <span style ="color:red">Vishal Midya</span>, Shoshannah Eggers, ROBERT O. WRIGHT, and Maria Jose J. Rosa, <span style ="color:purple">[**Exploring the Link between the Pediatric Exposome, Respiratory Health, and Executive Function in Children: A Narrative Review**](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1383851/full)</span>, **_Frontiers in Public Health_**, 12:1383851. </span>
