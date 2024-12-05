@@ -12,7 +12,7 @@ redirect_from:
 
 ## 2024
 
-1. Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, November 2024. </span>
+1. <span style="text-align: justify"> Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, November 2024. </span>
 
 1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal, <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, August 2024 . </span>
 
