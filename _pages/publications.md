@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2024
 
+1. <span style="text-align: justify"> Sandra India-Aldana, <span style ="color:red">Vishal Midya</span>, Larissa Betanzos-Robledo, Meizhen Yao, Cecilia Alcalá, <span style ="color:purple">[**Impact of metabolism-disrupting chemicals and folic acid supplementation on liver injury and steatosis in mother-child pairs**](https://www.sciencedirect.com/science/article/pii/S0168827824027570)</span>, **_Journal of Hepatology_**, December 2024. </span>
+
 1. <span style="text-align: justify"> Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, November 2024. </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Kiran Nagdeo, Jamil M Lane, Libni A Torres-Olascoaga, Gabriela Gil Martínez, Megan K Horton, Nia McRae et al., <span style ="color:purple">[**Akkermansia muciniphila attenuates the association between specific metal exposures during pregnancy and depressive symptoms in late childhood**](https://www.cell.com/iscience/fulltext/S2589-0042(24)02560-4)</span>, **_iScience_**, November 2024. </span>
