@@ -10,6 +10,10 @@ redirect_from:
 
 # Peer-reviewed Publications
 
+## 2025
+
+1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, <span style ="color:red">Vishal Midya</span>, Cecilia S Alcala, Shoshannah Eggers, Katherine Svensson, Sandra Martinez-Medina, Megan K Horton, Roberta F White, Martha M Téllez-Rojo, Robert O Wright, <span style ="color:purple">[**Childhood Pb-induced cognitive dysfunction: structural equation modeling of hot and cold executive functions**](https://www.nature.com/articles/s41370-025-00761-7)</span>, **_Journal of exposure science & environmental epidemiology_**, March 2025. </span>
+
 ## 2024
 
 1. <span style="text-align: justify"> Sandra India-Aldana, <span style ="color:red">Vishal Midya</span>, Larissa Betanzos-Robledo, Meizhen Yao, Cecilia Alcalá, <span style ="color:purple">[**Impact of metabolism-disrupting chemicals and folic acid supplementation on liver injury and steatosis in mother-child pairs**](https://www.sciencedirect.com/science/article/pii/S0168827824027570)</span>, **_Journal of Hepatology_**, December 2024. </span>
