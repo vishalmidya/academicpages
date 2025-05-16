@@ -12,6 +12,12 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Haibin Guan, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam S Andra, Srinivasan Narasimhan, Divya Pulivarthi, <span style ="color:red">Vishal Midya</span>,  Lotje D De Witte, Veerle Bergink, Anna-Sophie Rommel, Lauren M Petrick, <span style ="color:purple">[**High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy**](https://www.sciencedirect.com/science/article/pii/S0048969725011611)</span>, **_Science of The Total Environment_**, 980, p.179520. </span>
+
+1. <span style="text-align: justify"> Agrawal, Manasi, <span style ="color:red">Vishal Midya</span>, and Jean-Frederic Colombel, <span style ="color:purple">[**Reply to Jiao and Ma**](https://www.sciencedirect.com/science/article/pii/S0016508525006456?via%3Dihub)</span>, **_Gastroenterology_** (2025): S0016-5085. </span>
+
+1. <span style="text-align: justify"> Akinkugbe, Aderonke A., <span style ="color:red">Vishal Midya</span>, Michael A. Crane, Dina T. Garcia, Uraina S. Clark, and Rosalind J. Wright, <span style ="color:purple">[**Long‐Term Oral Health Effects of Traumatic Events Among World Trade Center Health Registry Enrolees, 2003–2020**](https://onlinelibrary.wiley.com/doi/full/10.1111/cdoe.13020)</span>, **_Community Dentistry and Oral Epidemiology_**, 53, no. 2 (2025): 170-179. </span>
+
 1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, <span style ="color:red">Vishal Midya</span>, Cecilia S Alcala, Shoshannah Eggers, Katherine Svensson, Sandra Martinez-Medina, Megan K Horton, Roberta F White, Martha M Téllez-Rojo, Robert O Wright, <span style ="color:purple">[**Childhood Pb-induced cognitive dysfunction: structural equation modeling of hot and cold executive functions**](https://www.nature.com/articles/s41370-025-00761-7)</span>, **_Journal of exposure science & environmental epidemiology_**, March 2025. </span>
 
 ## 2024
