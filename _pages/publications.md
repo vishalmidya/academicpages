@@ -12,7 +12,7 @@ redirect_from:
 
 ## 2025
 
-1. <span style="text-align: justify"> Shoshannah Eggers, Zachary E. Hoggarth, Kiran Nagdeo, Maria J. Banas, Jamil M. Lane, Elza Rechtman, Chris Gennings, Elizabeth O’Neal, Paul E. Peppard, Ajay K. Sethi, Nasia Safdar, Kristen MC Malecki, Amy A. Schultz & <span style ="color:red">Vishal Midya</span>, <span style ="color:purple">[**Food insecurity modifies the association between the gut microbiome and the risk of cognitive impairment in adults**](https://www.nature.com/articles/s41514-025-00241-0)</span>, **_npj aging_**11, 47(2025)</span>
+1. <span style="text-align: justify"> Shoshannah Eggers, Zachary E. Hoggarth, Kiran Nagdeo, Maria J. Banas, Jamil M. Lane, Elza Rechtman, Chris Gennings, Elizabeth O’Neal, Paul E. Peppard, Ajay K. Sethi, Nasia Safdar, Kristen MC Malecki, Amy A. Schultz & <span style ="color:red">Vishal Midya</span>, <span style ="color:purple">[**Food insecurity modifies the association between the gut microbiome and the risk of cognitive impairment in adults**](https://www.nature.com/articles/s41514-025-00241-0)</span>, **_npj aging_**, 11, 47(2025)</span>
 
 1. <span style="text-align: justify"> Haibin Guan, Jia Chen, Kirtan Kaur, Bushra Amreen, Corina Lesseur, Georgia Dolios, Syam S Andra, Srinivasan Narasimhan, Divya Pulivarthi, <span style ="color:red">Vishal Midya</span>,  Lotje D De Witte, Veerle Bergink, Anna-Sophie Rommel, Lauren M Petrick, <span style ="color:purple">[**High-dimensional mediation analysis to elucidate the role of metabolites in the association between PFAS exposure and reduced SARS-CoV-2 IgG in pregnancy**](https://www.sciencedirect.com/science/article/pii/S0048969725011611)</span>, **_Science of The Total Environment_**, 980, p.179520. </span>
 
