@@ -23,7 +23,7 @@ Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Dama
 1. <span style="font-size: 20px">**_Elemental Biodynamics_**
 
 
-<span style ="color:blue">**_Funding: We are supported by several NIH grants_**</span>  - 
+<span style ="color:blue">**_Funding: I am supported by several NIH grants_**</span>  - 
 1. **NIEHS R21** - ES037112 (MPIs Vishal Midya (contact) and Shoshannah I. Eggers)
 2. **NIEHS R35** - R35ES030435 (PI Manish Arora)
 3. **NIEHS HHEAR program** - U2CES026555 (PI Susan Teitelbaum)
