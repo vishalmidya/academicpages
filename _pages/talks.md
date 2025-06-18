@@ -10,7 +10,14 @@ redirect_from:
 # Invited Talks
 
 ---
+* Innovative Statistical Methods in Correlated and Dependent Data Modeling, Applied Statistics Symposium by ICSA, **_University of Connecticut, Storrs_**, 15-18 June, 2025
 
+* Innovative Statistical and Machine-learning Methods for Assessing Environmental Exposures, 38th New England Statistics Symposium, **_Yale University, New Haven_**, 2nd June, 2025
+
+* A Novel Application of Machine-Learning Tools to Identify Chemical-Chemical Interactions, Eleventh Triennial Symposium on Probability and Statistics, **_University of Calcutta_**, 27-30 December, 2024
+  
+* Strategies for Multivariate Mediation Frameworks in Environmental Epidemiology, Multi-Omics Data Integration in Human Exposome Studies, **_IS Global. Barcelona, Spain_**, 2nd October, 2024
+  
 * **_Machine Learning in Public Health: A Mount Sinai Workshop_**, 13-14th August, 2024 
 
 * Innovative Methods for Analysis of Environmental Mixtures in Epidemiology, **_CDC's Environmental Health (EH) Nexus, third annual environmental epidemiology methods workshop_**, 1st August, 2024 
