@@ -14,6 +14,8 @@ redirect_from:
 
 * Innovative Statistical and Machine-learning Methods for Assessing Environmental Exposures, 38th New England Statistics Symposium, **_Yale University, New Haven_**, 2nd June, 2025
 
+* AI and Machine Learning in Public Health, **_University of Bridgeport_**, 8th April, 2025
+
 * A Novel Application of Machine-Learning Tools to Identify Chemical-Chemical Interactions, Eleventh Triennial Symposium on Probability and Statistics, **_University of Calcutta_**, 27-30 December, 2024
   
 * Strategies for Multivariate Mediation Frameworks in Environmental Epidemiology, Multi-Omics Data Integration in Human Exposome Studies, **_IS Global. Barcelona, Spain_**, 2nd October, 2024
