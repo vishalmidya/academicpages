@@ -11,6 +11,8 @@ redirect_from:
 
 ---
 
+* <span style="text-align: justify">  <span style ="color:purple"> National Institute of Environmental Helath Sciences [**Paper of the month (August 2025)**](https://factor.niehs.nih.gov/2025/8/papers/dert) </span> <br/> </span>
+
 * <span style="text-align: justify">  <span style ="color:purple"> Invited talk at [**CDC’s third annual environmental epidemiology methods workshop**](https://www.cdc.gov/eh-nexus/upcoming/workshop-applied-epidemiology-environmental-health.html) </span> <br/> </span>
  
 * <span style="text-align: justify">  <span style ="color:purple"> [**_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_**](https://epiresearch.org/annual-meeting/2022-meeting/2022-award-winners/) </span> 
