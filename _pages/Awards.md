@@ -28,23 +28,23 @@ redirect_from:
 <br/> (with Daniel McGuire and Renan sauteraud) </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[**_Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI)_**](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>
-<br/> **Summer Research Fellowship in Mathematics** 
-<br/>  National Brain Research Centre</span>, 2014 
+<br/> **Summer Research Fellowship in Mathematics, 2014** 
+<br/>  **National Brain Research Centre** </span>
 
-*  <span style="text-align: justify"> <span style ="color:purple">**_All India Rank 22 in Mathematical Statistics_**</span>
-<br/> Indian Institute of Technology-Joint Admission Test for Masters (IIT JAM)</span>, 2014
+*  <span style="text-align: justify"> <span style ="color:purple">**_All India Rank 22 in Mathematical Statistics-2014_**</span>
+<br/> **Indian Institute of Technology-Joint Admission Test for Masters (IIT JAM)** </span>
 
 * <span style="text-align: justify"> <span style ="color:purple">[**_Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship_**](http://www.kvpy.iisc.ernet.in/main/index.htm)</span>
-<br/> Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
+<br/> **Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016** </span>
 
-* <span style="text-align: justify"> <span style ="color:purple">**_Best Paper Award in Mathematics_**</span>
-<br/> 19th West Bengal Science and Technology Congress, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
+* <span style="text-align: justify"> <span style ="color:purple">**_Best Paper Award in Mathematics-2012_**</span>
+<br/> **19th West Bengal Science and Technology Congress, Saha Institute of Nuclear Physics, Kolkata, India** </span>
 
-* <span style="text-align: justify"> <span style ="color:purple"> **_Best of Subject Category Award in Mathematics_**</span>
-<br/> Intel-IRIS National Science Fair, India, 2009 </span>
+* <span style="text-align: justify"> <span style ="color:purple"> **_Best of Subject Category Award in Mathematics-2009_**</span>
+<br/> **Intel-IRIS National Science Fair, India** </span>
 
-* <span style="text-align: justify"> <span style ="color:purple"> **_Special Prize (Certificate of Merit)_**</span>
-<br/> West Bengal State Level Science Fair, India, 2008 </span>
+* <span style="text-align: justify"> <span style ="color:purple"> **_Special Prize (Certificate of Merit)-2008_**</span>
+<br/> **West Bengal State Level Science Fair, India** </span>
 
 ---
 
