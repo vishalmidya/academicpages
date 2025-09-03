@@ -14,7 +14,7 @@ redirect_from:
 
 1. <span style="text-align: justify"> Chris Gennings, <span style ="color:red">Vishal Midya</span>, Stefano Renzetti, Nicholas DeFelice, <span style ="color:purple">[**Weighted Quantile Sum (WQS) Mixed-Effects Model**](https://www.sciencedirect.com/science/article/pii/S2215016125004248)</span>, **_MethodsX_**, in press (2025)</span>
 
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Ghalib Bello#, Angeline S. Andrew, Diane B. Re, Elijah Stommel, Manish Arora, <span style ="color:purple">[**Dysregulation of hair-strand-based elemental biodynamics in amyotrophic lateral sclerosis**]()</span>, **_eBioMedicine_**, accepted (2025), #equal contribution</span>
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Ghalib Bello#, Angeline S. Andrew, Diane B. Re, Elijah Stommel, Manish Arora, <span style ="color:purple">[**Dysregulation of hair-strand-based elemental biodynamics in amyotrophic lateral sclerosis**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00351-2/fulltext)</span>, **_eBioMedicine_**, accepted (2025), #equal contribution</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Meizhen Yao, Elena Colicino, Dinesh Barupal, Xiangping Lin, Chris Gennings, Leda Chatzi, Veronica Wendy Setiawan, Ruth J. F. Loos, Ryan W. Walker, Douglas I. Walker & Damaskini Valvi, <span style ="color:purple">[**Exposure to Per- and Poly-Fluoroalkyl substances in association to later occurrence of type 2 diabetes and metabolic pathway dysregulation in a multiethnic US population**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00282-8/fulltext)</span>, **_eBioMedicine_**, in press (2025)</span>
 
