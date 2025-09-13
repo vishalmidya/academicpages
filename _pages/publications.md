@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Alexandra Descarpentrie,  Joseph C. Cleveland III,  <span style ="color:red">Vishal Midya</span>,  Juan Espinoza,  Jonatan Ottino-Gonzalez,  Shana Adise,  Tanya L. Alderete,  Michael I. Goran, <span style ="color:purple">[**Social and Environmental Correlates of Childhood Obesity Among Southern California Communities**](https://onlinelibrary.wiley.com/doi/10.1002/oby.70021)</span>, **_Obesity_**, in press (2025)</span>
+
 1. <span style="text-align: justify"> Chris Gennings, <span style ="color:red">Vishal Midya</span>, Stefano Renzetti, Nicholas DeFelice, <span style ="color:purple">[**Weighted Quantile Sum (WQS) Mixed-Effects Model**](https://www.sciencedirect.com/science/article/pii/S2215016125004248)</span>, **_MethodsX_**, in press (2025)</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Ghalib Bello#, Angeline S. Andrew, Diane B. Re, Elijah Stommel, Manish Arora, <span style ="color:purple">[**Dysregulation of hair-strand-based elemental biodynamics in amyotrophic lateral sclerosis**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00351-2/fulltext)</span>, **_eBioMedicine_**, in press (2025), #equal contribution</span>
