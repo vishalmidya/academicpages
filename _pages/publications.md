@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Katherine Svensson, Marco Sanchez-Guerra, <span style ="color:red">Vishal Midya</span>, Haibin Guan, Megan Niedzwiecki, Georgia Dolios, Citlalli Osorio-Yáñez, Luz M. Del Razo, Julio C. Ayllon-Vergara, Guadalupe Estrada-Gutierrez, Maria Luisa Pizano Zárate, Lauren Petrick, Martha M. Téllez-Rojo, Robert O. Wright & Elena Colicino, <span style ="color:purple">[**Postpartum metabolomics profile predicts 8-years postdelivery women’s subclinical atherosclerosis measures**](https://www.nature.com/articles/s41598-025-18642-2)</span>, **_Scientific Reports_**, 15, 34939 (2025)</span>
+
 1. <span style="text-align: justify"> AA Akinkugbe, C-YS Hsu, C Lesseur, <span style ="color:red">V Midya</span>, KH Tan, KY Jerry Chan, JG Eriksson, S-Y Chan, YS Chong, YS Lee, D Wang, J Huang, RO Wright, N Karnani, KM Godfrey, AL Teh, RJ Wright, <span style ="color:purple">[**Smoking-Associated DNA Methylation and Offspring Caries Experience: Findings from the GUSTO Study**](https://journals.sagepub.com/doi/abs/10.1177/00220345251362803)</span>, **_Journal of Dental Research_**, in press (2025)</span>
 
 1. <span style="text-align: justify"> Alexandra Descarpentrie,  Joseph C. Cleveland III,  <span style ="color:red">Vishal Midya</span>,  Juan Espinoza,  Jonatan Ottino-Gonzalez,  Shana Adise,  Tanya L. Alderete,  Michael I. Goran, <span style ="color:purple">[**Social and Environmental Correlates of Childhood Obesity Among Southern California Communities**](https://onlinelibrary.wiley.com/doi/10.1002/oby.70021)</span>, **_Obesity_**, in press (2025)</span>
