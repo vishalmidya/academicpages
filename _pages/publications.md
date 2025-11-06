@@ -12,6 +12,9 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Nikhil A. Ahuja, Nirmal A. Ahuja, <span style ="color:red">Vishal Midya</span>, Dimple Bajaj, Mahima Gulabani, Satish K. Kedia, Hitesh Navaparia & Eugene Lengerich <span style ="color:purple">[**Applying the information–motivation–behavioral model to explore the factors affecting oral cancer screening behavior among tobacco users in western India**](https://www.tandfonline.com/doi/full/10.1080/14635240.2025.2584281)</span>, **_International Journal of Health
+Promotion and Education_**, 1–14. (2025)</span>
+
 1. <span style="text-align: justify"> Descarpentrie A, Esaian S, Allen B, Espinoza J, <span style ="color:red">Midya V</span>, Young N, Alderete TL, Goran MI, <span style ="color:purple">[**Social and Behavioral Factors Associated With Diabetes in Southern California vs the US**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840400)</span>, **_JAMA Network Open_**, 8(10), e2538377-e2538377 (2025)</span>
 
 1. <span style="text-align: justify"> Katherine Svensson, Marco Sanchez-Guerra, <span style ="color:red">Vishal Midya</span>, Haibin Guan, Megan Niedzwiecki, Georgia Dolios, Citlalli Osorio-Yáñez, Luz M. Del Razo, Julio C. Ayllon-Vergara, Guadalupe Estrada-Gutierrez, Maria Luisa Pizano Zárate, Lauren Petrick, Martha M. Téllez-Rojo, Robert O. Wright & Elena Colicino, <span style ="color:purple">[**Postpartum metabolomics profile predicts 8-years postdelivery women’s subclinical atherosclerosis measures**](https://www.nature.com/articles/s41598-025-18642-2)</span>, **_Scientific Reports_**, 15, 34939 (2025)</span>
