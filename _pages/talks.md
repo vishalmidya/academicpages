@@ -10,6 +10,10 @@ redirect_from:
 # Invited Talks
 
 ---
+* Guest lecture on _Machine Learning in Epidemiology_, **_Penn State University, Harrisburg_**, 11 November, 2025
+
+* Symposium on Microbial Exposome, Conference of **_Joint Annual Meeting of the International Society of Exposure Science and the International Society for Environmental Epidemiology 2025 in Atlanta, Georgia, USA_**, August 17-20, 2025
+
 * Innovative Statistical Methods in Correlated and Dependent Data Modeling, Applied Statistics Symposium by ICSA, **_University of Connecticut, Storrs_**, 15-18 June, 2025
 
 * Innovative Statistical and Machine-learning Methods for Assessing Environmental Exposures, 38th New England Statistics Symposium, **_Yale University, New Haven_**, 2nd June, 2025
