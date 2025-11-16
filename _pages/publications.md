@@ -12,8 +12,9 @@ redirect_from:
 
 ## 2025
 
-1. <span style="text-align: justify"> Nikhil A. Ahuja, Nirmal A. Ahuja, <span style ="color:red">Vishal Midya</span>, Dimple Bajaj, Mahima Gulabani, Satish K. Kedia, Hitesh Navaparia & Eugene Lengerich <span style ="color:purple">[**Applying the information–motivation–behavioral model to explore the factors affecting oral cancer screening behavior among tobacco users in western India**](https://www.tandfonline.com/doi/full/10.1080/14635240.2025.2584281)</span>, **_International Journal of Health
-Promotion and Education_**, 1–14. (2025)</span>
+1. <span style="text-align: justify"> Elizabeth Costello, Brittney O Baumert, Zhenjiang Li, <span style ="color:red">Vishal Midya</span>, Shudi Pan, Justin R Ryder, Thomas H Inge, Todd M Jenkins, Stephanie Sisley, Stavra A Xanthakos, Anita Courcoulas, Douglas I Walker, Nikos Stratakis, Damaskini Valvi, Scott M Bartell, Angela L Slitt, Rohit Kohli, Sarah Rock, Michele A La Merrill, Sandrah P Eckel, Max T Aung, Rob McConnell, David V Conti, Lida Chatzi. <span style ="color:purple">[**PFAS and Altered Glucose Homeostasis in Adolescents following Bariatric Surgery**](https://academic.oup.com/enendo/advance-article/doi/10.1093/enendo/wkaf003/8322887)</span>, **_Environmental Endocrinology_**, wkaf003. (2025)</span>
+
+1. <span style="text-align: justify"> Nikhil A. Ahuja, Nirmal A. Ahuja, <span style ="color:red">Vishal Midya</span>, Dimple Bajaj, Mahima Gulabani, Satish K. Kedia, Hitesh Navaparia & Eugene Lengerich <span style ="color:purple">[**Applying the information–motivation–behavioral model to explore the factors affecting oral cancer screening behavior among tobacco users in western India**](https://www.tandfonline.com/doi/full/10.1080/14635240.2025.2584281)</span>, **_International Journal of Health Promotion and Education_**, 1–14. (2025)</span>
 
 1. <span style="text-align: justify"> Descarpentrie A, Esaian S, Allen B, Espinoza J, <span style ="color:red">Midya V</span>, Young N, Alderete TL, Goran MI, <span style ="color:purple">[**Social and Behavioral Factors Associated With Diabetes in Southern California vs the US**](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840400)</span>, **_JAMA Network Open_**, 8(10), e2538377-e2538377 (2025)</span>
 
