@@ -12,6 +12,10 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Eggers, S., Nagdeo, K. P., Sachdev, K., Robinson, D., Deierlein, A. L., Lane, J. M., Gennings, C., Walker, R. W., Snetselaar, L., Nidey, N., O’Neal, E. E., & <span style ="color:red">Midya, V.</span> <span style ="color:purple">[**Nutritional Modulation of the Gut Microbiome in Relation to Prenatal Lead-Induced Neurotoxicity: A Review**](https://doi.org/10.3390/nu17233700)</span>, **_Nutrients_**, 17(23), 3700 (2025) </span>
+
+1. <span style="text-align: justify"> Parajuli, B.#, <span style ="color:red">Midya, V.#</span>, Kiddle, R., De Jager, N., Eggers, S., Spakowicz, D., Hoyd, R., Salhia, B., Chan, C. H. F., Churchman, M. L., Rounbehler, R. J., Yao, S., Rutkowski, M. R., Tarhini, A. A., Mudaranthakam, D. P., Masood, A., Bocklage, T. J., Lentz, R. W., Hatoum, H., Ilozumba, M. N., … Bosch, D. E. <span style ="color:purple">[**Primary tumor microbiomes predict distant metastasis of colorectal cancer**](https://www.nature.com/articles/s41698-025-01188-x)</span>, **_NPJ Precision Oncology_**, 24th November (2025), #equal contribution </span>
+
 1. <span style="text-align: justify"> Elizabeth Costello, Brittney O Baumert, Zhenjiang Li, <span style ="color:red">Vishal Midya</span>, Shudi Pan, Justin R Ryder, Thomas H Inge, Todd M Jenkins, Stephanie Sisley, Stavra A Xanthakos, Anita Courcoulas, Douglas I Walker, Nikos Stratakis, Damaskini Valvi, Scott M Bartell, Angela L Slitt, Rohit Kohli, Sarah Rock, Michele A La Merrill, Sandrah P Eckel, Max T Aung, Rob McConnell, David V Conti, Lida Chatzi. <span style ="color:purple">[**PFAS and Altered Glucose Homeostasis in Adolescents following Bariatric Surgery**](https://academic.oup.com/enendo/advance-article/doi/10.1093/enendo/wkaf003/8322887)</span>, **_Environmental Endocrinology_**, wkaf003. (2025)</span>
 
 1. <span style="text-align: justify"> Nikhil A. Ahuja, Nirmal A. Ahuja, <span style ="color:red">Vishal Midya</span>, Dimple Bajaj, Mahima Gulabani, Satish K. Kedia, Hitesh Navaparia & Eugene Lengerich <span style ="color:purple">[**Applying the information–motivation–behavioral model to explore the factors affecting oral cancer screening behavior among tobacco users in western India**](https://www.tandfonline.com/doi/full/10.1080/14635240.2025.2584281)</span>, **_International Journal of Health Promotion and Education_**, 1–14. (2025)</span>
@@ -72,7 +76,7 @@ redirect_from:
 ## 2023
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#,  Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
-PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution, December 2023. (in press) </span>
+PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_**, #equal contribution, December 2023.</span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://link.springer.com/article/10.1007/s12561-023-09405-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231123&utm_content=10.1007/s12561-023-09405-6)</span>, **_Statistics in Bioscience_**, November 2023.  </span>
 
