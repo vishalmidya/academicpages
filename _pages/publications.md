@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2025
 
+1. <span style="text-align: justify"> Jamil M. Lane, Nathan Cohen, <span style ="color:red">Vishal Midya</span>, Cecilia S. Alcala, Shoshannah Eggers, Sandra Martinez-Medina, Damaskini Valvi, Martha M. Téllez-Rojo, Deborah A. Cory-Slechta, Robert O. Wright, Shelley H. Liu <span style ="color:purple">[**Neuroprogramming of prenatal phthalate exposures on fluid cognition: A latent variable modeling approach to quantify exposure burden and integrate neurobehavioral data**](https://www.sciencedirect.com/science/article/pii/S0892036225001527?via%3Dihub)</span>, **_Neurotoxicology and Teratology_**, Volume 113 (2025) </span>
+
 1. <span style="text-align: justify"> Eggers, S., Nagdeo, K. P., Sachdev, K., Robinson, D., Deierlein, A. L., Lane, J. M., Gennings, C., Walker, R. W., Snetselaar, L., Nidey, N., O’Neal, E. E., & <span style ="color:red">Midya, V.</span> <span style ="color:purple">[**Nutritional Modulation of the Gut Microbiome in Relation to Prenatal Lead-Induced Neurotoxicity: A Review**](https://doi.org/10.3390/nu17233700)</span>, **_Nutrients_**, 17(23), 3700 (2025) </span>
 
 1. <span style="text-align: justify"> Parajuli, B.#, <span style ="color:red">Midya, V.#</span>, Kiddle, R., De Jager, N., Eggers, S., Spakowicz, D., Hoyd, R., Salhia, B., Chan, C. H. F., Churchman, M. L., Rounbehler, R. J., Yao, S., Rutkowski, M. R., Tarhini, A. A., Mudaranthakam, D. P., Masood, A., Bocklage, T. J., Lentz, R. W., Hatoum, H., Ilozumba, M. N., … Bosch, D. E. <span style ="color:purple">[**Primary tumor microbiomes predict distant metastasis of colorectal cancer**](https://www.nature.com/articles/s41698-025-01188-x)</span>, **_NPJ Precision Oncology_**, 24th November (2025), #equal contribution </span>
