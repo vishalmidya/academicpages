@@ -10,6 +10,8 @@ redirect_from:
 # Invited Talks
 
 ---
+* Invited talk on _Interpretable Machine Learning Models in Environmental Health_, **_Baylor College of Medicine, Houston_**, 22 December, 2025
+
 * Guest lecture on _Machine Learning in Epidemiology_, **_Penn State University, Harrisburg_**, 11 November, 2025
 
 * Symposium on Microbial Exposome, Conference of **_Joint Annual Meeting of the International Society of Exposure Science and the International Society for Environmental Epidemiology 2025 in Atlanta, Georgia, USA_**, August 17-20, 2025
