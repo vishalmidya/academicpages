@@ -13,7 +13,7 @@ redirect_from:
 
 * <span style="text-align: justify">  <span style ="color:purple">[**_Paper of the month (August 2025)_**](https://factor.niehs.nih.gov/2025/8/papers/dert) </span> <br/>**National Institute of Environmental Health Sciences** </span>
 
-* <span style="text-align: justify">  <span style ="color:purple"> Invited talk at [**_The third annual environmental epidemiology methods workshop_**](https://www.cdc.gov/eh-nexus/upcoming/workshop-applied-epidemiology-environmental-health.html) </span> <br/> **Centers for Disease Control and Prevention** </span>
+* <span style="text-align: justify">  <span style ="color:purple"> Invited talk at [**_The third annual environmental epidemiology methods workshop_2024**](https://www.cdc.gov/eh-nexus/upcoming/workshop-applied-epidemiology-environmental-health.html) </span> <br/> **Centers for Disease Control and Prevention** </span>
  
 * <span style="text-align: justify">  <span style ="color:purple"> [**_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_**](https://epiresearch.org/annual-meeting/2022-meeting/2022-award-winners/) </span> 
  <br/> **Society for Epidemiologic Research** </span>
