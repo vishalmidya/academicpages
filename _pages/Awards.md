@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:purple">[**_Paper of the month (August 2025)_**](https://factor.niehs.nih.gov/2025/8/papers/dert) </span> <br/>**National Institute of Environmental Helath Sciences** </span>
+* <span style="text-align: justify">  <span style ="color:purple">[**_Paper of the month (August 2025)_**](https://factor.niehs.nih.gov/2025/8/papers/dert) </span> <br/>**National Institute of Environmental Health Sciences** </span>
 
 * <span style="text-align: justify">  <span style ="color:purple"> Invited talk at [**_The third annual environmental epidemiology methods workshop_**](https://www.cdc.gov/eh-nexus/upcoming/workshop-applied-epidemiology-environmental-health.html) </span> <br/> **Centers for Disease Control and Prevention** </span>
  
