@@ -10,6 +10,14 @@ redirect_from:
 
 # Peer-reviewed Publications
 
+## 2026
+
+1. <span style="text-align: justify"> Synnøve Stokke Jensen, <span style ="color:red">Vishal Midya</span>, Manish Arora, Ragnhild Eek Brandlistuen, Alexandra Havdahl, Gro Dehli Andersen, Kristin S Klock <span style ="color:purple">[**Pre- and postnatal trace element levels in primary teeth of children with and without an autism spectrum diagnosis**](https://www.sciencedirect.com/science/article/pii/S0013935126003294)</span>, **_Environmental Research_** (2026) </span>
+
+1. <span style="text-align: justify"> Sandra India Aldana, Xin Yu, Meizhen Yao, Nathan Cohen, Eftychia Markopoulou, Maanal Chowdhury, <span style ="color:red">Vishal Midya</span>, Stephanie M Eick, Jessica Trowbridge, Anne P Starling, Dinesh Barupal, Douglas I Walker, Leda Chatzi, Veronica Wendy Setiawan, Ryan W Walker, Elena Colicino, Damaskini Valvi <span style ="color:purple">[**Associations of perfluoroalkyl and polyfluoroalkyl substances with markers of glycaemic control, insulin secretion and sensitivity, and diabetes risk: a systematic review and meta-analyses**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00682-0/fulltext)</span>, **_eClinicalMedicine_** (2026) </span>
+
+
+
 ## 2025
 
 1. <span style="text-align: justify"> Jamil M. Lane, Nathan Cohen, <span style ="color:red">Vishal Midya</span>, Cecilia S. Alcala, Shoshannah Eggers, Sandra Martinez-Medina, Damaskini Valvi, Martha M. Téllez-Rojo, Deborah A. Cory-Slechta, Robert O. Wright, Shelley H. Liu <span style ="color:purple">[**Neuroprogramming of prenatal phthalate exposures on fluid cognition: A latent variable modeling approach to quantify exposure burden and integrate neurobehavioral data**](https://www.sciencedirect.com/science/article/pii/S0892036225001527?via%3Dihub)</span>, **_Neurotoxicology and Teratology_**, Volume 113 (2025) </span>
