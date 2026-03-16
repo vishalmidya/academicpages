@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2026
 
+1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, Deborah A Cory-Slechta, <span style ="color:red">Vishal Midya</span>, Shoshannah Eggers, Cecilia Alcala, Gabriela Gil-Martínez, Martha M Téllez Rojo, Robert O Wright; <span style ="color:purple">[**Sexual dimorphism in the programming effects of prenatal manganese multi-media biomarker on temporal cognition in school-aged children**](https://www.nature.com/articles/s41598-026-44007-4)</span>, **_Scientific Reports_** (2026) </span>
+
 1. <span style="text-align: justify"> Bethany Knox, Nuria Güil-Oumrait, <span style ="color:red">Vishal Midya</span>, Hana Vespalcová, Maria Dolores Gómez-Roig, Elisa Llurba, Sandra Márquez, Zoraida García Ruiz, Toni Galmes, Claire Philippat, Amrit Kaur Sakhi, Cathrine Thomsen, Jose Urquiza, Maria Julia Zanini, Payam Dadvand, Mireia Gascon, Ioar Rivas, Maria Foraster, Xavier Basagaña, Jordi Sunyer, Mariona Bustamante, Martine Vrijheid; <span style ="color:purple">[**Prenatal Exposure to Mixtures of Nonpersistent Endocrine-Disrupting Chemicals and Angiogenic Biomarkers, Placental Function, and Fetal Growth**](https://pubs.acs.org/doi/full/10.1021/acs.est.5c13234)</span>, **_Environmental Science & Technology_** (2026) </span>
 
 1. <span style="text-align: justify">Danielle Land, Mallory Goldsworthy, Mona Hanna, Manish Arora, <span style ="color:red">Vishal Midya; </span> <span style ="color:purple">[**Retrospective cohort study protocol to determine prenatal and infant lead exposure using novel dentition analysis in Flint, Michigan: Flint Tooth FAIRY (Flint assessment of in-utero and at-risk young)**](https://bmjopen.bmj.com/content/16/2/e102844.abstract)</span>, **_BMJ Open_**, 16(2), e102844 (2026) </span>
