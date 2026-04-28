@@ -15,7 +15,7 @@ redirect_from:
 
 * <span style="text-align: justify">  <span style ="color:purple"> Invited talk at [**_The third annual environmental epidemiology methods workshop (2024)_**](https://www.cdc.gov/eh-nexus/upcoming/workshop-applied-epidemiology-environmental-health.html) </span> <br/> **Centers for Disease Control and Prevention** </span>
  
-* <span style="text-align: justify">  <span style ="color:purple"> [**_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_**](https://epiresearch.org/annual-meeting/2022-meeting/2022-award-winners/) </span> 
+* <span style="text-align: justify">  <span style ="color:purple"> **_2022 Lilienfeld Postdoctoral Prize Paper Award Finalist_** </span> 
  <br/> **Society for Epidemiologic Research** </span>
 
 * <span style="text-align: justify">  <span style ="color:purple">[**_Graduate Alumni Society Award - 2019 & 2018_**](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>
