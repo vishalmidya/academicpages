@@ -29,4 +29,4 @@ Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Dama
 4. **NIEHS P30** -  PI Robert Wright
 5. **NIEHS R01** -  PI Dania Valvi
 6. **NIMH  R01** -  MPI Thomason & Trentacosta
-7. **Women's Health K12** - PI Rosalind Wright
+7. **NIAMSD/NIH/DHHS Women's Health K12** - PI Rosalind Wright
