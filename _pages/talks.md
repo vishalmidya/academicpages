@@ -10,6 +10,10 @@ redirect_from:
 # Invited Talks
 
 ---
+* Modern Statistical Learning for Complex Data: Methods and Applications, 39th New England Statistics Symposium, **_University of Connecticut, Storrs_**, 28 May, 2026
+ 
+* Invited Webinar on _Machine Learning in Environmental Epidemiology_, **_ISEE - North American Chapter_**, 23 March, 2026
+
 * Invited talk on _Interpretable Machine Learning Models in Environmental Health_, **_Baylor College of Medicine, Houston_**, 22 December, 2025
 
 * Guest lecture on _Machine Learning in Epidemiology_, **_Penn State University, Harrisburg_**, 11 November, 2025
