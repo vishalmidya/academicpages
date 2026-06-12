@@ -12,6 +12,8 @@ redirect_from:
 
 ## 2026
 
+1. <span style="text-align: justify"> Laura T. Cabrera-Rivera,Andrew Delgado, Andrew Maroko, Suresh A. Sethi, <span style ="color:red">Vishal Midya</span>, Maanal Chowdhury, Brett F. Branco, Ilias Kavouras, Ismail Nabeel; <span style ="color:purple">[**Linking precipitation-driven flooding events to acute respiratory illness in New York city**](https://www.sciencedirect.com/science/article/pii/S2667278226000520)</span>, **_The Journal of Climate Change and Health_** (2026) </span>
+
 1. <span style="text-align: justify"> Jamil M. Lane, Hsiao-Hsien Leon Hsu, Erika Osorio-Valencia, Itai Kloog, Emily Oken, Allan C. Just, <span style ="color:red">Vishal Midya</span>, Izzuddin Aris, Daniel N. Klein, Brent A. Coull, Martha M. Téllez-Rojo & Robert O. Wright; <span style ="color:purple">[**Inhibitory control mediates the association between perinatal PM2.5 exposure and childhood obesity in children in the PROGRESS cohort, Mexico City**](https://www.nature.com/articles/s43856-026-01699-z)</span>, **_Communications Medicine_** (2026) </span>
 
 1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, Deborah A Cory-Slechta, <span style ="color:red">Vishal Midya</span>, Shoshannah Eggers, Cecilia Alcala, Gabriela Gil-Martínez, Martha M Téllez Rojo, Robert O Wright; <span style ="color:purple">[**Sexual dimorphism in the programming effects of prenatal manganese multi-media biomarker on temporal cognition in school-aged children**](https://www.nature.com/articles/s41598-026-44007-4)</span>, **_Scientific Reports_** (2026) </span>
