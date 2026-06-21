@@ -169,8 +169,6 @@ PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl
 
 1. <span style="text-align: justify"> Sailendra N. Nichenametla, Dwight A. L. Mattocks, Diana Cooke, <span style ="color:red">Vishal Midya</span>, Virginia L. Malloy, Wilfredo Mansilla, Bente Øvrebø, Cheryl Turner, Nasser E. Bastani, Jitka Sokolová, Markéta Pavlíková, John P. Richie Jr., Anna K. Shoveller, Helga Refsum, Thomas Olsen, Kathrine J. Vinknes, Viktor Kožich, Gene P. Ables. (2022). <span style ="color:purple"> [**Cysteine restriction-specific effects of sulfur amino acid restriction on lipid metabolism**](https://onlinelibrary.wiley.com/doi/10.1111/acel.13739)</span>, **_Aging Cell_**, 00, e13739. </span>
 
-1. <span style="text-align: justify"> Pritish Mondal, <span style ="color:red">Vishal Midya</span>, Arshjot Khokhar, Shyama Sathianathan, Erick Forno, <span style ="color:purple"> [**Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study**](https://doi.org/10.3389/fped.2021.678174)</span>, **_Frontiers in Pediatrics - Pediatric Pulmonology_**, 2021; 9:678174. </span>
-
 1. <span style="text-align: justify"> Chaitra Rao, Sumathi T. A., Rashi Midha, Geet Oberoi, Bhoomika Kar, Masarrat Khan, Kshipra Vaidya,  <span style ="color:red">Vishal Midya</span>, Nitya Raman, Mona Gajre, Nandini Chatterjee Singh, <span style ="color:purple"> [**Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery**](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **_Annals of Dyslexia_**, , 71, 439–457, 2021. </span>
 
 1. <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; <span style ="color:red">Vishal Midya</span>, Valleesha N. Chandrashekar, Rajeshwara N. Achur, Srinivas B. Kakkilaya, Susanta K. Ghosh, Suchetha N. Kumari, D. Channe Gowda, <span style ="color:purple"> [**Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru**](https://link.springer.com/article/10.1007%2Fs12639-020-01288-4) </span>, **_Journal of Parasitic Diseases_**, 45(1), 176–190, 2021.</span>
@@ -179,12 +177,16 @@ PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl
 
 1. <span style="text-align: justify"> Kishore Punnath, Kiran K. Dayanand, Valleesha N. Chandrashekar, Rajeshwara N. Achur, Srinivas B. Kakkilaya, Susanta K. Ghosh, Benudhar Mukhi, <span style ="color:red">Vishal Midya</span>, Suchetha N. Kumari and D. Channe Gowda, <span style ="color:purple">[**Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India**](https://doi.org/10.1007/s00436-019-06540-2)</span>, **_Parasitology Research_**, 119, pages 1043–1056, 2020.</span
 
+1. <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [**Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists**](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
+
+## Pediatric Pulmonology
+
+1. <span style="text-align: justify"> Pritish Mondal, <span style ="color:red">Vishal Midya</span>, Arshjot Khokhar, Shyama Sathianathan, Erick Forno, <span style ="color:purple"> [**Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study**](https://doi.org/10.3389/fped.2021.678174)</span>, **_Frontiers in Pediatrics - Pediatric Pulmonology_**, 2021; 9:678174. </span>
+
+
 1. <span style="text-align: justify"> Arshjot Khokar, Athira Nair, <span style ="color:red">Vishal Midya</span>, Ashutosh Kumar, Ankita Sinharoy, Tariq Ali Ahmad, Mutasim Abu-Hasan, Pritish Mondal, <span style ="color:purple"> [**The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy**](https://doi.org/10.1002/mus.26623)</span>, **_Muscle and Nerve_**, 60: 286-291. </span>
 
 1. <span style="text-align: justify"> Pritish Mondal, Alison Yirinec, <span style ="color:red">Vishal Midya</span>, Binu-John Sankoorikal, Gayle Smink, Arshjot Khokhar, Mutasim Abu-Hasan, Rebecca Bascom, <span style ="color:purple">[**Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease**](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppul.24382)</span>, **_Pediatric Pulmonology_**. 2019; 54: 1422- 1430.  </span>
-
-1. <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [**Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists**](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
-
 
 ## Music & Emotion
 
