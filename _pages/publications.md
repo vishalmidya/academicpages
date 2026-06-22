@@ -8,8 +8,6 @@ redirect_from:
 ---
 --- 
 
-# Peer-reviewed Publications
-
 ## Dentine and Hair-based Elemental Models 
 
 1. <span style="text-align: justify">Danielle Land, Mallory Goldsworthy, Mona Hanna, Manish Arora, <span style ="color:red">Vishal Midya; </span> <span style ="color:purple">[**Retrospective cohort study protocol to determine prenatal and infant lead exposure using novel dentition analysis in Flint, Michigan: Flint Tooth FAIRY (Flint assessment of in-utero and at-risk young)**](https://bmjopen.bmj.com/content/16/2/e102844.abstract)</span>, **_BMJ Open_**, 16(2), e102844 (**_2026_**) </span>
