@@ -32,6 +32,8 @@ redirect_from:
 
 ## Gastrointestinal Inflammation & Environmental Health
 
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Amith S. Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim,..., Manasi Agrawal; <span style ="color:purple">[**Per-and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts**](https://www.sciencedirect.com/science/article/pii/S1542356526005136)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2026_**) </span>
+
 1. <span style="text-align: justify"> Agrawal, Manasi, <span style ="color:red">Vishal Midya</span>, and Jean-Frederic Colombel, <span style ="color:purple">[**Reply to Jiao and Ma**](https://www.sciencedirect.com/science/article/pii/S0016508525006456?via%3Dihub)</span>, S0016-5085, **_Gastroenterology_** (**_2025_**) </span>
 
 1. <span style="text-align: justify"> Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, 168(3), 608-611 (**_2024_**) </span>
