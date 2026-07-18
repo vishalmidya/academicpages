@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-I am an **assistant professor** of Environmental Health and Biostatistics in the Department of Environmental Medicine at **<span style = "color:blue">[Icahn School of Medicine, Mount Sinai](https://icahn.mssm.edu/about/departments/environmental-public-health)</span>**. Along with <span style = "color:blue">[Dr. Shoshannah Eggers](https://scholar.google.com/citations?hl=en&user=6JjgTmUAAAAJ)</span>, I serve as the co-director of the **[Microbial Exposomics Lab](https://sites.google.com/view/microbial-exposomics/home)**. My research interest lies in deciphering elemental "signatures" of homeostatic dysregulation that may serve as early warning signs of disorders, particularly neurodevelopmental (such as autism spectrum disorder and attention-deficit/hyperactivity disorder) and neurodegenerative diseases (such as ALS). I frequently use interpretable machine learning models to identify such signatures of elemental disruption.
+I am an **assistant professor** of Environmental Health and Biostatistics in the Department of Environmental Medicine at **<span style = "color:blue">[Icahn School of Medicine, Mount Sinai](https://icahn.mssm.edu/about/departments/environmental-public-health)</span>**. My primary research interest lies in deciphering elemental "signatures" of homeostatic dysregulation that may serve as early warning signs of disorders, particularly neurodevelopmental (such as autism spectrum disorder and attention-deficit/hyperactivity disorder) and neurodegenerative diseases (such as ALS). I frequently use interpretable machine learning models to identify such signatures of elemental disruption. Another avenue of my current research looks into the early-life effects of environmental chemical exposures on gastrointestinal health and other childhood outcomes. 
 
 Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Damaskini Valvi](https://profiles.mountsinai.org/valvi-damaskini)</span> at the Icahn School of Medicine, Mount Sinai, where I developed integrated statistical models to study how early life and life-course exposure to environmental chemicals impact cardio-metabolic health outcomes, with a particular focus on the mixture-effects and interactions of endocrine disrupting chemicals. I received PhD from _Division of Biostatistics and Bioinformatics_ at the <span style ="color:blue">[Pennsylvania State University](https://med.psu.edu/)</span> under <span style ="color:blue">[Jason Liao](https://sites.google.com/site/jiangangliao/)</span> and <span style ="color:blue">[Arthur Berg](http://www.personal.psu.edu/asb17/Homepage/Welcome.html)</span>. I wrote my thesis on <span style ="color:blue">[Frequentist and Bayesian hypothesis testing with a focus on meaningful effect sizes](https://www.proquest.com/pagepdf/2569643656?accountid=41157)</span> to enhance reproducibility in scientific studies. 
 
@@ -22,11 +22,4 @@ Previously I did a Post Doctoral Fellowship with <span style ="color:blue">[Dama
 1. <span style="font-size: 20px">**_Elemental Biodynamics_**
 
 
-<span style ="color:blue">**_Funding: I am supported by several NIH grants_**</span>  - 
-1. **NIEHS R21** - MPIs Vishal Midya (contact) and Shoshannah I. Eggers
-2. **NIEHS R35** - PI Manish Arora
-3. **NIEHS HHEAR program** - PI Susan Teitelbaum
-4. **NIEHS P30** -  PI Robert Wright
-5. **NIEHS R01** -  PI Dania Valvi
-6. **NIMH  R01** -  MPI Thomason & Trentacosta
-7. **NIAMSD/NIH/DHHS Women's Health K12** - PI Rosalind Wright
+<span style ="color:blue">**_Funding: I am supported by several NIH grants as PI/MPI or as Co-I_**</span>
