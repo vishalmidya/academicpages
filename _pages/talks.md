@@ -10,6 +10,9 @@ redirect_from:
 # Invited Talks
 
 ---
+
+* AI × Statistics: From Intelligent Models to Making a Real-World Difference, Joint Annual New Jersey and Princeton-Trenton Chapters of the American Statistical Association Chapters Spring Symposium, **_Rutgers RWJ Medical School_**, 26th June, 2026
+
 * Modern Statistical Learning for Complex Data: Methods and Applications, 39th New England Statistics Symposium, **_University of Connecticut, Storrs_**, 28 May, 2026
  
 * Invited Webinar on _Machine Learning in Environmental Epidemiology_, **_ISEE - North American Chapter_**, 23 March, 2026
