@@ -18,6 +18,8 @@ redirect_from:
 
 ## Machine learning in Environmental Health
 
+1. <span style="text-align: justify"> Jennifer Bobb, Chris Gennings, Marianthi-Anna Kioumourtzoglou, <span style ="color:red">Vishal Midya</span>; <span style ="color:purple"> [**Innovative Applied Epidemiology Methods for Analysis of Environmental Mixtures**](https://www.jeh.neha.org/article/164884-innovative-applied-epidemiology-methods-for-analysis-of-environmental-mixtures)</span>, Vol. 89, Issue 1, **_Journal of Environmental Health_** (**_2026_**)  </span>
+
 1. <span style="text-align: justify"> Parajuli, B.#, <span style ="color:red">Midya, V.#</span>, Kiddle, R., De Jager, N., Eggers, S., Spakowicz, D., Hoyd, R., Salhia, B., Chan, C. H. F., Churchman, M. L., Rounbehler, R. J., Yao, S., Rutkowski, M. R., Tarhini, A. A., Mudaranthakam, D. P., Masood, A., Bocklage, T. J., Lentz, R. W., Hatoum, H., Ilozumba, M. N., … Bosch, D. E. <span style ="color:purple">[**Primary tumor microbiomes predict distant metastasis of colorectal cancer**](https://www.nature.com/articles/s41698-025-01188-x)</span>, **_NPJ Precision Oncology_** (**_2025_**); #equal contribution </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and Chris Gennings. <span style ="color:purple"> [**Detecting Shape-based Interactions among Environmental Chemicals using an Ensemble of Exposure-Mixture Regression and Interpretable Machine Learning Tools**](https://link.springer.com/article/10.1007/s12561-023-09405-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231123&utm_content=10.1007/s12561-023-09405-6)</span>, **_Statistics in Bioscience_** (**_2023_**)  </span>
