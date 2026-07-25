@@ -5,6 +5,10 @@ title: "Media"
 author_profile: true
 ---
 
+1. <span style ="color:blue">[The Guardian](https://www.theguardian.com/environment/2026/jul/24/pfas-child-gut-inflammation)</span>
+
+1. <span style ="color:blue">[The Guardian](https://www.theguardian.com/us-news/2026/jul/06/air-pollution-childhood-obesity-study)</span>
+
 1. <span style ="color:blue">[The Guardian](https://www.theguardian.com/environment/2023/apr/06/forever-chemicals-infertility-women-pfas-blood)</span>
 
 2. <span style ="color:blue">[Health & Wellness section of The TODAY Show/NBC News](https://www.today.com/health/womens-health/causes-infertility-pfas-forever-chemicals-rcna76528)</span>
