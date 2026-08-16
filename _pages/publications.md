@@ -10,11 +10,27 @@ redirect_from:
 
 ## Dentine and Hair-based Elemental Models 
 
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya# </span>, Brooke G McKenna#, Amy L Salisbury, Mauro Martinez, Manish Arora, Patricia A Brennan; <span style ="color:purple">[**Perinatal C-Reactive Protein Levels Detected in Deciduous Teeth are Associated with Autism-Related Traits and Behavior Problems in School-Aged Children**](https://www.bpsgos.org/article/S2667-1743(26)00118-7/fulltext)</span>, **_Biological Psychiatry: Global Open Science_**, pp. 100805 (**_2026_**), #equal contribution </span>
+
 1. <span style="text-align: justify">Danielle Land, Mallory Goldsworthy, Mona Hanna, Manish Arora, <span style ="color:red">Vishal Midya; </span> <span style ="color:purple">[**Retrospective cohort study protocol to determine prenatal and infant lead exposure using novel dentition analysis in Flint, Michigan: Flint Tooth FAIRY (Flint assessment of in-utero and at-risk young)**](https://bmjopen.bmj.com/content/16/2/e102844.abstract)</span>, **_BMJ Open_**, 16(2), e102844 (**_2026_**) </span>
 
 1. <span style="text-align: justify"> Synnøve Stokke Jensen, <span style ="color:red">Vishal Midya</span>, Manish Arora, Ragnhild Eek Brandlistuen, Alexandra Havdahl, Gro Dehli Andersen, Kristin S Klock; <span style ="color:purple">[**Pre- and postnatal trace element levels in primary teeth of children with and without an autism spectrum diagnosis**](https://www.sciencedirect.com/science/article/pii/S0013935126003294)</span>, **_Environmental Research_** (**_2026_**) </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Ghalib Bello#, Angeline S. Andrew, Diane B. Re, Elijah Stommel, Manish Arora, <span style ="color:purple">[**Dysregulation of hair-strand-based elemental biodynamics in amyotrophic lateral sclerosis**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00351-2/fulltext)</span>, **_Lancet eBioMedicine_** (**_2025_**), #equal contribution</span>
+
+
+## Gastrointestinal Inflammation & Environmental Health
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Amith S. Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim,..., Manasi Agrawal; <span style ="color:purple">[**Per-and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts**](https://www.sciencedirect.com/science/article/pii/S1542356526005136)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2026_**) </span>
+
+1. <span style="text-align: justify"> Agrawal, Manasi, <span style ="color:red">Vishal Midya</span>, and Jean-Frederic Colombel, <span style ="color:purple">[**Reply to Jiao and Ma**](https://www.sciencedirect.com/science/article/pii/S0016508525006456?via%3Dihub)</span>, S0016-5085, **_Gastroenterology_** (**_2025_**) </span>
+
+1. <span style="text-align: justify"> Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, 168(3), 608-611 (**_2024_**) </span>
+
+1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal, <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, 74(3), 477-486 (**_2024_**) </span>
+
+1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#,  Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
+PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2023_**) #equal contribution </span>
 
 ## Machine learning in Environmental Health
 
@@ -31,19 +47,6 @@ redirect_from:
 1. <span style="text-align: justify"> Léa Maitre, Jean-Baptiste Guimbaud, Charline Warembourg, Nuria Güil-Oumrait, Paula Marcela Petrone, Marc Chadeau-Hyam, Martine Vrijheid, Xavier Basagaña, Juan R. Gonzalez, The Exposome Data Challenge Participant Consortium* (<span style ="color:red">Vishal Midya</span>), <span style ="color:purple"> [**State-of-the-art methods for exposure-health studies: Results from the exposome data challenge event**](https://www.sciencedirect.com/science/article/pii/S016041202200349X)</span>, **_Environment International_**, Volume 168, 107422, ISSN 0160-4120 (**_2022_**); *as a part of the consortium  </span>
 
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>#, Dan McGuire#, Renan Sauteraud#, <span style ="color:purple"> [**Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares**](https://ieeexplore.ieee.org/document/9006212)</span>,  **_2019 IEEE International Conference on Big Data (Big Data)_**, pp. 5836-5843 (**_2019_**); #_Equal contribution_</span>
-
-## Gastrointestinal Inflammation & Environmental Health
-
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Amith S. Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim,..., Manasi Agrawal; <span style ="color:purple">[**Per-and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts**](https://www.sciencedirect.com/science/article/pii/S1542356526005136)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2026_**) </span>
-
-1. <span style="text-align: justify"> Agrawal, Manasi, <span style ="color:red">Vishal Midya</span>, and Jean-Frederic Colombel, <span style ="color:purple">[**Reply to Jiao and Ma**](https://www.sciencedirect.com/science/article/pii/S0016508525006456?via%3Dihub)</span>, S0016-5085, **_Gastroenterology_** (**_2025_**) </span>
-
-1. <span style="text-align: justify"> Manasi Agrawal, Ryan C Ungaro, Palak Rajauria, Jared Magee, Lauren Petrick, <span style ="color:red">Vishal Midya</span>, on behalf of PREDICTS study collaborators, <span style ="color:purple">[**High-Serum Pesticide Levels Are Associated With Increased Odds of Inflammatory Bowel Disease in a Nested Case-Control Study**](https://www.sciencedirect.com/science/article/pii/S0016508524056920)</span>, **_Gastroenterology_**, 168(3), 608-611 (**_2024_**) </span>
-
-1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal, <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, 74(3), 477-486 (**_2024_**) </span>
-
-1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#,  Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
-PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2023_**) #equal contribution </span>
 
 ## Gut Microbiome & Environmental Health
 
