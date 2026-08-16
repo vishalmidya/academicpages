@@ -29,6 +29,8 @@ redirect_from:
 
 1. <span style="text-align: justify">  Estevinho, Maria Manuela,<span style ="color:red">Vishal Midya</span>, Shirley Cohen-Mekelburg, Kristine Højgaard Allin, Mathurin Fumery, Salome S. Pinho, Jean-Frederic Colombel, and Manasi Agrawal, <span style ="color:purple">[**Emerging role of environmental pollutants in inflammatory bowel disease risk, outcomes and underlying mechanisms**](https://gut.bmj.com/content/early/2024/08/30/gutjnl-2024-332523)</span>, **_Gut_**, 74(3), 477-486 (**_2024_**) </span>
 
+1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00125)</span>, **_Environment & Health_** (**_2024_**) #equal contribution</span>
+
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#,  Amith Maroli, Jared Magee, Lauren Petrick, Jean-Frederic Colombel on behalf of
 PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl substances (PFAS) exposure is associated with later occurrence of inflammatory bowel disease**](https://www.sciencedirect.com/science/article/pii/S1542356523010558)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2023_**) #equal contribution </span>
 
@@ -79,8 +81,6 @@ PREDICTS collaborators. <span style ="color:purple">[**Per- and poly-fluoroalkyl
 ## Metals & Environmental Health
 
 1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, Deborah A Cory-Slechta, <span style ="color:red">Vishal Midya</span>, Shoshannah Eggers, Cecilia Alcala, Gabriela Gil-Martínez, Martha M Téllez Rojo, Robert O Wright; <span style ="color:purple">[**Sexual dimorphism in the programming effects of prenatal manganese multi-media biomarker on temporal cognition in school-aged children**](https://www.nature.com/articles/s41598-026-44007-4)</span>, **_Scientific Reports_** (**_2026_**) </span>
-
-1. <span style="text-align: justify">  <span style ="color:red">Vishal Midya#</span>, Manasi Agrawal#, Leonid Tarassishin, Libni A. Torres-Olascoaga, Joseph Eggers,  Chris Gennings, Robert O. Wright, Manish Arora, Martha Maria Téllez-Rojo, Mellissa Picker, Inga Peter, Jeremiah J. Faith, Jean-Frederic Colombe, Shoshannah Eggers. <span style ="color:purple">[**Prenatal metal exposures and childhood gut microbial signatures are associated with elevated fecal calprotectin**](https://pubs.acs.org/doi/full/10.1021/envhealth.4c00125)</span>, **_Environment & Health_** (**_2024_**) #equal contribution</span>
 
 1. <span style="text-align: justify"> Jamil M Lane, Shelley H Liu, <span style ="color:red">Vishal Midya</span>, Cecilia S Alcala, Shoshannah Eggers, Katherine Svensson, Sandra Martinez-Medina, Megan K Horton, Roberta F White, Martha M Téllez-Rojo, Robert O Wright, <span style ="color:purple">[**Childhood Pb-induced cognitive dysfunction: structural equation modeling of hot and cold executive functions**](https://www.nature.com/articles/s41370-025-00761-7)</span>, **_Journal of exposure science & environmental epidemiology_** (**_2025_**) </span>
 
