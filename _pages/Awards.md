@@ -7,7 +7,7 @@ redirect_from:
 - /Awards.html
 ---
 
-# Major awards, fellowships and honors
+# Major awards, fellowships, grants and honors
 
 ---
 
