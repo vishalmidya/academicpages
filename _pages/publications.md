@@ -21,6 +21,8 @@ redirect_from:
 
 ## Gastrointestinal Inflammation & Environmental Health
 
+1. <span style="text-align: justify"> Manasi Agrawal, <span style ="color:red">Vishal Midya</span>, Alvise Vianello, Damaskini Valvi, Gilaad G. Kaplan & Jean-Frederic Colombel; <span style ="color:purple">[**The exposome and inflammatory bowel disease: a framework for primary and primordial prevention**](https://www.nature.com/articles/s41575-026-01260-2)</span>, **_Nature Reviews Gastroenterology & Hepatology_** (**_2026_**) #all authors contributed equally to all aspects of the article </span>
+
 1. <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Amith S. Maroli, Mellissa Picker, Georgia Dolios, Damaskini Valvi, Isabella Nguyen, Taegyu Kim,..., Manasi Agrawal; <span style ="color:purple">[**Per-and polyfluoroalkyl substances (PFAS) in early life is associated with childhood intestinal inflammation: analyses of three birth cohorts**](https://www.sciencedirect.com/science/article/pii/S1542356526005136)</span>, **_Clinical Gastroenterology and Hepatology_** (**_2026_**) </span>
 
 1. <span style="text-align: justify"> Agrawal, Manasi, <span style ="color:red">Vishal Midya</span>, and Jean-Frederic Colombel, <span style ="color:purple">[**Reply to Jiao and Ma**](https://www.sciencedirect.com/science/article/pii/S0016508525006456?via%3Dihub)</span>, S0016-5085, **_Gastroenterology_** (**_2025_**) </span>
