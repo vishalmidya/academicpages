@@ -11,11 +11,15 @@ redirect_from:
 
 ---
 
+## 2026
+
 * AI × Statistics: From Intelligent Models to Making a Real-World Difference, Joint Annual New Jersey and Princeton-Trenton Chapters of the American Statistical Association Chapters Spring Symposium, **_Rutgers RWJ Medical School_**, 26th June, 2026
 
 * Modern Statistical Learning for Complex Data: Methods and Applications, 39th New England Statistics Symposium, **_University of Connecticut, Storrs_**, 28 May, 2026
  
 * Invited Webinar on _Machine Learning in Environmental Epidemiology_, **_ISEE - North American Chapter_**, 23 March, 2026
+
+ ## 2025
 
 * Invited talk on _Interpretable Machine Learning Models in Environmental Health_, **_Baylor College of Medicine, Houston_**, 22 December, 2025
 
@@ -28,6 +32,8 @@ redirect_from:
 * Innovative Statistical and Machine-learning Methods for Assessing Environmental Exposures, 38th New England Statistics Symposium, **_Yale University, New Haven_**, 2nd June, 2025
 
 * AI and Machine Learning in Public Health, **_University of Bridgeport_**, 8th April, 2025
+
+ ## 2024
 
 * A Novel Application of Machine-Learning Tools to Identify Chemical-Chemical Interactions, Eleventh Triennial Symposium on Probability and Statistics, **_University of Calcutta_**, 27-30 December, 2024
   
@@ -43,12 +49,18 @@ redirect_from:
 
 * Prenatal metals, gut microbial cliques, and late childhood health outcomes,**_Instituto Nacional de Salud Pública (INSP) in Cuernavaca, México_**, 5th March, 2024
 
+## 2023
+
 * Novel statistical tools to study gut microbial exposomics and child health outcomes,**_National Institute of Environmental Health Sciences, Durham, NC_**, 7th November, 2023
   
 * Symposium on Exposure Mixture Methods, Conference of **_International Society of Environmental Epidemiology, Kaohsiung, Taiwan_**, 19th September, 2023
 
+## 2019
+
 * <span style ="color:purple"> [Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data](https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html)</span> (with Daniel McGuire & Renan sauteraud), *December 2019*
+  
 * Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
+  
 * Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
 
 ---
