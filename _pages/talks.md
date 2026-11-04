@@ -13,7 +13,7 @@ redirect_from:
 
 ## 2026
 
-* Statistical Frameworks for Evaluating Complex Co-Exposures and Mixtures, **_IS Global Barcelona, Spain_**, 4th November, 2026
+* Statistical Frameworks for Evaluating Complex Co-Exposures and Mixtures (with Bethany Knox), **_IS Global Barcelona, Spain_**, 4th November, 2026
 
 * Guest lecture on Epidemiology Methods, **_Penn State University, Harrisburg_**, 3 November, 2026
 
