@@ -13,6 +13,8 @@ redirect_from:
 
 ## 2026
 
+* Statistical Frameworks for Evaluating Complex Co-Exposures and Mixtures, **_IS Global Barcelona, Spain_**, 4th November, 2026
+
 * AI × Statistics: From Intelligent Models to Making a Real-World Difference, Joint Annual New Jersey and Princeton-Trenton Chapters of the American Statistical Association Chapters Spring Symposium, **_Rutgers RWJ Medical School_**, 26th June, 2026
 
 * Modern Statistical Learning for Complex Data: Methods and Applications, 39th New England Statistics Symposium, **_University of Connecticut, Storrs_**, 28 May, 2026
