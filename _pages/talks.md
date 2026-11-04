@@ -15,7 +15,7 @@ redirect_from:
 
 * Statistical Frameworks for Evaluating Complex Co-Exposures and Mixtures, **_IS Global Barcelona, Spain_**, 4th November, 2026
 
-* Guest lecture on Epidemiology Methods, Penn State University, Harrisburg, 3 November, 2026
+* Guest lecture on Epidemiology Methods, **_Penn State University, Harrisburg_**, Harrisburg, 3 November, 2026
 
 * AI × Statistics: From Intelligent Models to Making a Real-World Difference, Joint Annual New Jersey and Princeton-Trenton Chapters of the American Statistical Association Chapters Spring Symposium, **_Rutgers RWJ Medical School_**, 26th June, 2026
 
